@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SJ Group](http://www.surbanajurong.com/)** | **[Environmental Design Staff](https://jobright.ai/jobs/info/6971f35eb707bf728a4b897f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | Jan 22 |
+| ↳ | **[Environmental Design Staff](https://jobright.ai/jobs/info/6971f2accda45e6953583172?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | Jan 22 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6971be5c587dfa0bb55f8675?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montecito, CA | On Site | Jan 21 |
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6971ba3d333b6343a14e6e83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Cavazos, TX | On Site | Jan 21 |
 | **[Siemens](https://www.siemens.com)** | **[Smart Buildings Graphics Designer](https://jobright.ai/jobs/info/6971b21d587dfa0bb55f7b12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irving, TX | Hybrid | Jan 21 |
@@ -269,18 +271,17 @@ For a complete list, click the following sortable link below:
 | **[Sokal](https://www.gosokal.com/)** | **[Junior Graphic Designer/Graphic Designer](https://jobright.ai/jobs/info/696b01d55fc86241853a4ae8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | RALEIGH, North Carolina, United States | Hybrid | Jan 16 |
 | **[Arm](http://www.arm.com)** | **[Technical Author](https://jobright.ai/jobs/info/696ae468db26b618950e44a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 16 |
 | **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/696b02c9db26b618950e79cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Westside, CA | On Site | Jan 16 |
-| **[L. & J.G. Stickley](https://www.stickley.com)** | **[Interior Designer (Brookfield, CT)](https://jobright.ai/jobs/info/696d36e3db26b61895104ef8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brookfield,CT,US | On Site | Jan 16 |
 | **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Lillington, NC](https://jobright.ai/jobs/info/696b08525fc86241853a53e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lillington, NC | On Site | Jan 16 |
 | **[Bespoke Careers](https://www.bespokecareers.com/uk/)** | **[Interior Designer / Luxury San Francisco Design House](https://jobright.ai/jobs/info/696ac3315fc862418539dbcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 16 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer Print Associate](https://jobright.ai/jobs/info/696abde0db26b618950e0013?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Jan 16 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/696aed1e350cf438031222b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, Colorado | Remote | Jan 16 |
+| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696aedbddb26b618950e5918?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas | Remote | Jan 16 |
 | ↳ | **[Page Designer](https://jobright.ai/jobs/info/696af15d350cf43803122b35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts | Remote | Jan 16 |
-| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696ae2c75fc86241853a1380?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ohio | Remote | Jan 16 |
+| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696aed125fc86241853a2c6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota | Remote | Jan 16 |
 | ↳ | **[Page Designer](https://jobright.ai/jobs/info/696aee7e350cf43803122570?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennsylvania | Remote | Jan 16 |
+| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696ae2c75fc86241853a1380?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ohio | Remote | Jan 16 |
 | ↳ | **[Page Designer](https://jobright.ai/jobs/info/696ae4eadb26b618950e45e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado | Remote | Jan 16 |
 | ↳ | **[Page Designer](https://jobright.ai/jobs/info/696af0ea5fc86241853a3443?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida | Remote | Jan 16 |
-| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696aedbddb26b618950e5918?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas | Remote | Jan 16 |
-| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696aed125fc86241853a2c6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota | Remote | Jan 16 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer - Packaging](https://jobright.ai/jobs/info/696ad89e350cf4380311f894?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 16 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Assistant to the Creative Director, Oprah Daily](https://jobright.ai/jobs/info/696ab0045fc862418539b6c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 16 |
 | **[Floor Coverings International](https://floorcoveringsinternational.com)** | **[Design Associate](https://jobright.ai/jobs/info/696acb3cdb26b618950e16d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisville, KY | On Site | Jan 16 |
@@ -325,8 +326,4 @@ For a complete list, click the following sortable link below:
 | **[Woodbridge Interiors](https://www.woodbridgeinteriors.com/)** | **[Interior Designer/Design Consultant](https://jobright.ai/jobs/info/696d2dc55fc86241853c20ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monroeville, PA | On Site | Jan 15 |
 | **[Mental Health Systems](https://www.mhsinc.org)** | **[Layout Editor](https://jobright.ai/jobs/info/696974bef25a3800669819c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA, US | On Site | Jan 15 |
 | **[Marc Jacobs](http://www.marcjacobs.com)** | **[Designer Jewelry](https://jobright.ai/jobs/info/691540a66f36db06ef04d07c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 15 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69696fa1f25a380066980f92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jan 15 |
-| **[AM Agency](http://www.discoveram.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/696959261703f05405ab3257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hurst, TX | Hybrid | Jan 15 |
-| **[Real Fruit Bubble Tea](https://www.realfruitbubbletea.com)** | **[Junior Graphic Designer/Store Assist](https://jobright.ai/jobs/info/696960b01703f05405ab399f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edison, NJ | On Site | Jan 15 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Print Specialist](https://jobright.ai/jobs/info/69693ce31703f05405ab16d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saint Paul, MN | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
