@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Marketing Graphic Designer I](https://jobright.ai/jobs/info/6973b421206da320f49db3c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Jan 23 |
+| **[RBC](https://www.rbc.com)** | **[Content Designer](https://jobright.ai/jobs/info/6973aa0b206da320f49dae2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, New Jersey, United States of America | On Site | Jan 23 |
+| **[Canadian Bank Note Company, Limited](https://www.cbnco.com/)** | **[Secure Document Designer](https://jobright.ai/jobs/info/6952d747935649778e209538?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
+| **[supplyco](https://supplyco.ai)** | **[Designer](https://jobright.ai/jobs/info/6973a72637785856350d7e79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City, NY | Hybrid | Jan 23 |
+| **[Woolpert](http://www.woolpert.com)** | **[Architectural Designer - Healthcare](https://jobright.ai/jobs/info/6973a53c37785856350d7dab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Gables, FL | Hybrid | Jan 23 |
+| **[Martin City Marketing](https://www.martincitymarketing.com)** | **[Apparel Production Designer](https://jobright.ai/jobs/info/6973b1fd206da320f49db34d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | On Site | Jan 23 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC - Freelancer - Dawsonville, GA](https://jobright.ai/jobs/info/697388f0206da320f49d8632?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dawsonville, GA | On Site | Jan 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/690137384539ea1f2141dfa0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Antioch, TN | On Site | Jan 23 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68f7558dec6dbe7073fbd67f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | La Quinta, CA | On Site | Jan 23 |
@@ -97,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Designer, Magazine](https://jobright.ai/jobs/info/69729fd6584a1c1ef6fdabc9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[JAKKS Pacific](http://jakks.com)** | **[Sculptor - Seasonal Temp](https://jobright.ai/jobs/info/69729cd19b83b424830e9cf2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jan 22 |
 | **[Larson Communications](https://larsonpr.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69729345584a1c1ef6fd91f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 22 |
-| **[thelab](http://thelabnyc.com)** | **[Jr. UX Designer](https://jobright.ai/jobs/info/6972b3e24ccbf64f8df2befe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 22 |
 | **[WellNow Urgent Care](http://www.urgentteam.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6972adbd4ccbf64f8df2b8d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, New York | On Site | Jan 22 |
 | **[Woof](https://mywoof.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/697290be9b83b424830e832a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jan 22 |
 | **[Majesty Brands](https://www.majestybrands.com)** | **[PD/Technical Design Associate](https://jobright.ai/jobs/info/6972bd194ccbf64f8df2c823?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 22 |
@@ -323,10 +328,4 @@ For a complete list, click the following sortable link below:
 | **[Skylo](https://www.skylo.tech)** | **[Brand Designer](https://jobright.ai/jobs/info/696b18db350cf4380312750c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | Hybrid | Jan 16 |
 | **[Workato](http://www.workato.com)** | **[Brand Designer](https://jobright.ai/jobs/info/696b01295fc86241853a4a04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, California | Remote | Jan 16 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/696b0015350cf43803123f04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ohio, United States | Remote | Jan 16 |
-| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696af90c5fc86241853a3eeb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Remote | Jan 16 |
-| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696af8bfdb26b618950e6bbc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Remote | Jan 16 |
-| ↳ | **[Page Designer](https://jobright.ai/jobs/info/696af61a350cf43803123145?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota, United States | Remote | Jan 16 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Production Assistant, Media Production Group](https://jobright.ai/jobs/info/696af381350cf43803122fc6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 16 |
-| **[Giving Home Health Care](https://givinghomehealthcare.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/696aefc3350cf438031227fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 16 |
-| **[Arm](http://www.arm.com)** | **[Technical Author](https://jobright.ai/jobs/info/696aebf15fc86241853a2990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
