@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnard College](https://barnard.edu/)** | **[Research Assistant: Creative Coding](https://jobright.ai/jobs/info/6973f86f206da320f49e02ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City, NY | On Site | Jan 23 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Part Time Custom Framing Team Member](https://jobright.ai/jobs/info/6973f6d6bc8e722e7b18dd16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Amherst-1569 Niagara Falls Blvd, Ste 100 | On Site | Jan 23 |
+| **[RBC](https://www.rbc.com)** | **[Content Designer](https://jobright.ai/jobs/info/6973f1b6bc8e722e7b18d794?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, NJ | On Site | Jan 23 |
+| **[SmartShield Packaging](https://www.smartshieldpackaging.com)** | **[Custom Packaging Designer](https://jobright.ai/jobs/info/6973f030bc8e722e7b18d64f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cambridge, Ontario, Canada | On Site | Jan 23 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Design Professional I - 2026 Graduates](https://jobright.ai/jobs/info/6973ea36bc8e722e7b18c7fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Jan 23 |
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Architectural Designer/Drafter - Entry-Level](https://jobright.ai/jobs/info/6973e33c206da320f49ddbf2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Jan 23 |
 | ↳ | **[Architectural Designer/Drafter - Entry-Level](https://jobright.ai/jobs/info/6973e23dbc8e722e7b18b5a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 23 |
@@ -105,8 +109,7 @@ For a complete list, click the following sortable link below:
 | **[International Paper](http://www.internationalpaper.com/)** | **[Packaging Design Associate](https://jobright.ai/jobs/info/695716edf1f8465b79edd695?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, IL | On Site | Jan 23 |
 | **[Arup](http://www.arup.com)** | **[Graduate Architectural Designer (Available 2026)](https://jobright.ai/jobs/info/693bc00d49a7695fbd02aa28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Web Image Artist](https://jobright.ai/jobs/info/6973b9d3bc8e722e7b188d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Jan 22 |
-| **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/6973120e1790715e866c15fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Jan 22 |
-| ↳ | **[Interior Designer](https://jobright.ai/jobs/info/69730d0d694e99351d146307?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 22 |
+| **[Business of Home](https://businessofhome.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69730d0d694e99351d146307?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 22 |
 | **[SanMar](http://www.sanmar.com)** | **[Production Artist (Contract)](https://jobright.ai/jobs/info/6972f72d1790715e866be5a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 22 |
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer – Sleepwear Apparel](https://jobright.ai/jobs/info/6965a116a112b4026613a993?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Assistant Designer – Girls Apparel](https://jobright.ai/jobs/info/69659f132cbf4e44756f47c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 22 |
