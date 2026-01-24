@@ -360,5 +360,4 @@ For a complete list, click the following sortable link below:
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[Junior Creative Team (Art Director & Copywriter)](https://jobright.ai/jobs/info/696cee4fdb26b61895102a04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Canada | Hybrid | Jan 18 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/696c65b15fc86241853b9b64?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 17 |
 | **[VectorShift](https://www.vectorshift.me)** | **[Designer](https://jobright.ai/jobs/info/696c32885fc86241853b6734?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (IN) | Remote | Jan 17 |
-| **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/69693016639b452fb57effbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
