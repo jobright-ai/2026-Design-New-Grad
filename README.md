@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Business of Home](https://businessofhome.com)** | **[Junior Designer - Residential](https://jobright.ai/jobs/info/6975066dbc8e722e7b19ff5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Carlos, CA | On Site | Jan 24 |
+| ↳ | **[Senior/Junior Designer Positions](https://jobright.ai/jobs/info/6974ff3b206da320f49f2d34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roslyn, NY | On Site | Jan 24 |
+| ↳ | **[Design Associate](https://jobright.ai/jobs/info/6974fb2ebc8e722e7b19fe30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 24 |
+| ↳ | **[Interior Design Assistant](https://jobright.ai/jobs/info/6974fb28bc8e722e7b19fe27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 24 |
+| ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6974faa2206da320f49f2c46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 24 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f5b9206da320f49f125d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
 | ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f1ad37785856350eeb09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6974dccfbc8e722e7b19dd5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gallup, NM | On Site | Jan 24 |
@@ -97,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Designer, Apparel](https://jobright.ai/jobs/info/697424a1bc8e722e7b191a01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 23 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697420f8bc8e722e7b1915e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 23 |
 | **[SanMar](http://www.sanmar.com)** | **[Designer, Apparel](https://jobright.ai/jobs/info/69742039206da320f49e41ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 23 |
-| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
-| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
+| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
+| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/697416d0206da320f49e3033?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Coordinator, Creative](https://jobright.ai/jobs/info/69743a31bc8e722e7b1933eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1221 Avenue of The Americas, New York, NEW YORK | Hybrid | Jan 23 |
 | **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
@@ -358,7 +363,6 @@ For a complete list, click the following sortable link below:
 | **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/696dff08db26b6189510fab7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA (Torrance) | On Site | Jan 19 |
 | **[Infisical](https://infisical.com)** | **[Founding Designer (Americas)](https://jobright.ai/jobs/info/696ddebe350cf4380314aaa6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | Hybrid | Jan 18 |
 | ↳ | **[Founding Designer (Americas)](https://jobright.ai/jobs/info/696dd96b5fc86241853ca8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (US; BR; AR; CA; MX) | Remote | Jan 18 |
-| **[Business of Home](https://businessofhome.com)** | **[Junior Designer &amp; Design Assistant](https://jobright.ai/jobs/info/696dbb1a350cf43803149376?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Jr. Packaging Production Designer, rhode](https://jobright.ai/jobs/info/696d61f15fc86241853c4450?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | Hybrid | Jan 18 |
 | **[BRR Architecture](http://brrarch.com)** | **[Architectural Design Staff](https://jobright.ai/jobs/info/696d42f1350cf43803142492?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | On Site | Jan 18 |
 | **[Yoram LePair Architects](http://www.yoramlepair.com/)** | **[Junior Architect / Designer](https://jobright.ai/jobs/info/696cfb8d5fc86241853c029d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 18 |
