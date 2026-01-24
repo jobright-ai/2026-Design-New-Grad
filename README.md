@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Business of Home](https://businessofhome.com)** | **[Junior Designer &amp; Design Assistant](https://jobright.ai/jobs/info/69745dce206da320f49e9d30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 23 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[CAD Designer Job](https://jobright.ai/jobs/info/6974509b37785856350e639e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 23 |
 | **[SanMar](http://www.sanmar.com)** | **[Designer, Apparel](https://jobright.ai/jobs/info/6974502e206da320f49e8bb8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 23 |
 | **[Kohl's](https://corporate.kohls.com)** | **[Assistant Designer (On-Site)](https://jobright.ai/jobs/info/69744462206da320f49e67e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 23 |
@@ -360,5 +361,4 @@ For a complete list, click the following sortable link below:
 | **[VectorShift](https://www.vectorshift.me)** | **[Designer](https://jobright.ai/jobs/info/696c32885fc86241853b6734?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (IN) | Remote | Jan 17 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/69693016639b452fb57effbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Jan 17 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Corte Madera - Williams Sonoma](https://jobright.ai/jobs/info/69164daa9c388539cbdf9aaa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corte Madera, CA | On Site | Jan 17 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/696bbdbadb26b618950f43bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orland Park, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
