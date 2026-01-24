@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69752ca0206da320f49f3bed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753b2bbc8e722e7b1a288d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 24 |
+| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/69753afbbc8e722e7b1a287e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
+| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/69753a9b37785856350f3113?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Jan 24 |
+| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6975386c206da320f49f5725?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
+| ↳ | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753326206da320f49f564e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/69751ddd206da320f49f3629?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | On Site | Jan 24 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/6975135d206da320f49f2f75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | **[Business of Home](https://businessofhome.com)** | **[Junior Designer - Residential](https://jobright.ai/jobs/info/6975066dbc8e722e7b19ff5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Carlos, CA | On Site | Jan 24 |
@@ -65,8 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Associate](https://jobright.ai/jobs/info/6974fb2ebc8e722e7b19fe30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 24 |
 | ↳ | **[Interior Design Assistant](https://jobright.ai/jobs/info/6974fb28bc8e722e7b19fe27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 24 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6974faa2206da320f49f2c46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 24 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f5b9206da320f49f125d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
-| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f1ad37785856350eeb09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6974dccfbc8e722e7b19dd5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gallup, NM | On Site | Jan 24 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6974d99e37785856350ee283?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshfield, WI | On Site | Jan 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ce1a4aa598a08c3eda847?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Venice, FL | On Site | Jan 24 |
