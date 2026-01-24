@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
+| **[PBK](https://pbk.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/69740efb206da320f49e1c75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/697405debc8e722e7b18ea4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 40 Water Street, Boston, MA, 02109, US | Hybrid | Jan 23 |
 | **[Kohl's](https://corporate.kohls.com)** | **[Assistant Designer (On-Site)](https://jobright.ai/jobs/info/697405ba37785856350dee23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York Design Office (0908) | On Site | Jan 23 |
 | **[SJF Material Handling Inc.](https://www.sjf.com)** | **[Entry-Level CAD Designer / Project Coordinator](https://jobright.ai/jobs/info/6973ffe137785856350de800?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winsted, MN | Hybrid | Jan 23 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Design Assistant, Handbags](https://jobright.ai/jobs/info/6972a49e4ccbf64f8df2b05c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[The New York Times](https://www.nytco.com/)** | **[Designer, Magazine](https://jobright.ai/jobs/info/69729fd6584a1c1ef6fdabc9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[JAKKS Pacific](http://jakks.com)** | **[Sculptor - Seasonal Temp](https://jobright.ai/jobs/info/69729cd19b83b424830e9cf2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jan 22 |
-| **[Larson Communications](https://larsonpr.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69729345584a1c1ef6fd91f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[WellNow Urgent Care](http://www.urgentteam.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6972adbd4ccbf64f8df2b8d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, New York | On Site | Jan 22 |
 | **[Woof](https://mywoof.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/697290be9b83b424830e832a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jan 22 |
 | **[Majesty Brands](https://www.majestybrands.com)** | **[PD/Technical Design Associate](https://jobright.ai/jobs/info/6972bd194ccbf64f8df2c823?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 22 |
@@ -248,7 +249,6 @@ For a complete list, click the following sortable link below:
 | **[ZGF Architects](https://www.zgf.com/)** | **[Entry-Level Architect](https://jobright.ai/jobs/info/69701dd682817106e97735d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 20 |
 | **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Rock Hill, SC](https://jobright.ai/jobs/info/697037f151f7264771826894?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rock Hill, SC | On Site | Jan 20 |
 | **[Fuser](https://fuser.studio)** | **[Jr. Product Designer](https://jobright.ai/jobs/info/69708f3151f726477182d193?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | Jan 20 |
-| **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Production Assistant, Creative Marketing](https://jobright.ai/jobs/info/697010753ed06875134b0ef3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 20 |
 | **[CACI bv](https://www.caci.nl)** | **[UI/UX Designer - Government Systems](https://jobright.ai/jobs/info/69702b62333b6343a14c9392?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dulles, VA | On Site | Jan 20 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Creative Services Assistant (Part-Time)](https://jobright.ai/jobs/info/6970287b587dfa0bb55daab2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisonburg, VA | On Site | Jan 20 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Seasonal Flex Only, Fresno - Pottery Barn](https://jobright.ai/jobs/info/68e13183f758fe1f97e5488c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jan 20 |
@@ -350,7 +350,4 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Coordinator - Pottery Barn Brands](https://jobright.ai/jobs/info/69339593f131d96e48464a05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 17 |
 | **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/691971b045fb6f5ead8a8aa3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 17 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6895495b73b3a600fe886441?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greensboro, NC | On Site | Jan 17 |
-| **[Skylo](https://www.skylo.tech)** | **[Brand Designer](https://jobright.ai/jobs/info/696b58475fc86241853ac46b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | Hybrid | Jan 17 |
-| **[Pactiv Evergreen Inc.](https://www.pactivevergreen.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/694a01c07d506e3808f51d95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baxter Springs, KS | On Site | Jan 17 |
-| ↳ | **[Packaging Associate I](https://jobright.ai/jobs/info/69636bce2cbf4e44756d2968?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
