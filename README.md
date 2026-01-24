@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Under Armour](http://underarmour.com)** | **[Footwear Designer I, Sportswear](https://jobright.ai/jobs/info/6958627aaa05c26e7ab23ee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Jan 24 |
+| **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/6941836950bbaf7650535b9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jan 24 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/6933b7a7a0dde7020e2f0d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 24 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Jan 24 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69582408aa05c26e7ab20400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 24 |
-| **[Jeda Media Group](https://jedamedia.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6974960b206da320f49edb90?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewiston, ID | On Site | Jan 24 |
-| ↳ | **[Digital Media Specialist](https://jobright.ai/jobs/info/6974951237785856350eb46a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewiston, ID | On Site | Jan 24 |
+| **[Jeda Media Group](https://jedamedia.com/)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/6974951237785856350eb46a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewiston, ID | On Site | Jan 24 |
+| ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/6974960b206da320f49edb90?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewiston, ID | On Site | Jan 24 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/69746f0a206da320f49ead37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Jan 23 |
 | ↳ | **[Junior Designer &amp; Design Assistant](https://jobright.ai/jobs/info/69745dce206da320f49e9d30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 23 |
 | ↳ | **[Junior Interior Designer (Hybrid)](https://jobright.ai/jobs/info/69747333bc8e722e7b1985fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Rock, NJ | Hybrid | Jan 23 |
