@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stantec](http://www.stantec.com)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/697405debc8e722e7b18ea4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 40 Water Street, Boston, MA, 02109, US | Hybrid | Jan 23 |
+| **[Kohl's](https://corporate.kohls.com)** | **[Assistant Designer (On-Site)](https://jobright.ai/jobs/info/697405ba37785856350dee23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York Design Office (0908) | On Site | Jan 23 |
+| **[SJF Material Handling Inc.](https://www.sjf.com)** | **[Entry-Level CAD Designer / Project Coordinator](https://jobright.ai/jobs/info/6973ffe137785856350de800?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winsted, MN | Hybrid | Jan 23 |
+| **[Saks Global](https://www.saksglobal.com)** | **[Womens Designer RTW](https://jobright.ai/jobs/info/6973ffcf206da320f49e0fa8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NM_0237_SAN ANTONIO | On Site | Jan 23 |
+| **[McCombs Properties](https://www.mccombsproperties.com)** | **[Content Creator](https://jobright.ai/jobs/info/6973fc55206da320f49e0cb9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Aransas, TX | On Site | Jan 23 |
 | **[Barnard College](https://barnard.edu/)** | **[Research Assistant: Creative Coding](https://jobright.ai/jobs/info/6973f86f206da320f49e02ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City, NY | On Site | Jan 23 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Custom Framing Team Member](https://jobright.ai/jobs/info/6973f6d6bc8e722e7b18dd16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Amherst-1569 Niagara Falls Blvd, Ste 100 | On Site | Jan 23 |
 | **[RBC](https://www.rbc.com)** | **[Content Designer](https://jobright.ai/jobs/info/6973f1b6bc8e722e7b18d794?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, NJ | On Site | Jan 23 |
@@ -113,9 +118,7 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Production Artist (Contract)](https://jobright.ai/jobs/info/6972f72d1790715e866be5a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 22 |
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer – Sleepwear Apparel](https://jobright.ai/jobs/info/6965a116a112b4026613a993?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Assistant Designer – Girls Apparel](https://jobright.ai/jobs/info/69659f132cbf4e44756f47c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 22 |
-| **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ26591.1](https://jobright.ai/jobs/info/6972e95498522904c697bb41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Jan 22 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Coordinator, Creative Designer](https://jobright.ai/jobs/info/6972e7f698522904c697ba6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 22 |
-| **[thelab](http://thelabnyc.com)** | **[Jr. UX Designer](https://jobright.ai/jobs/info/6973bd7abc8e722e7b188f18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 22 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/6972fe5d206da320f49cf39c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[The New York Times](https://www.nytco.com/)** | **[Designer, Magazine](https://jobright.ai/jobs/info/6972fe6f694e99351d144403?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 22 |
 | **[The ODP Corporation](https://news.theodpcorp.com/newsroom)** | **[Print Production Environment - Shift Production Lead - toner/inkjet](https://jobright.ai/jobs/info/6972f68c1790715e866be526?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Itasca, IL | On Site | Jan 22 |
