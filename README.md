@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kohl's](https://corporate.kohls.com)** | **[Assistant Designer (On-Site)](https://jobright.ai/jobs/info/69744462206da320f49e67e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 23 |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697441e0bc8e722e7b193ae7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, CA | On Site | Jan 23 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Womens Designer RTW](https://jobright.ai/jobs/info/69744080206da320f49e653d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Jan 23 |
 | **[lululemon](http://shop.lululemon.com)** | **[Design Assistant, Knits / Contract until July 2026](https://jobright.ai/jobs/info/69743d04bc8e722e7b193718?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[CAD Designer](https://jobright.ai/jobs/info/69743903bc8e722e7b192dec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, Illinois, United States | On Site | Jan 23 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Designer, Apparel](https://jobright.ai/jobs/info/697424a1bc8e722e7b191a01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 23 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697420f8bc8e722e7b1915e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 23 |
 | **[SanMar](http://www.sanmar.com)** | **[Designer, Apparel](https://jobright.ai/jobs/info/69742039206da320f49e41ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 23 |
-| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
-| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/697416d0206da320f49e3033?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Jan 23 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Coordinator, Creative](https://jobright.ai/jobs/info/69743a31bc8e722e7b1933eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1221 Avenue of The Americas, New York, NEW YORK | Hybrid | Jan 23 |
 | **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
@@ -281,7 +283,6 @@ For a complete list, click the following sortable link below:
 | **[Marvin](http://www.marvin.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/696fd6dc82817106e976dada?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MN-Warroad | On Site | Jan 20 |
 | **[PrintingCenterUSA](https://www.printingcenterusa.com)** | **[Graphic Designer (In-House Marketing)](https://jobright.ai/jobs/info/696fce3e82817106e976d80c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Great Falls, MT | On Site | Jan 20 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Design Assistant - Women's Blouses](https://jobright.ai/jobs/info/696fe9ff3ed06875134ad48f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 20 |
-| **[JBG SMITH](https://www.jbgsmith.com/)** | **[Graphic Designer - Brand + Marketing](https://jobright.ai/jobs/info/6940c0ed49a7695fbd063d38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Jan 20 |
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Junior Industrial Designer](https://jobright.ai/jobs/info/696fc7300f4e0f657ea413da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 20 |
 | **[Sterling Engineering](http://sterling-engineering.com)** | **[Architectural Drafter](https://jobright.ai/jobs/info/696fc51782817106e976d335?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carbondale, PA | On Site | Jan 20 |
 | **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Hillsborough, NC](https://jobright.ai/jobs/info/696fea7d0f4e0f657ea4322a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hillsborough, NC | On Site | Jan 20 |
@@ -360,5 +361,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/696ba07e5fc86241853afceb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 17 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/696b9d7adb26b618950f25da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vails Gate, NY | On Site | Jan 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f952596de2db04dc3e84c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lafayette, LA | On Site | Jan 17 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Coordinator - Pottery Barn Brands](https://jobright.ai/jobs/info/69339593f131d96e48464a05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
