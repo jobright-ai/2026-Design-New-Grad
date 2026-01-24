@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f5b9206da320f49f125d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
+| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f1ad37785856350eeb09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6974dccfbc8e722e7b19dd5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gallup, NM | On Site | Jan 24 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6974d99e37785856350ee283?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshfield, WI | On Site | Jan 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ce1a4aa598a08c3eda847?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Venice, FL | On Site | Jan 24 |
@@ -374,5 +376,4 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Maple Grove - Pottery Barn](https://jobright.ai/jobs/info/686c5b1035584b65423f9f05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maple Grove, MN | On Site | Jan 18 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[Junior Creative Team (Art Director & Copywriter)](https://jobright.ai/jobs/info/696cee4fdb26b61895102a04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Canada | Hybrid | Jan 18 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/696c65b15fc86241853b9b64?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 17 |
-| **[VectorShift](https://www.vectorshift.me)** | **[Designer](https://jobright.ai/jobs/info/696c32885fc86241853b6734?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (IN) | Remote | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
