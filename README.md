@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Associate](https://jobright.ai/jobs/info/6974fb2ebc8e722e7b19fe30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 24 |
 | ↳ | **[Interior Design Assistant](https://jobright.ai/jobs/info/6974fb28bc8e722e7b19fe27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 24 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6974faa2206da320f49f2c46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 24 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6974f5b9206da320f49f125d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6974d99e37785856350ee283?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshfield, WI | On Site | Jan 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ce1a4aa598a08c3eda847?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Venice, FL | On Site | Jan 24 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/693b8978b309e3780087351e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, MS | On Site | Jan 24 |
