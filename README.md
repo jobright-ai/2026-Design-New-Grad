@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6976262337785856350fe988?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flushing, MI | On Site | Jan 25 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[UI Technical Designer](https://jobright.ai/jobs/info/689542a18c6d6b4426778662?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jan 25 |
 | **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/68cad1f69e3a822f5d23f49b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morton, IL | On Site | Jan 25 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Daily Artist (Project-Based)](https://jobright.ai/jobs/info/69219e20a49a885af9a46f74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 25 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/691fe9ac3f782d2f1afc169b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, NC | On Site | Jan 24 |
 | **[RA Capital Management](http://www.racap.com)** | **[Junior Graphic and Web Designer](https://jobright.ai/jobs/info/69417ac6bdcf884a5add41a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Jan 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ceebd49a7695fbd0397f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | On Site | Jan 24 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/693ce5f250bbaf7650500b29?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Jan 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69585eee9f1b381eb2713e4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Staten Island, NY | On Site | Jan 24 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/693ce5f250bbaf7650500b29?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Jan 24 |
 | **[Under Armour](http://underarmour.com)** | **[Footwear Designer I, Sportswear](https://jobright.ai/jobs/info/6958627aaa05c26e7ab23ee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Jan 24 |
 | **[Orveon Global](http://orveonglobal.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68e6b581e8daec61499adb52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 24 |
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/6941836950bbaf7650535b9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jan 24 |
@@ -178,6 +179,7 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[Jr. Footwear Designer](https://jobright.ai/jobs/info/690183354539ea1f21420b86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manhattan Beach, CA | On Site | Jan 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e7408ae8daec61499b3a99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Jan 23 |
 | **[BRP](https://www.brp.com/en/)** | **[Peintre](https://jobright.ai/jobs/info/691db150ad5a5170347955a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valcourt, Quebec, Canada | On Site | Jan 23 |
+| **[Adrianna Papell](http://www.adriannapapell.com)** | **[Design Assistant - Women's Apparel](https://jobright.ai/jobs/info/6972743d9b83b424830e632c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 23 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Exhibition Designer](https://jobright.ai/jobs/info/691e351ca49a885af9a263bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 23 |
 | **[Company 3](http://www.company3.com)** | **[FX Artist (General Submission)](https://jobright.ai/jobs/info/691e47043f782d2f1afb3492?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Toronto Area, Canada | Remote | Jan 23 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Golf – Creative Coordinator](https://jobright.ai/jobs/info/6933cb9ff131d96e4846714c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Jan 23 |
@@ -216,7 +218,6 @@ For a complete list, click the following sortable link below:
 | **[rEvolution](https://www.revolutionworld.com/)** | **[Production Artist](https://jobright.ai/jobs/info/697276dc9b83b424830e65b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69727545584a1c1ef6fd6f4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Jan 22 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Temp - Graphic Thumbnail Designer](https://jobright.ai/jobs/info/697265f5584a1c1ef6fd6860?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA  NY - New York - 37 W 28th St | Hybrid | Jan 22 |
-| **[Adrianna Papell](http://www.adriannapapell.com)** | **[Design Assistant](https://jobright.ai/jobs/info/6972743d9b83b424830e632c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69727cfc4ccbf64f8df26f43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tukwila, WA | On Site | Jan 22 |
 | **[Skillable](https://skillable.com)** | **[Associate UX/UI Designer](https://jobright.ai/jobs/info/697275fb9b83b424830e64b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[Js Pro Construction](http://jsproconstruction.com)** | **[Interior Design Administrative Assistant](https://jobright.ai/jobs/info/69727440584a1c1ef6fd6ebd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Creek, NJ | On Site | Jan 22 |
