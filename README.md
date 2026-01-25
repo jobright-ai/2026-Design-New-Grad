@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MANSCAPED](https://manscaped.com)** | **[THE MANSCAPED® CREATIVE NETWORK](https://jobright.ai/jobs/info/69764a8937785856351006d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 25 |
+| **[Business of Home](https://businessofhome.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69764931206da320f4a02a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6976262337785856350fe988?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flushing, MI | On Site | Jan 25 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[UI Technical Designer](https://jobright.ai/jobs/info/689542a18c6d6b4426778662?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jan 25 |
 | **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/68cad1f69e3a822f5d23f49b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morton, IL | On Site | Jan 25 |
@@ -273,7 +275,6 @@ For a complete list, click the following sortable link below:
 | **[Innout](https://innoutdesigner.com)** | **[Marketing Graphic Designer I](https://jobright.ai/jobs/info/69714c20587dfa0bb55ee70c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Jan 21 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/69712b80333b6343a14d9c53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jan 21 |
 | **[UNIFY Solutions](https://unifysolutions.net)** | **[UI/UX Designers & Product Managers – Healthcare Domain](https://jobright.ai/jobs/info/69714c2b587dfa0bb55ee71d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irving, TX | On Site | Jan 21 |
-| **[Twelve](https://twelvenyc.com)** | **[Junior Packaging Designer](https://jobright.ai/jobs/info/69711c9551f7264771835580?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Jan 21 |
 | **[Novolex](http://www.novolex.com/)** | **[Packaging Associate](https://jobright.ai/jobs/info/69710e98333b6343a14d8a17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baxter Springs, KS | On Site | Jan 21 |
 | ↳ | **[Packaging Associate I](https://jobright.ai/jobs/info/697109cc333b6343a14d870a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Jan 21 |
 | **[Nationwide Marketing Group](http://www.nationwidegroup.org)** | **[Promotions Web Designer](https://jobright.ai/jobs/info/6971043d51f72647718334ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote US - For Recruitment Purposes Only, Remote, US | Remote | Jan 21 |
