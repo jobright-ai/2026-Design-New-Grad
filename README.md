@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Brand Motion Graphics Producer, NBCU Local Chicago](https://jobright.ai/jobs/info/6977ac7c52f3c27ec643c4c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 26 |
+| **[Capozzi Design Build](https://capozzidesigngroup.com/)** | **[Design Assistant (Chief Architect Required)](https://jobright.ai/jobs/info/6977ae9e88e2b47213bb9cb8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chagrin Falls, OH | On Site | Jan 26 |
 | **[VectorShift](https://www.vectorshift.me)** | **[Designer](https://jobright.ai/jobs/info/69776b53fdeb8243a27a3bd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IN / Remote (IN) | Remote | Jan 26 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, New York City - West Elm](https://jobright.ai/jobs/info/68deafb844d32141e0c0190b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 26 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Associate Artist, Graphic Operations (Production)](https://jobright.ai/jobs/info/6967f70c1703f05405a9933f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 26 |
@@ -360,6 +362,4 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/694558c19516540735376ad0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 20 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Boulder- West Elm](https://jobright.ai/jobs/info/66d0e27a1337b911efaee309?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | Remote | Jan 19 |
 | **[Clayco](http://www.claycorp.com/)** | **[Designer I](https://jobright.ai/jobs/info/696ee0fddb26b6189511fe47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nationwide, USA, United States | On Site | Jan 19 |
-| **[VML HEALTH](http://vml.com)** | **[Art Director (Junior)](https://jobright.ai/jobs/info/6965d5982cbf4e44756f929c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Custom Designer/Framer](https://jobright.ai/jobs/info/696ef3c79c3c52633455aab9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose-1444 Kooser Rd | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
