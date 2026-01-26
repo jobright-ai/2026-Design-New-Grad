@@ -382,6 +382,4 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/696e426edb26b61895113069?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canandaigua, NY 14424 | On Site | Jan 19 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8bf86d627244576e35369?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clermont, FL | On Site | Jan 19 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c54592db52c07d288421cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parkville, MD | On Site | Jan 19 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68e04c05f758fe1f97e4c125?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Richland Hills, TX | On Site | Jan 19 |
-| **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn Kids](https://jobright.ai/jobs/info/68e02ddc1852e62f007e83ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
