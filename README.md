@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VectorShift](https://www.vectorshift.me)** | **[Designer](https://jobright.ai/jobs/info/69776b53fdeb8243a27a3bd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IN / Remote (IN) | Remote | Jan 26 |
+| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, New York City - West Elm](https://jobright.ai/jobs/info/68deafb844d32141e0c0190b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 26 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Associate Artist, Graphic Operations (Production)](https://jobright.ai/jobs/info/6967f70c1703f05405a9933f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 26 |
 | **[Rolling Landscapes Inc](https://www.rollinglandscapes.com)** | **[CAD Designer / Junior Landscape Architect](https://jobright.ai/jobs/info/6976e025bc8e722e7b1b55bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lemont, IL | On Site | Jan 25 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/69764f3bbc8e722e7b1af951?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 25 |
 | ↳ | **[Design Associate](https://jobright.ai/jobs/info/69764f22206da320f4a02afc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 25 |
@@ -165,7 +168,6 @@ For a complete list, click the following sortable link below:
 | **[Stauffers of Kissel Hill](http://skh.com)** | **[Landscape Team Member](https://jobright.ai/jobs/info/6973c498206da320f49dbc60?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manheim, PA, US | On Site | Jan 23 |
 | **[Elevate](https://elevate.law)** | **[Junior Graphic and Web Design Specialist](https://jobright.ai/jobs/info/6973d8d0206da320f49dd34f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salisbury, NC | Hybrid | Jan 23 |
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Architectural Designer/Drafter - Entry-Level](https://jobright.ai/jobs/info/6973da00bc8e722e7b18a998?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 23 |
-| **[Business of Home](https://businessofhome.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6973b8e6206da320f49db616?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montecito, CA | On Site | Jan 23 |
 | **[Office Depot](http://officedepot.com)** | **[Print Production Environment - Shift Production Lead - toner/inkjet](https://jobright.ai/jobs/info/6973b6e3206da320f49db4e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Itasca, IL | On Site | Jan 23 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Designer - Healthcare](https://jobright.ai/jobs/info/6973b6ad206da320f49db4cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Gables, FL | On Site | Jan 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Marketing Graphic Designer I](https://jobright.ai/jobs/info/6973b421206da320f49db3c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Jan 23 |
@@ -366,5 +368,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/696ec13c350cf4380315ad4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nanuet, NY | On Site | Jan 19 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/696ebf81350cf4380315aca0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Ridge North, TX | On Site | Jan 19 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Oakbrook - Pottery Barn](https://jobright.ai/jobs/info/68d7554061a175619f8c8b19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Brook, IL | On Site | Jan 19 |
-| **[Floor Coverings International](https://floorcoveringsinternational.com)** | **[Design Associate](https://jobright.ai/jobs/info/696eb1195fc86241853d8c0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
