@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 25 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/6971c10d333b6343a14e768e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 25 |
 | ↳ | **[Assistant Designer - J.Crew Factory Womens Wovens](https://jobright.ai/jobs/info/69463811d1953b5d11bf676e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 25 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Web Designer](https://jobright.ai/jobs/info/69770907fdeb8243a279e6ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 25 |
 | **[Design Observer](http://designobserver.com/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/6975460cbc8e722e7b1a2977?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | On Site | Jan 24 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753b2bbc8e722e7b1a288d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 24 |
 | ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/69753afbbc8e722e7b1a287e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
@@ -376,6 +377,4 @@ For a complete list, click the following sortable link below:
 | **[KJUS | Worldwide](https://www.kjus.com)** | **[KJUS / Fit Model](https://jobright.ai/jobs/info/68e126491852e62f007f1c45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Jan 19 |
 | **[Aria Group](http://www.ariainc.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/696e5928db26b6189511391c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Park, IL | Hybrid | Jan 19 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Floral Designer](https://jobright.ai/jobs/info/696e53a8db26b61895113686?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshall, E Main Street, Marshall, MN | On Site | Jan 19 |
-| **[Northland Design & Build](https://linktr.ee/northlandbuild)** | **[Designer](https://jobright.ai/jobs/info/696e533c350cf43803150f42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Azalea, OR | On Site | Jan 19 |
-| **[Sagan Recruitment](https://saganrecruitment.com/career)** | **[Signage Graphic Designer](https://jobright.ai/jobs/info/69179345bcdbf3560c9c9024?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Latin America | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
