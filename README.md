@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Closet Factory](https://www.closetfactory.com/)** | **[Designer](https://jobright.ai/jobs/info/6978a28852f3c27ec644eec7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brighton, MI | On Site | Jan 27 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695c5e0522c9dc0d3d5458c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Jan 27 |
+| **[Closet Factory](https://www.closetfactory.com/)** | **[Designer](https://jobright.ai/jobs/info/6978a31352f3c27ec644eee0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plymouth, MI | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ26591.1](https://jobright.ai/jobs/info/69787bd252f3c27ec644c8d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Jan 27 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Womens Designer RTW](https://jobright.ai/jobs/info/69744080206da320f49e653d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Jan 27 |
 | **[NetherRealm Studios (WB Games)](http://www.netherrealm.com/)** | **[Associate Technical Artist, Cloth (Temp)](https://jobright.ai/jobs/info/695c7c955e4962051b599b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
+| ↳ | **[Associate Technical Artist, FX (Temp)](https://jobright.ai/jobs/info/695c8f4a9a87b95a9397e33a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69785a2d39f7f96cc6d0c8b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Creek, WI | On Site | Jan 26 |
 | **[Export Packers Company Limited](https://exportpackers.com/)** | **[Packaging Designer](https://jobright.ai/jobs/info/692e3cab4c474121999d7842?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brampton, Ontario, Canada | Hybrid | Jan 26 |
 | **[Medallion Home](https://medallionhome.com/)** | **[Revit Drafter](https://jobright.ai/jobs/info/69784abd52f3c27ec644936e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sarasota, FL | On Site | Jan 26 |
@@ -180,8 +184,8 @@ For a complete list, click the following sortable link below:
 | **[Blink UX](http://blinkux.com)** | **[IT Coordinator](https://jobright.ai/jobs/info/69742162bc8e722e7b19166c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697420f8bc8e722e7b1915e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 23 |
 | **[SanMar](http://www.sanmar.com)** | **[Designer, Apparel](https://jobright.ai/jobs/info/69742039206da320f49e41ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Jan 23 |
-| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
-| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
 | **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
 | **[PBK](https://pbk.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/69740efb206da320f49e1c75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Jan 23 |
 | **[Kohl's](https://corporate.kohls.com)** | **[Assistant Designer (On-Site)](https://jobright.ai/jobs/info/697405ba37785856350dee23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York Design Office (0908) | On Site | Jan 23 |
@@ -371,5 +375,4 @@ For a complete list, click the following sortable link below:
 | **[Vince](http://vince.com)** | **[Assistant Designer - Men's](https://jobright.ai/jobs/info/697016dc82817106e977319a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 20 |
 | **[Carle Health](http://www.carle.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/697013860f4e0f657ea46f5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Champaign, IL | On Site | Jan 20 |
 | **[Vince](http://vince.com)** | **[Assistant Designer - Men's](https://jobright.ai/jobs/info/696fef4f0f4e0f657ea4373f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA, US | On Site | Jan 20 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Art Director](https://jobright.ai/jobs/info/694b566c1a572a617dddabf1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
