@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC - Freelancer - Dawsonville, GA](https://jobright.ai/jobs/info/697388f0206da320f49d8632?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dawsonville, GA | On Site | Jan 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6978d33052f3c27ec64519df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kahului, HI | On Site | Jan 27 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6978dcd152f3c27ec6451f4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richland, WA | On Site | Jan 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695c68025e4962051b5983d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Levittown, PA | On Site | Jan 27 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Jan 27 |
 | **[Closet Factory](https://www.closetfactory.com/)** | **[Designer](https://jobright.ai/jobs/info/6978a28852f3c27ec644eec7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brighton, MI | On Site | Jan 27 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Wasatch Peaks Credit Union](https://www.wasatchpeaks.com/)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/69781b37fdeb8243a27b0eda?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ogden,UT,US | On Site | Jan 26 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69781ac4fdeb8243a27b0e52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | The Colony, TX | On Site | Jan 26 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[GRAPHIC DESIGN COORDINATOR](https://jobright.ai/jobs/info/697818e1fdeb8243a27b0c5d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 26 |
-| **[SV Design, Architecture + Interiors](https://www.svdesign.com)** | **[Interior Designer 1](https://jobright.ai/jobs/info/6978183dfdeb8243a27b0bd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 31 Church Street suite 2, Winchester, MA 01890, USA | On Site | Jan 26 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/6978331852f3c27ec644622e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Jan 26 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683df3ea03306e9ff51990fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jan 26 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[flex Manager, Creative Services](https://jobright.ai/jobs/info/697814ee52f3c27ec64442d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 26 |
@@ -358,9 +358,4 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6970327f333b6343a14c9bcf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 20 |
 | ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6970315f587dfa0bb55db428?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 20 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/69704f15333b6343a14cbcfa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chico, CA | On Site | Jan 20 |
-| **[Canada Life](https://www.canadalife.co.uk/)** | **[Visual/UI Designer](https://jobright.ai/jobs/info/69702e5f587dfa0bb55db0c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Jan 20 |
-| ↳ | **[Visual/UI Designer](https://jobright.ai/jobs/info/69702d89587dfa0bb55dafd6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, Ontario, Canada | Hybrid | Jan 20 |
-| ↳ | **[Visual/UI Designer](https://jobright.ai/jobs/info/69702798587dfa0bb55daa45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
-| **[Walter's Automotive Group](http://waltersautogroup.com)** | **[Photo and Videographer](https://jobright.ai/jobs/info/69718bb9333b6343a14e26b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | On Site | Jan 20 |
-| **[Archinect](https://archinect.com)** | **[Heitler Houstoun Architects](https://jobright.ai/jobs/info/6971551e587dfa0bb55ef56a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
