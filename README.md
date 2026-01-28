@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6967d406639b452fb57d6549?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/697a3be6a8de441ca73558c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Jan 28 |
 | ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/697a3210a5b9804527dff89c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 28 |
@@ -354,6 +355,4 @@ For a complete list, click the following sortable link below:
 | **[Archinect](https://archinect.com)** | **[Fergus Garber Architects](https://jobright.ai/jobs/info/69786b0952f3c27ec644bb18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | Hybrid | Jan 21 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Production Artist](https://jobright.ai/jobs/info/6972ebd80488fd59f7d5e7ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Jan 21 |
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6971ba3d333b6343a14e6e83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Cavazos, TX | On Site | Jan 21 |
-| **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer - Boys](https://jobright.ai/jobs/info/6971aae3333b6343a14e4460?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 21 |
-| **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/6971a23b587dfa0bb55f4f4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
