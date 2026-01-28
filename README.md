@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/697a3210a5b9804527dff89c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/697a2438b4589b4ee87c69c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | On Site | Jan 28 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Assistant Game Designer - EA SPORTS™ FC](https://jobright.ai/jobs/info/69423ed1bdcf884a5ade0b38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd2c1c1ad6b16f0289610c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Jan 28 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7fe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Jan 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Location Designer - Disney Television Animation](https://jobright.ai/jobs/info/697a0581a8de441ca7352900?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CA | On Site | Jan 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69420f6abdcf884a5addc9b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, VA | On Site | Jan 28 |
+| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, South Coast Plaza - West Elm](https://jobright.ai/jobs/info/6898493afaa4e875e824d0a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jan 28 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Entry Level Design Staff I](https://jobright.ai/jobs/info/674f5ca9ccd2bc1e4d052da9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 28 |
 | **[Nongshim America, Inc.](http://nongshimusa.com)** | **[Package Design Associate](https://jobright.ai/jobs/info/6926595727bf2f41a2c45768?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Jan 28 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Corporate Print Center Operator - The Toro Company](https://jobright.ai/jobs/info/6979ef43a5b9804527dfbeb9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hennepin County, MN | On Site | Jan 28 |
@@ -233,8 +235,8 @@ For a complete list, click the following sortable link below:
 | **[Blink UX](http://blinkux.com)** | **[IT Coordinator](https://jobright.ai/jobs/info/69742fd4206da320f49e523b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | ↳ | **[IT Coordinator](https://jobright.ai/jobs/info/69742162bc8e722e7b19166c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697420f8bc8e722e7b1915e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 23 |
-| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
-| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
 | **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
 | **[Access TCA](http://accesstca.com)** | **[Production (CAD) Designer](https://jobright.ai/jobs/info/697a1f99a5b9804527dfef00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston - Whitinsville, MA 01588 | On Site | Jan 23 |
 | **[PBK](https://pbk.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/69740efb206da320f49e1c75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Jan 23 |
@@ -354,8 +356,4 @@ For a complete list, click the following sortable link below:
 | **[Raindrop](https://raindrop.agency)** | **[Photography Coordinator](https://jobright.ai/jobs/info/69719a97333b6343a14e341b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California, United States | On Site | Jan 21 |
 | **[Vista Group](http://www.vistagroup.co.nz/)** | **[Associate Digital Producer](https://jobright.ai/jobs/info/697199ef587dfa0bb55f4944?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 21 |
 | **[Talking Rain Beverage Co®, makers of Sparkling Ice](https://www.talkingrain.com/)** | **[Temporary Graphic Designer](https://jobright.ai/jobs/info/6971864b587dfa0bb55f3850?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Preston, WA | Hybrid | Jan 21 |
-| **[Southern Telecom Inc.](http://www.southerntelecom.com)** | **[Jr. Packaging Designer](https://jobright.ai/jobs/info/6971b129587dfa0bb55f7aa0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Jan 21 |
-| **[Samuel & Sons](https://samuelandsons.com/en/)** | **[Design Consultant](https://jobright.ai/jobs/info/69717d2f333b6343a14e18ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 21 |
-| **[Discovery Land Company](http://discoverylandco.com)** | **[Landscaper Summer '26](https://jobright.ai/jobs/info/69717bfb587dfa0bb55f2e4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | YC Yellowstone Club Operations, Big Sky, MT, US | On Site | Jan 21 |
-| **[Orange Barrel Media](https://orangebarrelmedia.com/)** | **[Digital Asset Scheduler](https://jobright.ai/jobs/info/69717a1a51f726477183d5f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
