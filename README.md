@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/697a3210a5b9804527dff89c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 28 |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/697a3be6a8de441ca73558c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Jan 28 |
+| ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/697a3210a5b9804527dff89c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/697a2438b4589b4ee87c69c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | On Site | Jan 28 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Assistant Game Designer - EA SPORTS™ FC](https://jobright.ai/jobs/info/69423ed1bdcf884a5ade0b38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd2c1c1ad6b16f0289610c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Jan 28 |
@@ -235,8 +236,8 @@ For a complete list, click the following sortable link below:
 | **[Blink UX](http://blinkux.com)** | **[IT Coordinator](https://jobright.ai/jobs/info/69742fd4206da320f49e523b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | ↳ | **[IT Coordinator](https://jobright.ai/jobs/info/69742162bc8e722e7b19166c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697420f8bc8e722e7b1915e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 23 |
-| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
-| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
+| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
+| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
 | **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
 | **[Access TCA](http://accesstca.com)** | **[Production (CAD) Designer](https://jobright.ai/jobs/info/697a1f99a5b9804527dfef00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston - Whitinsville, MA 01588 | On Site | Jan 23 |
 | **[PBK](https://pbk.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/69740efb206da320f49e1c75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Jan 23 |
@@ -355,5 +356,4 @@ For a complete list, click the following sortable link below:
 | **[Hasbro](https://shop.hasbro.com)** | **[UX/Product Designer - D&D Beyond](https://jobright.ai/jobs/info/69719eea587dfa0bb55f4d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | Hybrid | Jan 21 |
 | **[Raindrop](https://raindrop.agency)** | **[Photography Coordinator](https://jobright.ai/jobs/info/69719a97333b6343a14e341b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California, United States | On Site | Jan 21 |
 | **[Vista Group](http://www.vistagroup.co.nz/)** | **[Associate Digital Producer](https://jobright.ai/jobs/info/697199ef587dfa0bb55f4944?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 21 |
-| **[Talking Rain Beverage Co®, makers of Sparkling Ice](https://www.talkingrain.com/)** | **[Temporary Graphic Designer](https://jobright.ai/jobs/info/6971864b587dfa0bb55f3850?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Preston, WA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
