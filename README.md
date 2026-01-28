@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695da586f5f3c43f38e28ac7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 27 |
+| **[Mill Creek Kitchen and Bath ](http://www.millcreekkb.com)** | **[Kitchen and Bath Designer](https://jobright.ai/jobs/info/69799ffbd7df290257fc1057?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canton, MI | On Site | Jan 27 |
+| **[Centric Brands](https://centricbrands.com)** | **[Associate, Technical Designer](https://jobright.ai/jobs/info/69799fcbd7df290257fc1045?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 27 |
+| ↳ | **[Assistant, Graphic Artist](https://jobright.ai/jobs/info/69799ad8ca92cf0d6a82d63d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 27 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Custom Graphics Technician](https://jobright.ai/jobs/info/695d76dafbd62a0a65660e56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eugene, OR | On Site | Jan 27 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/69798d38d7df290257fbe5b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Jan 27 |
 | **[Bank Policy Institute](https://bpi.com)** | **[ASSISTANT VICE PRESIDENT, GRAPHIC DESIGNER](https://jobright.ai/jobs/info/69798b69ca92cf0d6a82b2ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Jan 27 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Graphic Design Associate](https://jobright.ai/jobs/info/695d9d4cfbd62a0a6566510d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Jan 27 |
+| **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/6979a7b4ca92cf0d6a82f505?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Jan 27 |
 | **[LifeinColors_Weprint](https://www.lifeincolors.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69798333ca92cf0d6a82ad5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Gables, FL | On Site | Jan 27 |
 | **[EG & EverythingHR](https://www.everythinghr.com)** | **[Junior Graphic Designer / Social Media Creator](https://jobright.ai/jobs/info/69798cd10791bc1d72303b92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jan 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695dac49fbd62a0a6566617a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Jan 27 |
@@ -102,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Closet Factory](https://www.closetfactory.com/)** | **[Designer](https://jobright.ai/jobs/info/6978a31352f3c27ec644eee0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plymouth, MI | On Site | Jan 27 |
 | **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ26591.1](https://jobright.ai/jobs/info/69787bd252f3c27ec644c8d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Jan 27 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Womens Designer RTW](https://jobright.ai/jobs/info/69744080206da320f49e653d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Jan 27 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6979a742ca92cf0d6a82f4cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jan 26 |
 | **[NetherRealm Studios (WB Games)](http://www.netherrealm.com/)** | **[Associate Technical Artist, Cloth (Temp)](https://jobright.ai/jobs/info/695c7c955e4962051b599b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
 | ↳ | **[Associate Technical Artist, FX (Temp)](https://jobright.ai/jobs/info/695c8f4a9a87b95a9397e33a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69785a2d39f7f96cc6d0c8b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Creek, WI | On Site | Jan 26 |
