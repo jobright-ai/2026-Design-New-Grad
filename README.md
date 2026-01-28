@@ -354,5 +354,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Design Staff](https://jobright.ai/jobs/info/6971f2accda45e6953583172?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | Jan 22 |
 | **[Archinect](https://archinect.com)** | **[Fergus Garber Architects](https://jobright.ai/jobs/info/69786b0952f3c27ec644bb18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | Hybrid | Jan 21 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Production Artist](https://jobright.ai/jobs/info/6972ebd80488fd59f7d5e7ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Jan 21 |
-| **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6971ba3d333b6343a14e6e83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Cavazos, TX | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
