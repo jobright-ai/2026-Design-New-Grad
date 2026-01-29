@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flad Architects](http://www.flad.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/697bdbc61423772304ec1428?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 29 |
+| **[Epstein Architecture, Engineering and Construction](https://www.epsteinglobal.com)** | **[Design Professional](https://jobright.ai/jobs/info/697bdb681423772304ec1373?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Chicago Area | Hybrid | Jan 29 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Sr. Industrial Designer,](https://jobright.ai/jobs/info/69600b66a112b402660ebdd7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Round Lake, IL | Hybrid | Jan 29 |
 | **[Atomic Cartoons](http://www.atomiccartoons.com/)** | **[CG Lighting/Compositing Artist](https://jobright.ai/jobs/info/697bc92d1423772304ebf647?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 29 |
 | ↳ | **[CG Lighting/Compositing Artist](https://jobright.ai/jobs/info/697bc5b01423772304ebf202?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver | Hybrid | Jan 29 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/697a8636f6fc293b0a2c5cb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville, AR | On Site | Jan 28 |
 | **[J&G International Inc.](https://www.linkedin.com/company/108722076)** | **[Apparel Design Assistant](https://jobright.ai/jobs/info/697a7d29f6fc293b0a2c4fb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 28 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6967d406639b452fb57d6549?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 28 |
-| **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Sanford, NC](https://jobright.ai/jobs/info/697a75299d60e431a16bf3c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, NC | On Site | Jan 28 |
-| ↳ | **[Weekend Sign Placer - Spring Lake, NC](https://jobright.ai/jobs/info/697a7192f6fc293b0a2c42a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spring Lake, NC | On Site | Jan 28 |
+| **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Spring Lake, NC](https://jobright.ai/jobs/info/697a7192f6fc293b0a2c42a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spring Lake, NC | On Site | Jan 28 |
+| ↳ | **[Weekend Sign Placer - Sanford, NC](https://jobright.ai/jobs/info/697a75299d60e431a16bf3c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, NC | On Site | Jan 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Danimás](www.danimas.com)** | **[ASSISTANT DESIGNER, APPAREL & ACCESSORIES DESIGN](https://jobright.ai/jobs/info/697a672d9d60e431a16be4a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Jan 28 |
 | **[Stoneleaf Landscape Design & Build](www.stoneleaflandscapes.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/696cdc4e5fc86241853bf91f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Downers Grove, IL | On Site | Jan 28 |
@@ -328,8 +330,8 @@ For a complete list, click the following sortable link below:
 | **[Blink UX](http://blinkux.com)** | **[IT Coordinator](https://jobright.ai/jobs/info/69742fd4206da320f49e523b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | ↳ | **[IT Coordinator](https://jobright.ai/jobs/info/69742162bc8e722e7b19166c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jan 23 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697420f8bc8e722e7b1915e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Jan 23 |
-| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
-| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| **[Edelman](http://www.edelman.com)** | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/69743948bc8e722e7b192f76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington DC, USA | On Site | Jan 23 |
+| ↳ | **[Digital Designer  - Financial Communications](https://jobright.ai/jobs/info/6974369737785856350e2ef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
 | **[nCino](http://ncino.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697411bd37785856350df62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT | On Site | Jan 23 |
 | **[Access TCA](http://accesstca.com)** | **[Production (CAD) Designer](https://jobright.ai/jobs/info/697a1f99a5b9804527dfef00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston - Whitinsville, MA 01588 | On Site | Jan 23 |
 | **[PBK](https://pbk.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/69740efb206da320f49e1c75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Jan 23 |
