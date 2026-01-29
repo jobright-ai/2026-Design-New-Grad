@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[Associate Content Designer / Home Client Services](https://jobright.ai/jobs/info/695f15a2a1bbea1d9a79ed67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 28 |
 | **[ScanSource](https://www.scansource.com/)** | **[UX & Front End Designer](https://jobright.ai/jobs/info/697ae0df1423772304eac643?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | **[Just Some People](https://www.justsomepeople.com/)** | **[Web Designer](https://jobright.ai/jobs/info/697ad7b817b11b1c2e41a55f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedarhurst, NY | On Site | Jan 28 |
 | **[Landscape Structures](http://playlsi.com)** | **[Custom Artist](https://jobright.ai/jobs/info/697acb3cf6fc293b0a2cc4df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Delano, MN | On Site | Jan 28 |
 | **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697ae66517b11b1c2e41b9dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Graphics Specialist (SF)](https://jobright.ai/jobs/info/697af01d1423772304eae76e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weston, MA | Hybrid | Jan 28 |
+| ↳ | **[Graphics Specialist](https://jobright.ai/jobs/info/697af41317b11b1c2e41d6d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weston, MA | Hybrid | Jan 28 |
 | **[The Agora Companies](https://14west.us/)** | **[Creative Manager](https://jobright.ai/jobs/info/697ab937f6fc293b0a2cb408?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Jan 28 |
 | **[Canadian Football League](http://www.cfl.ca)** | **[Graphic Designer](https://jobright.ai/jobs/info/697ae56c1423772304eace4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/695f0fb3a112b402660dce68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 28 |
@@ -369,5 +371,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Temp - Graphic Thumbnail Designer](https://jobright.ai/jobs/info/697265f5584a1c1ef6fd6860?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA  NY - New York - 37 W 28th St | Hybrid | Jan 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69727cfc4ccbf64f8df26f43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tukwila, WA | On Site | Jan 22 |
 | **[Skillable](https://skillable.com)** | **[Associate UX/UI Designer](https://jobright.ai/jobs/info/697275fb9b83b424830e64b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 22 |
-| **[Js Pro Construction](http://jsproconstruction.com)** | **[Interior Design Administrative Assistant](https://jobright.ai/jobs/info/69727440584a1c1ef6fd6ebd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Creek, NJ | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
