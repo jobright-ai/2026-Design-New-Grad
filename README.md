@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Axon.ai](https://axon.ai)** | **[Creative Operator](https://jobright.ai/jobs/info/691dd596748c4e1301ec91f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Girlstown USA, TX | Hybrid | Jan 29 |
-| **[ScanSource](https://www.scansource.com/)** | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
+| **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697b3f6f0b88cc7d64220375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
+| ↳ | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | **[Social Disrupt](https://www.sociallydisrupt.com/)** | **[Freelance Social Media Graphic Designer](https://jobright.ai/jobs/info/697b0d4017b11b1c2e420830?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 28 |
 | **[The North Face](http://www.thenorthface.com/)** | **[Associate Designer, Lifestyle Everyday + Youth](https://jobright.ai/jobs/info/697b056717b11b1c2e41fe0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jan 28 |
 | **[Social Disrupt](https://www.sociallydisrupt.com/)** | **[Ai Video Creator](https://jobright.ai/jobs/info/697affaa17b11b1c2e41f018?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 28 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/697a8636f6fc293b0a2c5cb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville, AR | On Site | Jan 28 |
 | **[J&G International Inc.](https://www.linkedin.com/company/108722076)** | **[Apparel Design Assistant](https://jobright.ai/jobs/info/697a7d29f6fc293b0a2c4fb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 28 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6967d406639b452fb57d6549?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Jan 28 |
-| **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Spring Lake, NC](https://jobright.ai/jobs/info/697a7192f6fc293b0a2c42a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spring Lake, NC | On Site | Jan 28 |
-| ↳ | **[Weekend Sign Placer - Sanford, NC](https://jobright.ai/jobs/info/697a75299d60e431a16bf3c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, NC | On Site | Jan 28 |
+| **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Sanford, NC](https://jobright.ai/jobs/info/697a75299d60e431a16bf3c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, NC | On Site | Jan 28 |
+| ↳ | **[Weekend Sign Placer - Spring Lake, NC](https://jobright.ai/jobs/info/697a7192f6fc293b0a2c42a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spring Lake, NC | On Site | Jan 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Danimás](www.danimas.com)** | **[ASSISTANT DESIGNER, APPAREL & ACCESSORIES DESIGN](https://jobright.ai/jobs/info/697a672d9d60e431a16be4a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Jan 28 |
 | **[Stoneleaf Landscape Design & Build](www.stoneleaflandscapes.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/696cdc4e5fc86241853bf91f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Downers Grove, IL | On Site | Jan 28 |
@@ -366,6 +367,4 @@ For a complete list, click the following sortable link below:
 | **[WellNow Urgent Care](http://www.urgentteam.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6972adbd4ccbf64f8df2b8d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, New York | On Site | Jan 22 |
 | **[Woof](https://mywoof.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/697290be9b83b424830e832a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jan 22 |
 | **[Majesty Brands](https://www.majestybrands.com)** | **[PD/Technical Design Associate](https://jobright.ai/jobs/info/6972bd194ccbf64f8df2c823?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 22 |
-| **[The California State University](http://www.calstate.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972aa219b83b424830eb210?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jan 22 |
-| **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
