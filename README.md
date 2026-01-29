@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axon.ai](https://axon.ai)** | **[Creative Operator](https://jobright.ai/jobs/info/691dd596748c4e1301ec91f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Girlstown USA, TX | Hybrid | Jan 29 |
+| **[ScanSource](https://www.scansource.com/)** | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | **[Social Disrupt](https://www.sociallydisrupt.com/)** | **[Freelance Social Media Graphic Designer](https://jobright.ai/jobs/info/697b0d4017b11b1c2e420830?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 28 |
 | **[The North Face](http://www.thenorthface.com/)** | **[Associate Designer, Lifestyle Everyday + Youth](https://jobright.ai/jobs/info/697b056717b11b1c2e41fe0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jan 28 |
 | **[Social Disrupt](https://www.sociallydisrupt.com/)** | **[Ai Video Creator](https://jobright.ai/jobs/info/697affaa17b11b1c2e41f018?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 28 |
@@ -366,10 +368,4 @@ For a complete list, click the following sortable link below:
 | **[Majesty Brands](https://www.majestybrands.com)** | **[PD/Technical Design Associate](https://jobright.ai/jobs/info/6972bd194ccbf64f8df2c823?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 22 |
 | **[The California State University](http://www.calstate.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972aa219b83b424830eb210?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jan 22 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jan 22 |
-| **[EXP](http://www.exp.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/6972a7dd4ccbf64f8df2b432?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
-| **[California State University, Long Beach](http://www.csulb.edu/)** | **[Graphics & Sign Assistant - Open to Current CSULB Employees Only](https://jobright.ai/jobs/info/6972a39a584a1c1ef6fdb474?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | On Site | Jan 22 |
-| **[rEvolution](https://www.revolutionworld.com/)** | **[Production Artist](https://jobright.ai/jobs/info/69727d1a4ccbf64f8df26f65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jan 22 |
-| **[Samuel & Sons](https://samuelandsons.com/en/)** | **[Design Consultant](https://jobright.ai/jobs/info/6972a8414ccbf64f8df2b4a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Hollywood, CA | On Site | Jan 22 |
-| **[rEvolution](https://www.revolutionworld.com/)** | **[Production Artist](https://jobright.ai/jobs/info/697276dc9b83b424830e65b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 22 |
-| **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69727545584a1c1ef6fd6f4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
