@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Brand & Environmental Graphic Designer - Junior](https://jobright.ai/jobs/info/697c19fd1136d179eeefc83f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
+| **[On Location](https://onlocationexp.com/)** | **[Creative Project Coordinator – FIFA World Cup 26™](https://jobright.ai/jobs/info/697c193e1423772304ec7101?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/696016477ebc25398eb603f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Jan 29 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/695a25a59f1b381eb272c2f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lake Forest, IL | On Site | Jan 29 |
 | **[Tubi](http://tubitv.com/)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697c0fdd1136d179eeefb52b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Hybrid | Jan 29 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Creative Project Coordinator – FIFA World Cup 26™](https://jobright.ai/jobs/info/697c09e81136d179eeefacbe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interior Designer I](https://jobright.ai/jobs/info/697c013d1136d179eeefa683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Jan 29 |
 | ↳ | **[Designer I](https://jobright.ai/jobs/info/697bfadf1136d179eeefa1be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Jan 29 |
+| **[LandWorx Engineering](http://landworxeng.com)** | **[Future Opening:  CAD Designer](https://jobright.ai/jobs/info/697c1dfc1423772304ec7a89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN 46202 | Hybrid | Jan 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/697c17081423772304ec6c6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 29 |
 | **[NewCo Capital Group](https://newcocapitalgroup.com/)** | **[Junior Creative Designer](https://jobright.ai/jobs/info/697bef621423772304ec35c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | On Site | Jan 29 |
 | **[Quince](https://www.quince.com)** | **[Creative Materials Coordinator-Early Career](https://jobright.ai/jobs/info/697c01f40b88cc7d6422f07f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 29 |
@@ -389,8 +392,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Content Specialist, DS, Digital Studios](https://jobright.ai/jobs/info/691e2f8f3f782d2f1afb2034?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 23 |
 | **[SKIMS](https://skims.com)** | **[Design Assistant Accessories and Footwear](https://jobright.ai/jobs/info/695f31b2a112b402660df77b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Jan 23 |
 | **[CESO, INC.](http://cesoinc.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/68cffc48fb49c96ca6ead231?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 23 |
-| **[Skechers](http://www.skechers.com)** | **[Jr. Footwear Designer](https://jobright.ai/jobs/info/690183354539ea1f21420b86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manhattan Beach, CA | On Site | Jan 23 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e7408ae8daec61499b3a99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Jan 23 |
-| **[BRP](https://www.brp.com/en/)** | **[Peintre](https://jobright.ai/jobs/info/691db150ad5a5170347955a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valcourt, Quebec, Canada | On Site | Jan 23 |
-| **[Adrianna Papell](http://www.adriannapapell.com)** | **[Design Assistant - Women's Apparel](https://jobright.ai/jobs/info/6972743d9b83b424830e632c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
