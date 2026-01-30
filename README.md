@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NewCo Capital Group](https://newcocapitalgroup.com/)** | **[Junior Creative Designer](https://jobright.ai/jobs/info/697bef621423772304ec35c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | On Site | Jan 29 |
 | **[Flad Architects](http://www.flad.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/697bdbc61423772304ec1428?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 29 |
 | **[Epstein Architecture, Engineering and Construction](https://www.epsteinglobal.com)** | **[Design Professional](https://jobright.ai/jobs/info/697bdb681423772304ec1373?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Chicago Area | Hybrid | Jan 29 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Sr. Industrial Designer,](https://jobright.ai/jobs/info/69600b66a112b402660ebdd7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Round Lake, IL | Hybrid | Jan 29 |
