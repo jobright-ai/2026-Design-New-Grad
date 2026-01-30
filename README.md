@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6960949fa1bbea1d9a7b5ba5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Murfreesboro, TN | On Site | Jan 30 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Seasonal Flex Only, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/689b8de479a9f96662531161?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Jan 30 |
+| **[Raymond James](http://www.raymondjames.com)** | **[Presentation Designer](https://jobright.ai/jobs/info/69607bbda1bbea1d9a7b4eb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Remote | Jan 30 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Graphic Designer II](https://jobright.ai/jobs/info/696066a3a112b402660f28ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 30 |
 | **[Coach](https://uk.coach.com)** | **[Design Assistant, Footwear](https://jobright.ai/jobs/info/68d77b59267b154f9a2da325?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689daf2383d13d1f5b6b343e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Jan 30 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 29 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Jan 29 |
@@ -366,8 +369,4 @@ For a complete list, click the following sortable link below:
 | **[SJF Material Handling Inc.](https://www.sjf.com)** | **[Entry-Level CAD Designer / Project Coordinator](https://jobright.ai/jobs/info/6973ffe137785856350de800?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winsted, MN | Hybrid | Jan 23 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Womens Designer RTW](https://jobright.ai/jobs/info/6973ffcf206da320f49e0fa8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NM_0237_SAN ANTONIO | On Site | Jan 23 |
 | **[McCombs Properties](https://www.mccombsproperties.com)** | **[Content Creator](https://jobright.ai/jobs/info/6973fc55206da320f49e0cb9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Aransas, TX | On Site | Jan 23 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/697781e952f3c27ec6438e90?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1870 Broadway, New York, NY, 10023, US | On Site | Jan 23 |
-| **[Barnard College](https://barnard.edu/)** | **[Research Assistant: Creative Coding](https://jobright.ai/jobs/info/6973f86f206da320f49e02ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City, NY | On Site | Jan 23 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Part Time Custom Framing Team Member](https://jobright.ai/jobs/info/6973f6d6bc8e722e7b18dd16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Amherst-1569 Niagara Falls Blvd, Ste 100 | On Site | Jan 23 |
-| **[RBC](https://www.rbc.com)** | **[Content Designer](https://jobright.ai/jobs/info/6973f1b6bc8e722e7b18d794?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, NJ | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
