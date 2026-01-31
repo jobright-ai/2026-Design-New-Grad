@@ -189,7 +189,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jan 29 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
-| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de388748c4e1301ec9e47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
+| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de24a61dc50590a64b6b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 29 |
 | **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697b3f6f0b88cc7d64220375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | ↳ | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
@@ -380,5 +380,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6975386c206da320f49f5725?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | ↳ | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753326206da320f49f564e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
 | ↳ | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69752ca0206da320f49f3bed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/69751ddd206da320f49f3629?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
