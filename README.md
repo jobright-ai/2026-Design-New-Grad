@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BKSK Architects](http://bksk.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/697e2c1e7f40342e15d6fd8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 31 |
+| **[Goldilocks Promos](http://www.goldilockspromos.com)** | **[Graphic Designer/Office Admin/Laser Engraver Operator](https://jobright.ai/jobs/info/697e2ac9ce48107c054262f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Latham, NY | On Site | Jan 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/697e155f7f40342e15d6f566?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, CA | On Site | Jan 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69620d1c25e18715077eeb81?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | On Site | Jan 31 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3be6ed63844c944b2324?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ypsilanti, MI | On Site | Jan 31 |
@@ -114,13 +116,10 @@ For a complete list, click the following sortable link below:
 | **[HoneyBook](http://www.honeybook.com)** | **[Research Operations Coordinator](https://jobright.ai/jobs/info/697d0d81727747250d57c43b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | Hybrid | Jan 30 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/697d0d79137a0510256602e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA- | Remote | Jan 30 |
 | ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/697d0bdf3f57a3356966c05b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNAVAILABLE, CA, US | Remote | Jan 30 |
-| **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d0aa73f57a3356966bf52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maryland | Hybrid | Jan 30 |
 | **[The Home Depot Canada](careers.homedepot.ca)** | **[Digital Content Designer (12 month contract)](https://jobright.ai/jobs/info/697d308e727747250d57fdbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Temporary Graphic Designer](https://jobright.ai/jobs/info/697d077b3f57a3356966bbc5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 320 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[CESO, INC.](http://cesoinc.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/697d2611727747250d57e1fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary Graphic Designer](https://jobright.ai/jobs/info/697d307c3f57a3356966fc89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 320 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
-| **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d1301137a05102566088b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 30 |
-| ↳ | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d1baa727747250d57d4b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Contra](http://contra.com)** | **[Creative Operations Designer (New Grad)](https://jobright.ai/jobs/info/697cfb9c137a05102565f569?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Jan 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/697cc853137a05102565c064?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apopka, FL | On Site | Jan 30 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/697cc6bf3f57a33569667d9e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boise, ID | On Site | Jan 30 |
