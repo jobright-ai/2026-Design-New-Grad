@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amplify](http://www.amplify.com)** | **[Associate UX/UI Designer](https://jobright.ai/jobs/info/697d59e13f57a33569673b02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 30 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/697d5920727747250d583b1c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis Park, MN | On Site | Jan 30 |
+| **[Harris Teeter](http://www.harristeeter.com)** | **[Full Time Floral Designer](https://jobright.ai/jobs/info/697d58253f57a335696738b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | HERNDON, VIRGINIA, STORE 085 - HERNDON VA | On Site | Jan 30 |
 | **[HoneyBook](http://www.honeybook.com)** | **[Research Operations Coordinator](https://jobright.ai/jobs/info/697d4b2c3f57a335696717be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX/UI Product Designer](https://jobright.ai/jobs/info/697d4b17727747250d58195e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR US | Hybrid | Jan 30 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Assistant Designer, Decorative Accessories - West Elm](https://jobright.ai/jobs/info/697d4713137a051025665545?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 55 Water Street, Brooklyn, NY, 11201, US | On Site | Jan 30 |
 | **[LITTLE TREES](https://www.littletrees.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/697d46f43f57a33569671506?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Watertown, NY | On Site | Jan 30 |
+| **[Bank Policy Institute](https://bpi.com)** | **[Assistant Vice President, Graphic Designer](https://jobright.ai/jobs/info/697d5988727747250d583baf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Jan 30 |
 | **[Edge Marketing + Design](https://edgemarketingdesign.com)** | **[Graphic Designer Production](https://jobright.ai/jobs/info/697d3937727747250d5808a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Helena, MT | Hybrid | Jan 30 |
 | **[Ampacity](https://www.rpcs.com/)** | **[Associate Project Designer](https://jobright.ai/jobs/info/697d37503f57a33569670566?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas County, TX | Remote | Jan 30 |
 | **[Life360](http://www.life360.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/697d2ddd137a05102566350e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, USA | Remote | Jan 30 |
@@ -171,7 +175,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jan 29 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
 | **[ScanSource](https://www.scansource.com/)** | **[UI & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 29 |
-| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de24a61dc50590a64b6b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
+| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de388748c4e1301ec9e47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 29 |
 | **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697b3f6f0b88cc7d64220375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | **[Social Disrupt](https://www.sociallydisrupt.com/)** | **[Freelance Social Media Graphic Designer](https://jobright.ai/jobs/info/697b0d4017b11b1c2e420830?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 28 |
@@ -378,6 +382,4 @@ For a complete list, click the following sortable link below:
 | **[Under Armour](http://underarmour.com)** | **[Footwear Designer I, Sportswear](https://jobright.ai/jobs/info/6958627aaa05c26e7ab23ee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Jan 24 |
 | **[Orveon Global](http://orveonglobal.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68e6b581e8daec61499adb52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 24 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/6933b7a7a0dde7020e2f0d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 24 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Jan 24 |
-| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69582408aa05c26e7ab20400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
