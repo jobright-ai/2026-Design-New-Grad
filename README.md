@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/6946609a63141d18845612ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 31 |
+| **[Petco](https://www.petco.com/unleashed)** | **[Space Management Planner](https://jobright.ai/jobs/info/6945acdc63141d1884553aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 31 |
 | **[Mithun](https://mithun.com)** | **[Urban Designer](https://jobright.ai/jobs/info/697dae1dabff4c399a9c830b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle,WA,US | Hybrid | Jan 30 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Workplace Interiors - Junior](https://jobright.ai/jobs/info/697d9a30ce48107c0541e990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC, US | On Site | Jan 30 |
 | **[Title Nine](http://titlenine.com)** | **[OMNICHANNEL GRAPHIC DESIGNER](https://jobright.ai/jobs/info/697d8f9f7f40342e15d67214?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Emeryville, CA, US | On Site | Jan 30 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Temporary Graphic Designer](https://jobright.ai/jobs/info/697d077b3f57a3356966bbc5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 320 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[CESO, INC.](http://cesoinc.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/697d2611727747250d57e1fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary Graphic Designer](https://jobright.ai/jobs/info/697d307c3f57a3356966fc89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 320 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
-| **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d1baa727747250d57d4b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
-| ↳ | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d1301137a05102566088b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 30 |
+| **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d1301137a05102566088b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 30 |
+| ↳ | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/697d1baa727747250d57d4b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Contra](http://contra.com)** | **[Creative Operations Designer (New Grad)](https://jobright.ai/jobs/info/697cfb9c137a05102565f569?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Jan 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/697cc853137a05102565c064?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apopka, FL | On Site | Jan 30 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/697cc6bf3f57a33569667d9e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boise, ID | On Site | Jan 30 |
@@ -189,7 +191,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jan 29 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
-| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de24a61dc50590a64b6b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
+| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de388748c4e1301ec9e47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 29 |
 | **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697b3f6f0b88cc7d64220375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | ↳ | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
@@ -379,5 +381,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/69753afbbc8e722e7b1a287e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
 | ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6975386c206da320f49f5725?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | ↳ | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753326206da320f49f564e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
-| ↳ | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69752ca0206da320f49f3bed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
