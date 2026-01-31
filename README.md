@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StockX](https://stockx.com/)** | **[Associate Product Designer](https://jobright.ai/jobs/info/68f93ab9cadb2e5a06a62a76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | On Site | Jan 31 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/6946609a63141d18845612ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 31 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Space Management Planner](https://jobright.ai/jobs/info/6945acdc63141d1884553aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 31 |
 | **[Mithun](https://mithun.com)** | **[Urban Designer](https://jobright.ai/jobs/info/697dae1dabff4c399a9c830b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle,WA,US | Hybrid | Jan 30 |
@@ -123,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Graphic Designer II](https://jobright.ai/jobs/info/696066a3a112b402660f28ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 30 |
 | **[Coach](https://uk.coach.com)** | **[Design Assistant, Footwear](https://jobright.ai/jobs/info/68d77b59267b154f9a2da325?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689daf2383d13d1f5b6b343e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Jan 30 |
+| **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/695d7a8bf5f3c43f38e2480b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 30 |
 | **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/697cb57b137a05102565b1cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Jan 30 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/697c7d54727747250d572df0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | Jan 30 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Showroom & Sample Coordinator](https://jobright.ai/jobs/info/696026537ebc25398eb61737?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
@@ -274,7 +276,6 @@ For a complete list, click the following sortable link below:
 | **[DaBella](https://dabella.us/)** | **[Creative Production Specialist](https://jobright.ai/jobs/info/697956aa88e2b47213bd8c36?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 27 |
 | **[Team Velocity](http://www.teamvelocitymarketing.com)** | **[Creative Production Designer](https://jobright.ai/jobs/info/697976089c90a224ecc32dfd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, Continental U.S., VA | Remote | Jan 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Jr. Creative Strategist](https://jobright.ai/jobs/info/69794e3152f3c27ec645b032?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Jan 27 |
-| **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/695d7a8bf5f3c43f38e2480b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Color Specialist - 1st Shift](https://jobright.ai/jobs/info/697944c339f7f96cc6d1bc07?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI | On Site | Jan 27 |
 | **[Molnar Funeral Homes](https://molnarfuneralhome.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6979445052f3c27ec645a3c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wyandotte, MI | On Site | Jan 27 |
 | **[Sonsie Skin Inc.](https://www.sonsieskin.com)** | **[Creative Content Associate](https://jobright.ai/jobs/info/697943fe52f3c27ec645a2b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 27 |
@@ -377,8 +378,4 @@ For a complete list, click the following sortable link below:
 | **[Akima Infrastructure Services](http://akimainfrasvcs.com)** | **[Digital Print Specialist with Security Clearance](https://jobright.ai/jobs/info/697da0acce48107c0541eeed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Jan 24 |
 | **[SV Design, Architecture + Interiors](https://www.svdesign.com)** | **[Talent Community – General Application](https://jobright.ai/jobs/info/697c5d2f137a051025654bc4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 126 Dodge Street, Beverly, MA, USA | On Site | Jan 24 |
 | **[Design Observer](http://designobserver.com/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/6975460cbc8e722e7b1a2977?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | On Site | Jan 24 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753b2bbc8e722e7b1a288d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 24 |
-| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/69753afbbc8e722e7b1a287e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 24 |
-| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6975386c206da320f49f5725?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
-| ↳ | **[Interior Designer - Entry Level](https://jobright.ai/jobs/info/69753326206da320f49f564e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
