@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Game Designer (Mathematician)](https://jobright.ai/jobs/info/697f40c6ce48107c05435d71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | Hybrid | Feb 01 |
 | **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - Men's Accessories and Footwear](https://jobright.ai/jobs/info/6942468c14ee092a69008465?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 01 |
 | **[Hyper Solutions](https://hypersolutions.com)** | **[Jr. Creative Marketing Associate](https://jobright.ai/jobs/info/697f06bbce48107c054328e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Jan 31 |
 | **[Lilo Social](http://lilosocial.com)** | **[Creative Strategist](https://jobright.ai/jobs/info/697eadf77f40342e15d76d0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 31 |
@@ -215,7 +216,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jan 29 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
-| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de24a61dc50590a64b6b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
+| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de388748c4e1301ec9e47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 29 |
 | **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697b3f6f0b88cc7d64220375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | ↳ | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
@@ -343,7 +344,7 @@ For a complete list, click the following sortable link below:
 | **[OCHIN, Inc.](https://ochin.org)** | **[GRAPHIC DESIGN COORDINATOR](https://jobright.ai/jobs/info/697818e1fdeb8243a27b0c5d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 26 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/6978331852f3c27ec644622e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Jan 26 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683df3ea03306e9ff51990fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jan 26 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[flex Manager, Creative Services](https://jobright.ai/jobs/info/697814ee52f3c27ec64442d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 26 |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[flex Manager, Creative Services](https://jobright.ai/jobs/info/697814ee52f3c27ec64442d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 26 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/69783adb88e2b47213bc4381?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV, US | On Site | Jan 26 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Multimedia Designer I](https://jobright.ai/jobs/info/6978064052f3c27ec6443c63?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Jan 26 |
 | **[Wight & Company](http://wightco.com)** | **[Architectural Professional I](https://jobright.ai/jobs/info/69782f7052f3c27ec6445e51?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Darien, IL | On Site | Jan 26 |
