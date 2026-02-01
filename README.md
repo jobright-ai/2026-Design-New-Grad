@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Technical Designer - (Hybrid, Seattle)](https://jobright.ai/jobs/info/697fba0bce48107c0543b8f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 01 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer - (Hybrid, Seattle)](https://jobright.ai/jobs/info/697fba62abff4c399a9e447c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 01 |
+| ↳ | **[Assistant Technical Designer - (Hybrid, Seattle)](https://jobright.ai/jobs/info/697fba0bce48107c0543b8f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 01 |
 | **[Coded Snake®](https://www.codedsnake.com/)** | **[2D Texture/VFX Artist - Commission](https://jobright.ai/jobs/info/697f77b47f40342e15d825e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 01 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer - (Hybrid, Seattle)](https://jobright.ai/jobs/info/697f7035ce48107c054388d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 01 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Freelancer - Multibrand - Edmonton, AB](https://jobright.ai/jobs/info/697f641b7f40342e15d82207?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 01 |
@@ -284,6 +285,7 @@ For a complete list, click the following sortable link below:
 | **[Nongshim America, Inc.](http://nongshimusa.com)** | **[Package Design Associate](https://jobright.ai/jobs/info/6926595727bf2f41a2c45768?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Jan 28 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Corporate Print Center Operator - The Toro Company](https://jobright.ai/jobs/info/6979ef43a5b9804527dfbeb9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hennepin County, MN | On Site | Jan 28 |
 | **[CA For The Arts](https://www.caforthearts.org)** | **[Big Sur Land Trust - Ensen Community Park Mural](https://jobright.ai/jobs/info/697a0cbcb4589b4ee87c5b8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salinas, CA | On Site | Jan 28 |
+| **[Vestcom](http://vestcom.com)** | **[Digital Print Operator, 2PM-12:30AM, Fri-Mon](https://jobright.ai/jobs/info/697fca4cabff4c399a9e66bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cypress, CA, US | On Site | Jan 28 |
 | **[ON Advertising](https://onadvertising.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697c6854727747250d5719ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695da586f5f3c43f38e28ac7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 27 |
 | **[WEINGARTZ](https://www.weingartz.com)** | **[Marketing Production Designer (Part-Time)](https://jobright.ai/jobs/info/697b106a17b11b1c2e420ab6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmington Hills, MI | On Site | Jan 27 |
@@ -382,6 +384,4 @@ For a complete list, click the following sortable link below:
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, New York City - West Elm](https://jobright.ai/jobs/info/68deafb844d32141e0c0190b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 26 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Associate Artist, Graphic Operations (Production)](https://jobright.ai/jobs/info/6967f70c1703f05405a9933f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 26 |
 | **[VectorShift](https://www.vectorshift.me)** | **[Designer](https://jobright.ai/jobs/info/69779c6588e2b47213bb8525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (IN) | Remote | Jan 26 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Firmwide Design Development Program - Full-Time Bootcamp Analyst (July Start)](https://jobright.ai/jobs/info/697d941c7f40342e15d6754c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | On Site | Jan 25 |
-| **[Chase](https://www.chase.com/)** | **[2026 Firmwide Design Development Program - Full-Time Bootcamp Analyst (July Start)](https://jobright.ai/jobs/info/697a7007f6fc293b0a2c40ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
