@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Interior Designer I](https://jobright.ai/jobs/info/69806818abff4c399a9f3089?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Feb 02 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Interior Designer I](https://jobright.ai/jobs/info/698059ab7f40342e15d92688?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Feb 02 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer - (Hybrid, Seattle)](https://jobright.ai/jobs/info/697fba62abff4c399a9e447c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 01 |
 | ↳ | **[Assistant Technical Designer - (Hybrid, Seattle)](https://jobright.ai/jobs/info/697fba0bce48107c0543b8f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 01 |
@@ -225,7 +226,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jan 29 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 29 |
-| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de24a61dc50590a64b6b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
+| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de388748c4e1301ec9e47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Jan 29 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 29 |
 | **[ScanSource](https://www.scansource.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697b3f6f0b88cc7d64220375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
 | ↳ | **[UX & Front End Designer](https://jobright.ai/jobs/info/697b328f17b11b1c2e42489c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | Hybrid | Jan 28 |
@@ -373,7 +374,4 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Valve Company, LLC.](http://milwaukeevalve.com)** | **[Pattern Designer (Dept 500)](https://jobright.ai/jobs/info/6977e5dc52f3c27ec6440f47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Prairie du Sac, WI | On Site | Jan 26 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Women's Knits & Lounge](https://jobright.ai/jobs/info/6977dd0f88e2b47213bbd8df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 26 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[VISUAL PRESENTATION ASSOCIATE](https://jobright.ai/jobs/info/697970e09c90a224ecc32954?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 00874-Riocan Centre Sudbury, 110 Donna Dr. unit D001, SUDBURY, Ontario, Canada | On Site | Jan 26 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Brand Motion Graphics Producer, NBCU Local Chicago](https://jobright.ai/jobs/info/6977e98c88e2b47213bbe901?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 454 N.Columbus Dr., Chicago, ILLINOIS | Hybrid | Jan 26 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Brand Motion Graphics Producer, NBCU Local Chicago](https://jobright.ai/jobs/info/6977ac7c52f3c27ec643c4c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 26 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Exhibits Graphic Designer- AQM60034881](https://jobright.ai/jobs/info/6977cc0688e2b47213bbc1b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Hanover County, NC | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
