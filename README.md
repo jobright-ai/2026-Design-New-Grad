@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vacaville - West Elm Outlet](https://jobright.ai/jobs/info/684a645fae37621980c11614?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vacaville, CA | On Site | Feb 02 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/698098487f40342e15d95b7f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Feb 02 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, Beverly Blvd - West Elm](https://jobright.ai/jobs/info/68c8df2f95f5211cd2cea46e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 02 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Wenatchee Valley - Full Time](https://jobright.ai/jobs/info/69808ac6abff4c399a9f4aba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 445 Valley Mall Parkway, East Wenatchee, WA, 98802, US | On Site | Feb 02 |
@@ -217,8 +218,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 29 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Jan 29 |
@@ -369,8 +370,4 @@ For a complete list, click the following sortable link below:
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Staff (Color Format)](https://jobright.ai/jobs/info/69781abcfdeb8243a27b0e4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Jan 26 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[Associate User Interface Designer](https://jobright.ai/jobs/info/6978141b52f3c27ec644420e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | On Site | Jan 26 |
 | **[Majesty Brands](https://www.majestybrands.com)** | **[Assistant Designer, men's](https://jobright.ai/jobs/info/6977f21b88e2b47213bbfa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jan 26 |
-| **[Supreme Graphics](https://www.supremegraphics.com/)** | **[Graphic Designer/Prepress Technician](https://jobright.ai/jobs/info/6977ff3688e2b47213bc0b39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arcadia, WI | On Site | Jan 26 |
-| **[State of North Carolina](http://www.nc.gov)** | **[Exhibits Graphic Designer- AQM60034881](https://jobright.ai/jobs/info/6978000afdeb8243a27b00bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NC | On Site | Jan 26 |
-| **[Wight & Company](http://wightco.com)** | **[Architectural Professional I](https://jobright.ai/jobs/info/6977e57c52f3c27ec6440e9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Darien, Illinois, United States | On Site | Jan 26 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Assistant Print Designer](https://jobright.ai/jobs/info/6977e464fdeb8243a27ad80f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
