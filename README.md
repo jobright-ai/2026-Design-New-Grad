@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69658a575ad3a93f8230d1ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Feb 02 |
+| **[Nintendo](http://nintendo.com)** | **[Concept Artist I (NST)](https://jobright.ai/jobs/info/698190a77f40342e15dab8bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | On Site | Feb 02 |
+| ↳ | **[UI Artist I (NST)](https://jobright.ai/jobs/info/69818f8e7f40342e15dab7eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | On Site | Feb 02 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Director](https://jobright.ai/jobs/info/69655a8aa112b40266133295?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 02 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Associate Designer - J.Crew Factory Men's Sweaters](https://jobright.ai/jobs/info/6981732349964d25b5e46c8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Feb 02 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Print Production/Graphic Designer](https://jobright.ai/jobs/info/69816f587f40342e15da7b67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lynnwood, WA | On Site | Feb 02 |
@@ -271,8 +274,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 29 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Jan 29 |
@@ -345,7 +348,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69799fcbd7df290257fc1045?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[ON Advertising](https://onadvertising.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/697c6854727747250d5719ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695da586f5f3c43f38e28ac7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 27 |
-| **[WEINGARTZ](https://www.weingartz.com)** | **[Marketing Production Designer (Part-Time)](https://jobright.ai/jobs/info/697b106a17b11b1c2e420ab6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmington Hills, MI | On Site | Jan 27 |
 | **[Dollamur](https://dollamur.com/)** | **[Digital Print Assistant - (2nd Shift)](https://jobright.ai/jobs/info/697b0e9f1423772304eb1e51?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Jan 27 |
 | **[Alderwood Landscaping Architecture & Construction](https://alderwoodlandscaping.com)** | **[Full Stack Landscape Designer (Design + 3D Modeling)](https://jobright.ai/jobs/info/697b111c1423772304eb2080?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Jan 27 |
 | **[Mill Creek Kitchen and Bath](http://www.millcreekkb.com)** | **[Kitchen and Bath Designer](https://jobright.ai/jobs/info/69799ffbd7df290257fc1057?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canton, MI | On Site | Jan 27 |
@@ -381,6 +383,4 @@ For a complete list, click the following sortable link below:
 | **[New York Mets](https://www.mlb.com/mets)** | **[Part-Time Graphic Designer](https://jobright.ai/jobs/info/6979287888e2b47213bd4624?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Citi Field – Queens, New York | On Site | Jan 27 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Style Advisor - Designer](https://jobright.ai/jobs/info/6979201d88e2b47213bd3c2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NM_0116_ATLANTA | On Site | Jan 27 |
 | **[Zoom](https://www.zoom.com)** | **[Web Designer](https://jobright.ai/jobs/info/697b9a941423772304ebb6c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 27 |
-| **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC - Freelancer - Dawsonville, GA](https://jobright.ai/jobs/info/697388f0206da320f49d8632?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dawsonville, GA | On Site | Jan 27 |
-| **[PVH Corp.](https://www.pvh.com)** | **[Assistant Technical Designer, Loungewear - Calvin Klein](https://jobright.ai/jobs/info/69790bf152f3c27ec6455438?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY Calvin Klein Office | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
