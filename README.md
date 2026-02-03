@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/69822dd40f6f7e7a2cdb4b1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Feb 03 |
+| **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Freelancer -  MAC Artist  -  Johnson City, TN](https://jobright.ai/jobs/info/698227310f6f7e7a2cdb4064?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Johnson City, TN | On Site | Feb 03 |
 | **[Target](https://www.target.com)** | **[Associate Designer, All In Motion - Womens/Girls Apparel](https://jobright.ai/jobs/info/698219e8c3101f1400c3c0cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Hybrid | Feb 03 |
 | **[Photon](https://www.photon.in)** | **[Hybrid Designer_New York/Chicago/Dallas](https://jobright.ai/jobs/info/69820eff0f6f7e7a2cdb32fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA | Hybrid | Feb 03 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Graduate Lighting Designer- New York (Summer 2026)](https://jobright.ai/jobs/info/68f28bc09a63986de7568b0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Feb 03 |
@@ -296,8 +298,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 29 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Jan 29 |
@@ -376,5 +378,4 @@ For a complete list, click the following sortable link below:
 | **[Bank Policy Institute](https://bpi.com)** | **[ASSISTANT VICE PRESIDENT, GRAPHIC DESIGNER](https://jobright.ai/jobs/info/69798b69ca92cf0d6a82b2ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Jan 27 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Graphic Design Associate](https://jobright.ai/jobs/info/695d9d4cfbd62a0a6566510d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Jan 27 |
 | **[LifeinColors_Weprint](https://www.lifeincolors.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69798333ca92cf0d6a82ad5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Gables, FL | On Site | Jan 27 |
-| **[EG & EverythingHR](https://www.everythinghr.com)** | **[Junior Graphic Designer / Social Media Creator](https://jobright.ai/jobs/info/69798cd10791bc1d72303b92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
