@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[Graphic Designer - Production](https://jobright.ai/jobs/info/698253390f6f7e7a2cdb7a18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | Hybrid | Feb 03 |
+| ↳ | **[Graphic Designer - Production](https://jobright.ai/jobs/info/69825336348f733a5c35215e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | Hybrid | Feb 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69824f0a0f6f7e7a2cdb74ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Pleasant, SC | On Site | Feb 03 |
 | **[Blue Star Families](https://www.bluestarfam.org)** | **[Independent Contractor - Design Specialist, Creative Services](https://jobright.ai/jobs/info/69824b9c348f733a5c351809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/698242a1a314e7636905a79f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Avon, MA | On Site | Feb 03 |
@@ -302,8 +304,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 29 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Jan 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Jan 29 |
@@ -375,6 +377,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695da586f5f3c43f38e28ac7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 27 |
 | **[Dollamur](https://dollamur.com/)** | **[Digital Print Assistant - (2nd Shift)](https://jobright.ai/jobs/info/697b0e9f1423772304eb1e51?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Jan 27 |
 | **[Alderwood Landscaping Architecture & Construction](https://alderwoodlandscaping.com)** | **[Full Stack Landscape Designer (Design + 3D Modeling)](https://jobright.ai/jobs/info/697b111c1423772304eb2080?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Jan 27 |
-| **[Mill Creek Kitchen and Bath](http://www.millcreekkb.com)** | **[Kitchen and Bath Designer](https://jobright.ai/jobs/info/69799ffbd7df290257fc1057?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canton, MI | On Site | Jan 27 |
-| **[Centric Brands](https://centricbrands.com)** | **[Assistant, Graphic Artist](https://jobright.ai/jobs/info/69799ad8ca92cf0d6a82d63d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
