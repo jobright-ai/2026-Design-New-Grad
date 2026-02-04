@@ -404,6 +404,4 @@ For a complete list, click the following sortable link below:
 | **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Spring Lake, NC](https://jobright.ai/jobs/info/697a7192f6fc293b0a2c42a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spring Lake, NC | On Site | Jan 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Danimás](www.danimas.com)** | **[ASSISTANT DESIGNER, APPAREL & ACCESSORIES DESIGN](https://jobright.ai/jobs/info/697a672d9d60e431a16be4a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Jan 28 |
-| **[Stoneleaf Landscape Design & Build](www.stoneleaflandscapes.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/696cdc4e5fc86241853bf91f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Downers Grove, IL | On Site | Jan 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/697a2438b4589b4ee87c69c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
