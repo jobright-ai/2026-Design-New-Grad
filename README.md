@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Graphic Designer (Remote)](https://jobright.ai/jobs/info/69827eb20f6f7e7a2cdbbd65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - Illinois | Remote | Feb 03 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Analyst](https://jobright.ai/jobs/info/698273190f6f7e7a2cdba877?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700 | On Site | Feb 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, New York City - Williams Sonoma](https://jobright.ai/jobs/info/698272eb348f733a5c354ef5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 10 Columbus Circle, New York, NY, 10019, US | On Site | Feb 03 |
 | **[Target](https://www.target.com)** | **[Associate Designer, All In Motion - Womens/Girls Apparel](https://jobright.ai/jobs/info/69826a1e0a9e07331f8d6c89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 03 |
 | **[Coty](https://www.coty.com/)** | **[GRAPHIC DESIGNER & E‑MERCHANDISING ASSISTANT MANAGER](https://jobright.ai/jobs/info/69825ef1348f733a5c352ef6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Feb 03 |
+| **[Rembrandt Charms](https://www.rembrandtcharms.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/698281c70a9e07331f8d9a26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Feb 03 |
+| **[TERRA Engineering, Ltd.](http://terraengineering.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/698284040a9e07331f8d9d48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL, US | On Site | Feb 03 |
+| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Analyst](https://jobright.ai/jobs/info/69827b16348f733a5c35620b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750 | On Site | Feb 03 |
 | **[Funko](http://www.funko.com)** | **[Associate Packaging Utilities Artist](https://jobright.ai/jobs/info/698274110f6f7e7a2cdbaaae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Feb 03 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer: Women's Young Customer (Hybrid, Seattle)](https://jobright.ai/jobs/info/698279260a9e07331f8d8c8d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 03 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic Designer - Production](https://jobright.ai/jobs/info/698253390f6f7e7a2cdb7a18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | Hybrid | Feb 03 |
 | ↳ | **[Graphic Designer - Production](https://jobright.ai/jobs/info/69825336348f733a5c35215e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | Hybrid | Feb 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69824f0a0f6f7e7a2cdb74ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Pleasant, SC | On Site | Feb 03 |
@@ -384,5 +389,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Corporate Print Center Operator - The Toro Company](https://jobright.ai/jobs/info/6979ef43a5b9804527dfbeb9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hennepin County, MN | On Site | Jan 28 |
 | **[CA For The Arts](https://www.caforthearts.org)** | **[Big Sur Land Trust - Ensen Community Park Mural](https://jobright.ai/jobs/info/697a0cbcb4589b4ee87c5b8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salinas, CA | On Site | Jan 28 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Designer - Interiors](https://jobright.ai/jobs/info/6979396788e2b47213bd611f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 28 |
-| **[Centric Brands](https://centricbrands.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69799fcbd7df290257fc1045?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
