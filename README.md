@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Retentics](https://www.retentics.com)** | **[Junior Content Designer](https://jobright.ai/jobs/info/698289820f6f7e7a2cdbcb5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 03 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Graphic Designer (Remote)](https://jobright.ai/jobs/info/69827eb20f6f7e7a2cdbbd65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - Illinois | Remote | Feb 03 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Analyst](https://jobright.ai/jobs/info/698273190f6f7e7a2cdba877?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700 | On Site | Feb 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, New York City - Williams Sonoma](https://jobright.ai/jobs/info/698272eb348f733a5c354ef5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 10 Columbus Circle, New York, NY, 10019, US | On Site | Feb 03 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69825b6b348f733a5c352c1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, WA | On Site | Feb 03 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/69822dd40f6f7e7a2cdb4b1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Feb 03 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic Designer - Production](https://jobright.ai/jobs/info/6982566c348f733a5c35257f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 03 |
-| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/69826b6c348f733a5c353f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Feb 03 |
-| ↳ | **[Designer / Everett, WA](https://jobright.ai/jobs/info/698258620a9e07331f8d5787?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Feb 03 |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/698258620a9e07331f8d5787?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Feb 03 |
+| ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/69826b6c348f733a5c353f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Feb 03 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Freelancer -  MAC Artist  -  Johnson City, TN](https://jobright.ai/jobs/info/698227310f6f7e7a2cdb4064?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Johnson City, TN | On Site | Feb 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/698256cc0a9e07331f8d55b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Augustine, FL | On Site | Feb 03 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Story Artist](https://jobright.ai/jobs/info/69823d0dc3101f1400c3ee16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, California, United States | Hybrid | Feb 03 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Spin Master](https://www.spinmaster.com)** | **[Project Designer [Contract]](https://jobright.ai/jobs/info/69657cca5ad3a93f8230c42b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 02 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69815b3049964d25b5e44f85?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Feb 02 |
 | **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Assistant, Creative](https://jobright.ai/jobs/info/69654b382cbf4e44756ebe95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Feb 02 |
-| **[Jones Soda Co.](http://jonessoda.com)** | **[Designer](https://jobright.ai/jobs/info/698152daabff4c399aa04b5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Remote | Feb 02 |
 | **[Decoda Health](https://decodahealth.com)** | **[Product Designer](https://jobright.ai/jobs/info/6981826149964d25b5e47f66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Feb 02 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/69814ca67f40342e15da4fe1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | Feb 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69814bac49964d25b5e440a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Feb 02 |
