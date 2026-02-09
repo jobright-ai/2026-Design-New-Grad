@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shown Media](shownmedia.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/698912ae0f6f7e7a2ce42540?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6946716dd1953b5d11bfa8d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentwood, MI | On Site | Feb 08 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn](https://jobright.ai/jobs/info/68e07f71f758fe1f97e4daf3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 08 |
 | **[Ainsworth Inc](https://www.ainsworth.com)** | **[BAS Designer](https://jobright.ai/jobs/info/6984230f8da7a612045e22a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Feb 08 |
@@ -200,8 +201,8 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Designer, T Brand Studio](https://jobright.ai/jobs/info/69841cff8da7a612045e11b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 04 |
 | **[Accenture](https://www.accenture.com)** | **[Junior Service Designer](https://jobright.ai/jobs/info/69842f94348f733a5c381475?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montreal, 5 Place Ville Marie, Corp | Hybrid | Feb 04 |
 | ↳ | **[Junior Service Designer](https://jobright.ai/jobs/info/6984245a0f6f7e7a2cde558b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, 510 W. Georgia, Corp | Hybrid | Feb 04 |
-| ↳ | **[Junior Service Designer](https://jobright.ai/jobs/info/6984298e8da7a612045e2f5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calgary, Brookfield Place, Corp | Hybrid | Feb 04 |
 | ↳ | **[Junior Service Designer](https://jobright.ai/jobs/info/69841e05348f733a5c37ef9e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, 150 Elgin St., Corp | Hybrid | Feb 04 |
+| ↳ | **[Junior Service Designer](https://jobright.ai/jobs/info/6984298e8da7a612045e2f5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calgary, Brookfield Place, Corp | Hybrid | Feb 04 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Industrial Designer](https://jobright.ai/jobs/info/6983fd6f01214b4cdacc4cf8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dearborn, MI | Hybrid | Feb 04 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/6981441649964d25b5e427b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elmhurst, IL | On Site | Feb 04 |
 | **[2K](http://2k.com)** | **[Specialist, Global Creators & Influencers - NBA 2K](https://jobright.ai/jobs/info/6983f5460f6f7e7a2cddf083?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novato, California, United States | Hybrid | Feb 04 |
@@ -394,7 +395,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Wenatchee Valley - Full Time](https://jobright.ai/jobs/info/69808ac6abff4c399a9f4aba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 445 Valley Mall Parkway, East Wenatchee, WA, 98802, US | On Site | Feb 02 |
 | ↳ | **[Visual Support Captain, Stamford Town Center - Full Time](https://jobright.ai/jobs/info/69808a6fabff4c399a9f4a9e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 151 Broad Street, Stamford, CT, 06901, US | On Site | Feb 02 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Interior Designer I](https://jobright.ai/jobs/info/69806818abff4c399a9f3089?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Feb 02 |
-| **[Print NW](http://printnw.rocks)** | **[Installation Associate](https://jobright.ai/jobs/info/698319a9348f733a5c3638ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakewood, WA | On Site | Feb 02 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/6981ac6c7f40342e15daccf3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perris, CA | On Site | Feb 02 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Interior Designer I](https://jobright.ai/jobs/info/698059ab7f40342e15d92688?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
