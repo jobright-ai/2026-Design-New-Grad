@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f7558dec6dbe7073fbd67f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | La Quinta, CA | On Site | Feb 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/698f2f240cc8ea15f1d9a14c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Appleton, WI | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f2ea90f6f7e7a2ceb46c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-OH-Cincinnati | Hybrid | Feb 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/698f2c4d0cc8ea15f1d99bec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | On Site | Feb 13 |
@@ -64,6 +65,8 @@ For a complete list, click the following sortable link below:
 | **[SKIMS](https://skims.com)** | **[Design Assistant Accessories and Footwear](https://jobright.ai/jobs/info/695f31b2a112b402660df77b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Feb 13 |
 | **[Amazon](https://amazon.com)** | **[Content Specialist, DS, Digital Studios](https://jobright.ai/jobs/info/691e2f8f3f782d2f1afb2034?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f34d96ea51a7610f1742a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-OH-Columbus | Hybrid | Feb 13 |
+| ↳ | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f3ff60cc8ea15f1d9b659?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH, US | Hybrid | Feb 13 |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Waikiki - Full Time](https://jobright.ai/jobs/info/698f3a3e0f6f7e7a2ceb5b14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2314 Kalakaua Avenue, Honolulu, HI, 96815, US | On Site | Feb 13 |
 | **[Golden Touch](https://gtimports.net)** | **[Assistant Designer – Girls Apparel](https://jobright.ai/jobs/info/69659f132cbf4e44756f47c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 13 |
 | **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/698f09d10cc8ea15f1d95d0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Feb 13 |
 | **[Rise, a Quad agency](http://www.riseinteractive.com)** | **[Visual Designer](https://jobright.ai/jobs/info/698f06566ea51a7610f128c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Feb 13 |
@@ -158,8 +161,8 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/6971a23b587dfa0bb55f4f4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Feb 11 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Color Specialist - 2nd Shift](https://jobright.ai/jobs/info/698d65170f6f7e7a2ce940df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI | On Site | Feb 11 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Social Studies Worksheet Creator (PK–G2) (Freelance)](https://jobright.ai/jobs/info/698d76c8f64d441a164f8d38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 11 |
-| ↳ | **[Social Studies Worksheet Creator (3–5) (Freelance)](https://jobright.ai/jobs/info/698d8274f64d441a164f9b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 11 |
 | ↳ | **[Social Studies Worksheet Creator (6–8) (Freelance)](https://jobright.ai/jobs/info/698d765b78b4502f12a41af5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 11 |
+| ↳ | **[Social Studies Worksheet Creator (3–5) (Freelance)](https://jobright.ai/jobs/info/698d8274f64d441a164f9b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 11 |
 | **[J.Crew](http://www.jcrew.com)** | **[Design Assistant - J.Crew Color & Concept](https://jobright.ai/jobs/info/697141f251f7264771837b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 11 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Color Specialist - 2nd Shift](https://jobright.ai/jobs/info/698f2c266ea51a7610f16936?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI, US | On Site | Feb 11 |
 | **[Filtration Group](http://filtrationgroup.com)** | **[Visual Content& Brand Specialist](https://jobright.ai/jobs/info/698d4dfe0f6f7e7a2ce9244e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Feb 11 |
@@ -169,6 +172,7 @@ For a complete list, click the following sortable link below:
 | **[YuJa](https://www.yuja.com)** | **[UI/UX Designer](https://jobright.ai/jobs/info/698d7a30f64d441a164f91b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North York, Ontario, Canada | On Site | Feb 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/698d1f0b0f6f7e7a2ce8dbbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arvada, CO | On Site | Feb 11 |
 | **[Your Home Sold Guaranteed Realty](https://www.yhsguaranteedrealty.com/)** | **[Real Estate Multimedia Specialist](https://jobright.ai/jobs/info/698d1e230f6f7e7a2ce8daa0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Killeen, TX | On Site | Feb 11 |
+| **[Stouffer Legal](https://www.stoufferlegal.com/)** | **[Print and Mail Production Specialist](https://jobright.ai/jobs/info/698f3fa00f6f7e7a2ceb64d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson,MD,US | On Site | Feb 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/698d313a78b4502f12a3c4e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, SC | On Site | Feb 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/698d2f2878b4502f12a3c102?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Temple, TX | On Site | Feb 11 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Lead UI/UX Designer](https://jobright.ai/jobs/info/698d3e78f64d441a164f43b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-New York, NY (1250 Broadway) | On Site | Feb 11 |
@@ -344,8 +348,4 @@ For a complete list, click the following sortable link below:
 | **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate crew C](https://jobright.ai/jobs/info/69869e3e0f6f7e7a2ce1a96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Feb 06 |
 | **[Golden Touch](https://gtimports.net)** | **[3D Associate Technical Designer – Walmart Kids Apparel](https://jobright.ai/jobs/info/69388fe0a0dde7020e3120cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
 | **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate crew B](https://jobright.ai/jobs/info/698690568ca8121a3a68de77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Feb 06 |
-| **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer - Packaging](https://jobright.ai/jobs/info/696ad89e350cf4380311f894?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
-| **[Chicago Bears](http://www.chicagobears.com)** | **[BRAND CREATIVE ASSOCIATE](https://jobright.ai/jobs/info/6986be5b0f6f7e7a2ce1d90a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lake Forest, IL, US | Hybrid | Feb 06 |
-| **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate D](https://jobright.ai/jobs/info/6986a4038da7a61204618122?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Feb 06 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[DIGITAL PRINT TECHNICIAN](https://jobright.ai/jobs/info/698680d58da7a6120461504e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Athens, GA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
