@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695dac49fbd62a0a6566617a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Feb 18 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69420f6abdcf884a5addc9b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, VA | On Site | Feb 18 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/695dac49fbd62a0a6566617a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Feb 18 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/691be03422a2cb4b9bd16feb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montecito, CA | On Site | Feb 18 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Graphic Design Associate](https://jobright.ai/jobs/info/695d9d4cfbd62a0a6566510d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Feb 18 |
-| **[Calico Wallpaper](https://calicowallpaper.com)** | **[Prepress Designer](https://jobright.ai/jobs/info/69960dbde0bddb6acac46dcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Accessories- Victoria's Secret](https://jobright.ai/jobs/info/69794e1288e2b47213bd8631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 18 |
 | **[Nongshim America, Inc.](http://nongshimusa.com)** | **[Package Design Associate](https://jobright.ai/jobs/info/6926595727bf2f41a2c45768?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Feb 18 |
 | **[Rally House](http://rallyhouse.com)** | **[Creative Project Specialist](https://jobright.ai/jobs/info/6995fb92e0bddb6acac460b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Summit Head Office | On Site | Feb 18 |
@@ -233,12 +233,12 @@ For a complete list, click the following sortable link below:
 | **[Landed Interiors](https://landedinteriors.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/698f8cae6ea51a7610f1ea46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Berkeley, CA | On Site | Feb 13 |
 | **[NewCo Capital Group](https://newcocapitalgroup.com/)** | **[Junior Creative Designer](https://jobright.ai/jobs/info/698fb29c6ea51a7610f21af4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | On Site | Feb 13 |
 | **[Athleta](https://athleta.gap.com/)** | **[Assistant Designer, Performance](https://jobright.ai/jobs/info/698f835b6ea51a7610f1ddd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 13 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fb3f20cc8ea15f1da4d98?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Remote | Feb 13 |
-| ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fa00f0f6f7e7a2cebeaf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | Remote | Feb 13 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fab1a6ea51a7610f21400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | Remote | Feb 13 |
 | ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fac930f6f7e7a2cebf8c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 13 |
-| ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fa33e0cc8ea15f1da3efe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | Remote | Feb 13 |
-| ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fab1a6ea51a7610f21400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | Remote | Feb 13 |
 | ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fae996ea51a7610f2174c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Remote | Feb 13 |
+| ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fb3f20cc8ea15f1da4d98?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Remote | Feb 13 |
+| ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fa33e0cc8ea15f1da3efe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | Remote | Feb 13 |
+| ↳ | **[Flex Image Production Tech - Digital Image Editor (Remote)](https://jobright.ai/jobs/info/698fa00f0f6f7e7a2cebeaf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | Remote | Feb 13 |
 | **[Golfballs.com](https://www.golfballs.com/)** | **[Logo Production Artist](https://jobright.ai/jobs/info/698f821e0cc8ea15f1da0e93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lafayette, LA | On Site | Feb 13 |
 | **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Graphics Coordinator, Creative](https://jobright.ai/jobs/info/6973c7b0bc8e722e7b18955b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Feb 13 |
 | **[La La Land Creative Co.](https://lalalandcreativeco.com/)** | **[Graphic Design Assistant/CAD Artist - APPAREL](https://jobright.ai/jobs/info/698f9e806ea51a7610f20598?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 13 |
@@ -257,10 +257,10 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/690137384539ea1f2141dfa0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Antioch, TN | On Site | Feb 13 |
 | **[BRP](https://www.brp.com/en/)** | **[Peintre](https://jobright.ai/jobs/info/691db150ad5a5170347955a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valcourt, Quebec, Canada | On Site | Feb 13 |
 | **[Visits](https://birthcontrolpharmacist.com/visits/)** | **[UX/UI Designer](https://jobright.ai/jobs/info/698f57280f6f7e7a2ceb8669?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Motion Designer](https://jobright.ai/jobs/info/698f44170f6f7e7a2ceb6ce8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Santa Monica | Hybrid | Feb 13 |
-| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/698f42eb6ea51a7610f188c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA, US | Hybrid | Feb 13 |
-| ↳ | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f45810f6f7e7a2ceb6f5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH, US | Hybrid | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Motion Designer](https://jobright.ai/jobs/info/698f42eb6ea51a7610f188c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA, US | Hybrid | Feb 13 |
+| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/698f44170f6f7e7a2ceb6ce8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Santa Monica | Hybrid | Feb 13 |
 | ↳ | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f34d96ea51a7610f1742a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-OH-Columbus | Hybrid | Feb 13 |
+| ↳ | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f45810f6f7e7a2ceb6f5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH, US | Hybrid | Feb 13 |
 | ↳ | **[Digital Asset Manager](https://jobright.ai/jobs/info/698f3ff60cc8ea15f1d9b659?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH, US | Hybrid | Feb 13 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Waikiki - Full Time](https://jobright.ai/jobs/info/698f3a3e0f6f7e7a2ceb5b14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2314 Kalakaua Avenue, Honolulu, HI, 96815, US | On Site | Feb 13 |
 | **[Golden Touch](https://gtimports.net)** | **[Assistant Designer – Girls Apparel](https://jobright.ai/jobs/info/69659f132cbf4e44756f47c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 13 |
@@ -338,5 +338,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695464af5bb7de448ef756bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | On Site | Feb 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/696ebf81350cf4380315aca0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Ridge North, TX | On Site | Feb 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69546a37aa05c26e7aaeddf2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Des Moines, IA | On Site | Feb 11 |
-| **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer - Boys](https://jobright.ai/jobs/info/6971aae3333b6343a14e4460?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
