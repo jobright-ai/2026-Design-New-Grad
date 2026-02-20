@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Designer](https://jobright.ai/jobs/info/6997c0cc81476f6176afeb30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 19 |
+| **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/6997bd5581476f6176afe439?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 19 |
 | **[SWA](http://www.swagroup.com/)** | **[Landscape Designers - Job#SR](https://jobright.ai/jobs/info/6997bb1281476f6176afdf98?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Beach, CA | On Site | Feb 19 |
 | ↳ | **[Landscape Designers - Job#MP](https://jobright.ai/jobs/info/6997aa1de0bddb6acac66287?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Beach, CA | On Site | Feb 19 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/6997b0e8ce78e77b4fdc0c8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Feb 19 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Jerry Pate Design, Inc.](http://jerrypatedesign.com)** | **[Landscape Architect - Design Associate (0-3yr exp)](https://jobright.ai/jobs/info/699794cce0bddb6acac64534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Feb 19 |
 | **[EXP](http://www.exp.com/)** | **[Lighting Designer (Entry Level)](https://jobright.ai/jobs/info/69978b9fe0bddb6acac63bcf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Feb 19 |
 | **[Keystone Industries](http://keystoneindustries.com)** | **[Digital/Graphic Designer](https://jobright.ai/jobs/info/69976488ce78e77b4fdbbcbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gibbstown, NJ | On Site | Feb 19 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69977dcace78e77b4fdbd2bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | SALT LAKE CITY, UT, US | On Site | Feb 19 |
-| ↳ | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69978443e0bddb6acac6377f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 84101 | On Site | Feb 19 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69978443e0bddb6acac6377f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 84101 | On Site | Feb 19 |
+| ↳ | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69977dcace78e77b4fdbd2bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | SALT LAKE CITY, UT, US | On Site | Feb 19 |
 | **[Wilks Tire & Battery Service](https://www.wilkstire.com)** | **[Brand & Content Specialist](https://jobright.ai/jobs/info/69976eb881476f6176af8c68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albertville, AL | On Site | Feb 19 |
 | **[Office Depot](http://officedepot.com)** | **[Copy & Print PT Retail](https://jobright.ai/jobs/info/69976942ce78e77b4fdbc192?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Feb 19 |
 | **[Target](https://www.target.com)** | **[Associate Designer - Wild Fable Knits & Leisure](https://jobright.ai/jobs/info/699736b0ce78e77b4fdb88dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Hybrid | Feb 19 |
