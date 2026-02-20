@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Graphic Designer II](https://jobright.ai/jobs/info/696066a3a112b402660f28ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[TEMP-Communications (GT - Europe)](https://jobright.ai/jobs/info/6992bfbee0bddb6acac10990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Feb 20 |
 | **[Coach](https://uk.coach.com)** | **[Design Assistant, Footwear](https://jobright.ai/jobs/info/68d77b59267b154f9a2da325?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 20 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 20 |
@@ -167,6 +168,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Families](https://www.bluestarfam.org)** | **[Independent Contractor - Design Specialist, Creative Services](https://jobright.ai/jobs/info/69824b9c348f733a5c351809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Print Digital Manager](https://jobright.ai/jobs/info/69968c5fe0bddb6acac50b6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL, US | On Site | Feb 18 |
 | **[WHSmith North America](http://www.marshallretailgroup.com/)** | **[Creative Studio Coordinator](https://jobright.ai/jobs/info/6997eaa481476f6176b03557?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Center - Las Vegas, NV 89119 US (Primary) | On Site | Feb 18 |
+| **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/68fbd25793c49825ab1062a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Feb 18 |
 | **[Stanford Hotels](http://stanfordhotels.com)** | **[Hotel Junior Interior Designer](https://jobright.ai/jobs/info/69968bae81476f6176ae69d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69966c9881476f6176ae3e3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Webster, TX | On Site | Feb 18 |
 | **[The New York Times](https://www.nytco.com/)** | **[PDC Representative](https://jobright.ai/jobs/info/699667a8ce78e77b4fda7389?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 18 |
@@ -284,7 +286,6 @@ For a complete list, click the following sortable link below:
 | **[ME+EM Ltd](http://www.meandem.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/6993b42081476f6176ab5021?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Feb 16 |
 | **[Archinect](https://archinect.com)** | **[Architect/Architectural Designer](https://jobright.ai/jobs/info/6994ec8a81476f6176acc42b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Feb 16 |
 | **[Mcc service](https://www.linkedin.com/company/102386177)** | **[Addetto/a Gestione del Personale – Settore Comfort e Prevenzione](https://jobright.ai/jobs/info/6993f2adce78e77b4fd7ce4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lodi, IT | On Site | Feb 16 |
-| **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/68fbd25793c49825ab1062a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Feb 16 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6993ce2ae0bddb6acac2158c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Feb 16 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Freelancer, Multi-branded Saskatoon SK](https://jobright.ai/jobs/info/698fa18a0cc8ea15f1da3c17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 16 |
 | **[Signarama Silver Spring](https://signarama.com/locations/md-silver-spring/)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/6993a77c81476f6176ab4037?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Feb 16 |
@@ -348,6 +349,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate UX Designer](https://jobright.ai/jobs/info/698feb060f6f7e7a2cec2fc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Feb 13 |
 | **[Engrain](http://engrain.com/)** | **[Production Artist](https://jobright.ai/jobs/info/698ff1586ea51a7610f25431?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwood Village, CO | On Site | Feb 13 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Assistant Designer (Princeton, NJ Hybrid)](https://jobright.ai/jobs/info/698a77814db8972cecffca96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Princeton, NJ | Hybrid | Feb 13 |
-| **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Associate UX Designer](https://jobright.ai/jobs/info/698fc4006ea51a7610f230d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago | Hybrid | Feb 13 |
-| **[Mondo](https://trymondo.com)** | **[Web Design Production Designer](https://jobright.ai/jobs/info/69936bace0bddb6acac1b337?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conshohocken, PA, US | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
