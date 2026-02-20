@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetherRealm Studios (WB Games)](http://www.netherrealm.com/)** | **[Associate Artist-Cinematics (Temporary)](https://jobright.ai/jobs/info/695fc67ba112b402660e70be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
+| **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/698840230f6f7e7a2ce38933?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Feb 20 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Website Planning Specialist](https://jobright.ai/jobs/info/6993d32dce78e77b4fd7a700?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Feb 20 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Designer I](https://jobright.ai/jobs/info/697bfadf1136d179eeefa1be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Feb 20 |
+| ↳ | **[Interior Designer I](https://jobright.ai/jobs/info/697c013d1136d179eeefa683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Feb 20 |
+| **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 20 |
+| **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69881aa38da7a6120463346d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Feb 20 |
+| **[Revvity](https://www.revvity.com/)** | **[Associate UX Designer - Remote](https://jobright.ai/jobs/info/691de24a61dc50590a64b6b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Feb 20 |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Designer](https://jobright.ai/jobs/info/697b97981423772304ebb571?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Boston | Hybrid | Feb 20 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Lead UI/UX Designer](https://jobright.ai/jobs/info/699833f2ce78e77b4fdceb2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, New York Metropolitan Area | On Site | Feb 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69883d9e8da7a61204635dc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 20 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69981bbbe0bddb6acac721e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mobile, AL | Remote | Feb 20 |
@@ -341,6 +350,4 @@ For a complete list, click the following sortable link below:
 | **[Mondo](https://trymondo.com)** | **[Web Design Production Designer](https://jobright.ai/jobs/info/69936bace0bddb6acac1b337?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conshohocken, PA, US | Hybrid | Feb 13 |
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/698f96ee0cc8ea15f1da2d55?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Feb 13 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Full-Time Graphic Sign Designer](https://jobright.ai/jobs/info/698f949c0f6f7e7a2cebd7e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA 19115 | On Site | Feb 13 |
-| **[NewCo Capital Group](https://newcocapitalgroup.com/)** | **[Junior Creative Designer](https://jobright.ai/jobs/info/698fb29c6ea51a7610f21af4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | On Site | Feb 13 |
-| **[Athleta](https://athleta.gap.com/)** | **[Assistant Designer, Performance](https://jobright.ai/jobs/info/698f835b6ea51a7610f1ddd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
