@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68b79838f4e41a61efd9a562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oxnard, CA | On Site | Feb 21 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69620d1c25e18715077eeb81?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | On Site | Feb 21 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68f06d6fa6b9004b5e31ffe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norco, CA | On Site | Feb 21 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68b8e93807090163b6ba61aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | On Site | Feb 21 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3be6ed63844c944b2324?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ypsilanti, MI | On Site | Feb 21 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68b79838f4e41a61efd9a562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oxnard, CA | On Site | Feb 21 |
 | **[EXPRESS](http://express.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/697b15f71423772304eb2a8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 21 |
 | **[Aristocrat](http://www.aristocrat.com)** | **[Game Designer (Mathematician)](https://jobright.ai/jobs/info/697d888f7f40342e15d651d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Feb 21 |
 | **[Gensler](http://www.gensler.com)** | **[Design Technology Specialist - Junior](https://jobright.ai/jobs/info/698e964e78b4502f12a56fcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 21 |
