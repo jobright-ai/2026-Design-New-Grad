@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Feb 20 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Feb 20 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Feb 20 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Feb 20 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f30764c3d7411c3c942?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brentwood, TN | On Site | Feb 20 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Feb 20 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69987958e0bddb6acac77257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Feb 20 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Feb 20 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Associate Game Designer (Technical) (Contingent)](https://jobright.ai/jobs/info/699873a3e0bddb6acac76f0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Feb 20 |
+| **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/697c7d54727747250d572df0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Feb 20 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Associate UX Designer - Acton, MA (Hybrid)](https://jobright.ai/jobs/info/697b9d3d1423772304ebbdde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Hybrid | Feb 20 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/699870a6ce78e77b4fdd0fd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Feb 20 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6946217563141d188455ce41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Feb 20 |
@@ -122,10 +124,10 @@ For a complete list, click the following sortable link below:
 | **[Eastern States Exposition](http://www.thebige.com)** | **[Brand Creative Coordinator](https://jobright.ai/jobs/info/6997e23ce0bddb6acac6bb0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Springfield, MA | On Site | Feb 19 |
 | **[AMAX](http://amax.com/)** | **[WordPress Website Design and Development Specialist](https://jobright.ai/jobs/info/6997cfd781476f6176b000c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fremont, CA | On Site | Feb 19 |
 | **[Canada's Wonderland](https://www.canadaswonderland.com)** | **[Technician - Creative Services](https://jobright.ai/jobs/info/6997dd5be0bddb6acac6b08b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vaughan, Ontario, Canada | On Site | Feb 19 |
+| **[SWA](http://www.swagroup.com/)** | **[Landscape Designers - Job#MP](https://jobright.ai/jobs/info/69989bb381476f6176b0fea9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Beach, CA | On Site | Feb 19 |
 | **[CultureFly](https://www.culturefly.com)** | **[Designer – Seasonal/Holiday Licensed and Generic Department](https://jobright.ai/jobs/info/6997c658e0bddb6acac68999?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 19 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Designer](https://jobright.ai/jobs/info/6997c0cc81476f6176afeb30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 19 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/6997bd5581476f6176afe439?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 19 |
-| **[SWA](http://www.swagroup.com/)** | **[Landscape Designers - Job#SR](https://jobright.ai/jobs/info/6997bb1281476f6176afdf98?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Beach, CA | On Site | Feb 19 |
 | **[Studio Mesa](https://www.studiomesadesign.com/)** | **[Interior Design Assistant (part-time, remote)](https://jobright.ai/jobs/info/69985d89e0bddb6acac7636a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kingston, NY | Remote | Feb 19 |
 | **[Office Depot](http://officedepot.com)** | **[Copy & Print PT Retail](https://jobright.ai/jobs/info/6997c57481476f6176aff199?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Feb 19 |
 | **[Jaqui Seerman Design](http://www.jaquiseerman.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/69980f6fce78e77b4fdcb764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 19 |
@@ -349,11 +351,4 @@ For a complete list, click the following sortable link below:
 | **[Edelman Smithfield](https://www.edelmansmithfield.com/)** | **[Digital Designer - Financial Communications](https://jobright.ai/jobs/info/6974312abc8e722e7b1927cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 14 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Media Design Group Designer / Animator](https://jobright.ai/jobs/info/697441e0bc8e722e7b193ae7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, CA | On Site | Feb 14 |
 | **[lululemon](http://shop.lululemon.com)** | **[Design Assistant, Knits / Contract until December 2026](https://jobright.ai/jobs/info/69743d04bc8e722e7b193718?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 14 |
-| **[Dôen](https://shopdoen.com)** | **[Design Assistant](https://jobright.ai/jobs/info/698d242f78b4502f12a3ae83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 13 |
-| **[Bruegge and Co](http://www.ilhomestores.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6991595b0cc8ea15f1dbfc12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | East Peoria, IL | Hybrid | Feb 13 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Angel Essentials](https://jobright.ai/jobs/info/699019896ea51a7610f282f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 13 |
-| **[Cushing Terrell](https://cushingterrell.com/)** | **[Design Professional](https://jobright.ai/jobs/info/698fe4190f6f7e7a2cec29bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Great Falls, MT | On Site | Feb 13 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/698fddf56ea51a7610f243c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Feb 13 |
-| **[Engrain](http://engrain.com/)** | **[Quality Assurance Design Specialist](https://jobright.ai/jobs/info/698fdaf76ea51a7610f24163?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwood Village, CO | On Site | Feb 13 |
-| **[Landed Interiors](https://landedinteriors.com)** | **[Junior-Intermediate Interior Designer](https://jobright.ai/jobs/info/698f8cae6ea51a7610f1ea46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Berkeley, CA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
