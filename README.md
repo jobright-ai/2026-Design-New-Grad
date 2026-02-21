@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[Temporary Writer](https://jobright.ai/jobs/info/69991683e0bddb6acac8103e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 20 |
+| **[Pritchard Industries](https://www.pritchardindustries.com/)** | **[Creative Specialist / Producer](https://jobright.ai/jobs/info/699913ba81476f6176b18a31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 20 |
 | **[Woodbridge Interiors](https://www.woodbridgeinteriors.com/)** | **[Interior Designer/Design Consultant](https://jobright.ai/jobs/info/6998f992ce78e77b4fdd9242?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canonsburg, PA | On Site | Feb 20 |
 | **[Under Armour](http://underarmour.com)** | **[Production Associate - Team](https://jobright.ai/jobs/info/69990c3ce0bddb6acac803fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 20 |
 | **[DesignPac](http://www.desingpac.net)** | **[Associate Product Designer](https://jobright.ai/jobs/info/6998e4c7ce78e77b4fdd7267?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Brook, IL | Hybrid | Feb 20 |
@@ -375,6 +377,4 @@ For a complete list, click the following sortable link below:
 | **[Under Armour](http://underarmour.com)** | **[Footwear Designer I, Sportswear](https://jobright.ai/jobs/info/6958627aaa05c26e7ab23ee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69915b860cc8ea15f1dbfd54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Neenah, WI | On Site | Feb 14 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69915bb36ea51a7610f3b7fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshfield, WI | On Site | Feb 14 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/6933b7a7a0dde7020e2f0d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Feb 14 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Design Professional I - 2026 Graduates](https://jobright.ai/jobs/info/6973ea36bc8e722e7b18c7fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
