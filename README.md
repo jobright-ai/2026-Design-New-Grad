@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEA Group](http://www.gea.com/)** | **[Production Designer](https://jobright.ai/jobs/info/697d0e183f57a3356966c238?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hudson, WI | On Site | Feb 21 |
 | **[Design Observer](http://designobserver.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/69999427ce78e77b4fde81cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Feb 21 |
 | **[West Elm](https://www.westelm.com/)** | **[Assistant Designer, Decorative Accessories - West Elm](https://jobright.ai/jobs/info/697d6bf83f57a3356967519c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 21 |
 | **[Life360](http://www.life360.com)** | **[Associate Product Designer - University/ New Grad- Class of 2025](https://jobright.ai/jobs/info/6996b63be0bddb6acac55680?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 21 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/689daf2383d13d1f5b6b343e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Feb 21 |
 | **[HUB International](https://www.hubinternational.com)** | **[Temporary Writer, Communications & Design](https://jobright.ai/jobs/info/69997f67ce78e77b4fde6a2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Remote | Feb 21 |
 | **[Saks Global](https://www.saksglobal.com)** | **[Style Advisor - Designer](https://jobright.ai/jobs/info/6999751b81476f6176b231f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boca Raton, FL | On Site | Feb 21 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Junior Designer](https://jobright.ai/jobs/info/6999732681476f6176b22e2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Feb 21 |
 | **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/6999472781476f6176b1e06e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Feb 20 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69994401ce78e77b4fde0559?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kenosha, WI | On Site | Feb 20 |
 | **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/69992e49ce78e77b4fdde400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 20 |
