@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Lead UI/UX Designer](https://jobright.ai/jobs/info/699abdd681476f6176b35a83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, New York Metropolitan Area | On Site | Feb 22 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRAPHIC DESIGNER I](https://jobright.ai/jobs/info/699a96a981476f6176b33c03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 21 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Girls Apparel](https://jobright.ai/jobs/info/699a96c7e0bddb6acac9bc82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 21 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Editorial Coordinator](https://jobright.ai/jobs/info/699a6f2981476f6176b3042c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Becket, MA 01223 | Remote | Feb 21 |
@@ -250,7 +251,6 @@ For a complete list, click the following sortable link below:
 | **[Experian](http://www.experianplc.com)** | **[Video and Multimedia Specialist, CA Hybrid](https://jobright.ai/jobs/info/6996975ee0bddb6acac51cc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 475 Anton Blvd, Costa Mesa, CA | Hybrid | Feb 18 |
 | **[Blue Star Families](https://www.bluestarfam.org)** | **[Independent Contractor - Design Specialist, Creative Services](https://jobright.ai/jobs/info/69824b9c348f733a5c351809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Print Digital Manager](https://jobright.ai/jobs/info/69968c5fe0bddb6acac50b6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL, US | On Site | Feb 18 |
-| **[WHSmith North America](http://www.marshallretailgroup.com/)** | **[Creative Studio Coordinator](https://jobright.ai/jobs/info/6999c3f981476f6176b284a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Center - Las Vegas, NV 89119 US (Primary) | On Site | Feb 18 |
 | **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/68fbd25793c49825ab1062a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Feb 18 |
 | **[Stanford Hotels](http://stanfordhotels.com)** | **[Hotel Junior Interior Designer](https://jobright.ai/jobs/info/69968bae81476f6176ae69d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69966c9881476f6176ae3e3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Webster, TX | On Site | Feb 18 |
