@@ -182,6 +182,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699807ad81476f6176b072d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisiana, United States | Remote | Feb 19 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69980736ce78e77b4fdcace7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL | Remote | Feb 19 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699806dd81476f6176b0716b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | Remote | Feb 19 |
+| **[Latham, The Pool Company](https://www.lathampool.com)** | **[Pool Design Reviewer](https://jobright.ai/jobs/info/699aacdace78e77b4fdf73dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Feb 19 |
 | **[NorthStar Memorial Group](http://nsmg.com)** | **[Print Graphic Designer](https://jobright.ai/jobs/info/69981c5ece78e77b4fdcc290?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Feb 19 |
 | ↳ | **[Print Graphic Designer](https://jobright.ai/jobs/info/69981caace78e77b4fdcc2cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Feb 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Multimedia Content Specialist](https://jobright.ai/jobs/info/6997f74fce78e77b4fdc8dbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rogers Centre | On Site | Feb 19 |
