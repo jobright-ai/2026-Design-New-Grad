@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRAPHIC DESIGNER I](https://jobright.ai/jobs/info/699a96a981476f6176b33c03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 21 |
+| **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Girls Apparel](https://jobright.ai/jobs/info/699a96c7e0bddb6acac9bc82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 21 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Editorial Coordinator](https://jobright.ai/jobs/info/699a6f2981476f6176b3042c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Becket, MA 01223 | Remote | Feb 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69620d1c25e18715077eeb81?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | On Site | Feb 21 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68f06d6fa6b9004b5e31ffe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norco, CA | On Site | Feb 21 |
@@ -209,8 +211,8 @@ For a complete list, click the following sortable link below:
 | **[Jerry Pate Design, Inc.](http://jerrypatedesign.com)** | **[Landscape Architect - Design Associate (0-3yr exp)](https://jobright.ai/jobs/info/699794cce0bddb6acac64534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Feb 19 |
 | **[EXP](http://www.exp.com/)** | **[Lighting Designer (Entry Level)](https://jobright.ai/jobs/info/69978b9fe0bddb6acac63bcf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Feb 19 |
 | **[Keystone Industries](http://keystoneindustries.com)** | **[Digital/Graphic Designer](https://jobright.ai/jobs/info/69976488ce78e77b4fdbbcbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gibbstown, NJ | On Site | Feb 19 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69977dcace78e77b4fdbd2bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | SALT LAKE CITY, UT, US | On Site | Feb 19 |
-| ↳ | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69978443e0bddb6acac6377f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 84101 | On Site | Feb 19 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69978443e0bddb6acac6377f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 84101 | On Site | Feb 19 |
+| ↳ | **[Graphic and Multimedia Designer at Clark Planetarium (OPEN UNTIL FILLED)](https://jobright.ai/jobs/info/69977dcace78e77b4fdbd2bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | SALT LAKE CITY, UT, US | On Site | Feb 19 |
 | **[Wilks Tire & Battery Service](https://www.wilkstire.com)** | **[Brand & Content Specialist](https://jobright.ai/jobs/info/69976eb881476f6176af8c68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albertville, AL | On Site | Feb 19 |
 | **[Henderson Recreation Equipment Limited](https://www.hendersonplay.com)** | **[Playground Layout Designer (AutoCAD)](https://jobright.ai/jobs/info/69984e4ee0bddb6acac75b6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Simcoe, Ontario, Canada | On Site | Feb 19 |
 | **[Target](https://www.target.com)** | **[Associate Designer - Wild Fable Knits & Leisure](https://jobright.ai/jobs/info/699736b0ce78e77b4fdb88dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Hybrid | Feb 19 |
