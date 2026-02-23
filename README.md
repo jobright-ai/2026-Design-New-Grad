@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TransPerfect](http://www.transperfect.com)** | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699c042bce78e77b4fe09346?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | Remote | Feb 22 |
+| **[TransPerfect](http://www.transperfect.com)** | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699c0650ce78e77b4fe094c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | Remote | Feb 22 |
+| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699c042bce78e77b4fe09346?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | Remote | Feb 22 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699bf91be0bddb6acacadb44?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Remote | Feb 22 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699bf592ce78e77b4fe08b84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alaska, United States | Remote | Feb 22 |
 | **[TEECOM](http://teecom.com)** | **[Designer I](https://jobright.ai/jobs/info/699bbfcc81476f6176b41023?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Feb 22 |
@@ -160,7 +161,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Feb 20 |
 | **[Branded Bills](https://www.brandedbills.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6999a53dce78e77b4fde8836?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tempe, AZ | On Site | Feb 20 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Graphic Designer II](https://jobright.ai/jobs/info/696066a3a112b402660f28ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
-| **[Georgia Institute of Technology](http://gatech.edu)** | **[TEMP-Communications (GT - Europe)](https://jobright.ai/jobs/info/6992bfbee0bddb6acac10990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Feb 20 |
 | **[Coach](https://uk.coach.com)** | **[Design Assistant, Footwear](https://jobright.ai/jobs/info/68d77b59267b154f9a2da325?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 20 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Graphic Designer - Beauty & Accessories](https://jobright.ai/jobs/info/697b45fb1423772304eb68e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 20 |
 | **[NetherRealm Studios (WB Games)](http://www.netherrealm.com/)** | **[Associate Artist-Cinematics (Temporary)](https://jobright.ai/jobs/info/695fc67ba112b402660e70be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
@@ -282,7 +282,8 @@ For a complete list, click the following sortable link below:
 | **[Advia Credit Union](https://www.adviacu.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69965e4fce78e77b4fda67e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kalamazoo,MI,US | Hybrid | Feb 18 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Jr Designer](https://jobright.ai/jobs/info/6996447181476f6176ae03ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69795c1739f7f96cc6d1d0e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bohemia, NY | On Site | Feb 18 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68cd2c1c1ad6b16f0289610c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Feb 18 |
+| **[VARITE INC](http://www.varite.com)** | **[Artwork Editor (Office-Creative/Design)](https://jobright.ai/jobs/info/699c099ace78e77b4fe096d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Remote | Feb 18 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd2c1c1ad6b16f0289610c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Feb 18 |
 | **[Advia Credit Union](https://www.adviacu.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/6996342881476f6176adefd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kalamazoo, MI | Hybrid | Feb 18 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/691be03422a2cb4b9bd16feb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montecito, CA | On Site | Feb 18 |
 | **[National Journal](http://www.nationaljournal.com)** | **[Graphic Design Associate](https://jobright.ai/jobs/info/695d9d4cfbd62a0a6566510d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Feb 18 |
@@ -384,5 +385,4 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic Digital Brands](https://intrinsicdigital.marketing)** | **[Creative Traffic Coordinator (Philippines)](https://jobright.ai/jobs/info/6993a6ccce78e77b4fd77ab5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate  - OH](https://jobright.ai/jobs/info/6993a737ce78e77b4fd77aff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Feb 16 |
 | **[Cooper Carry](https://www.coopercarry.com/)** | **[Designer I (Boulder, CO)](https://jobright.ai/jobs/info/6993a8b6e0bddb6acac1efbc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, Colorado, United States | On Site | Feb 16 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Custom Framing - Retail - $11.75/hr](https://jobright.ai/jobs/info/699379a8e0bddb6acac1be0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Store - 1458 Lakeshore Rd, Gilford, NH | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
