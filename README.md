@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Land Perc](http://www.landperc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/699da8ad81476f6176b692d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Feb 24 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699d84aae0bddb6acacce010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edison, NJ | Remote | Feb 24 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699d8493e0bddb6acaccdfe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Great Falls, MT | Remote | Feb 24 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699d8408e0bddb6acaccdefd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maine, United States | Remote | Feb 24 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Entry Level Landscape Architectural Designer](https://jobright.ai/jobs/info/699d2c8ae0bddb6acacc588f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Feb 23 |
 | ↳ | **[Entry Level Landscape Architectural Designer](https://jobright.ai/jobs/info/699d2616e0bddb6acacc4c95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Feb 23 |
 | ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/699d2c4481476f6176b5ddb8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Feb 23 |
+| **[H15DEN](https://h15den.com)** | **[Graphic Design - Social Media (Instagram)](https://jobright.ai/jobs/info/699da4dfe0bddb6acacd0b7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Feb 23 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/699d2ab6e0bddb6acacc5519?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 23 |
 | **[Pactiv Evergreen Inc.](https://www.pactivevergreen.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/699d22ecce78e77b4fe1fa55?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baxter Springs, KS | On Site | Feb 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/699cf88ee0bddb6acacc0642?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Gabriel, CA | On Site | Feb 23 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Coordinator (Kids Brands)](https://jobright.ai/jobs/info/699d151281476f6176b5b660?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Feb 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/699cec70e0bddb6acacbf2f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin, OR | On Site | Feb 23 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/699cfe8a81476f6176b591b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmington, NC | On Site | Feb 23 |
-| **[ZGF Architects](https://www.zgf.com/)** | **[Entry-Level Architect](https://jobright.ai/jobs/info/699cfcfde0bddb6acacc0f23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Feb 23 |
-| ↳ | **[Entry-Level Architect](https://jobright.ai/jobs/info/699cf507ce78e77b4fe1af26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 23 |
+| **[ZGF Architects](https://www.zgf.com/)** | **[Entry-Level Architect](https://jobright.ai/jobs/info/699cf507ce78e77b4fe1af26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 23 |
+| ↳ | **[Entry-Level Architect](https://jobright.ai/jobs/info/699cfcfde0bddb6acacc0f23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Feb 23 |
 | ↳ | **[Entry-Level Architect](https://jobright.ai/jobs/info/699d048581476f6176b59df0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Feb 23 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Lead UI/UX Designer](https://jobright.ai/jobs/info/699cd24981476f6176b55f9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, New York Metropolitan Area | On Site | Feb 23 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Creative Specialist](https://jobright.ai/jobs/info/699d02b481476f6176b59a30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | Feb 23 |
@@ -370,8 +372,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/69967562ce78e77b4fda82f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Feb 18 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Junior Print Digital Manager](https://jobright.ai/jobs/info/69965bd7e0bddb6acac4cc46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL | Hybrid | Feb 18 |
 | **[Golden Touch](https://gtimports.net)** | **[Assistant CAD Designer – Handbags + SLG](https://jobright.ai/jobs/info/6968059df25a380066965ab0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 18 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Junior Sound Designer, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/699639c1e0bddb6acac49bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
-| ↳ | **[Junior 3D Modeler, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/69965e2f81476f6176ae2d45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Junior 3D Modeler, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/69965e2f81476f6176ae2d45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
+| ↳ | **[Junior Sound Designer, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/699639c1e0bddb6acac49bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6996436e81476f6176ae0231?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, IL | On Site | Feb 18 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/69963f30ce78e77b4fda3785?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | On Site | Feb 18 |
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Graphic Designer / Digital Key-Op](https://jobright.ai/jobs/info/6996476881476f6176ae082e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA 92618 | On Site | Feb 18 |
