@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/699d1311e0bddb6acacc3041?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Feb 23 |
+| **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate CAD Textile Designer](https://jobright.ai/jobs/info/699d0f69ce78e77b4fe1de48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/699cf88ee0bddb6acacc0642?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Gabriel, CA | On Site | Feb 23 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/699cf631e0bddb6acacc0150?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Draper, UT | On Site | Feb 23 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/699cec70e0bddb6acacbf2f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin, OR | On Site | Feb 23 |
+| **[Mathis Home](https://mathisbrothers.com)** | **[DESIGNER](https://jobright.ai/jobs/info/699d0e89ce78e77b4fe1dd3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Feb 23 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Coordinator (Kids Brands)](https://jobright.ai/jobs/info/699d151281476f6176b5b660?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Feb 23 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/699cec70e0bddb6acacbf2f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin, OR | On Site | Feb 23 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/699cfe8a81476f6176b591b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmington, NC | On Site | Feb 23 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[Entry-Level Architect](https://jobright.ai/jobs/info/699cfcfde0bddb6acacc0f23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Feb 23 |
 | ↳ | **[Entry-Level Architect](https://jobright.ai/jobs/info/699cf507ce78e77b4fe1af26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 23 |
@@ -366,6 +370,7 @@ For a complete list, click the following sortable link below:
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Staff (Color Format)](https://jobright.ai/jobs/info/69781abcfdeb8243a27b0e4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Feb 17 |
 | **[Life Alive Café](https://www.lifealive.com)** | **[Freelance Graphic Designer [Contract Role]](https://jobright.ai/jobs/info/6995493981476f6176ad2aae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cambridge, Massachusetts, United States | On Site | Feb 17 |
 | **[Stauffers of Kissel Hill](http://skh.com)** | **[Landscape Team Member](https://jobright.ai/jobs/info/699528ed81476f6176ad05f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manheim, PA, US | On Site | Feb 17 |
+| **[TEECOM](http://teecom.com)** | **[Designer I](https://jobright.ai/jobs/info/6994372e81476f6176abf0fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | On Site | Feb 17 |
 | **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Jamestown, NC](https://jobright.ai/jobs/info/69952649e0bddb6acac3ae10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jamestown, NC | On Site | Feb 17 |
 | **[Forum Communications Co.](http://www.forumcomm.com/)** | **[Creative Services Producer](https://jobright.ai/jobs/info/699524dfe0bddb6acac3aca6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rapid City,SD,US | On Site | Feb 17 |
 | **[Mappedin](http://www.mappedin.com/)** | **[Implementation Coordinator](https://jobright.ai/jobs/info/699525b5e0bddb6acac3ad77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, ON, Canada | Hybrid | Feb 17 |
@@ -403,6 +408,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Kitchen and Bath](https://www.alliedkitchenandbath.com/)** | **[Design Assistant](https://jobright.ai/jobs/info/69946b96ce78e77b4fd86375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Feb 17 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Custom Frame Bonus Eligible](https://jobright.ai/jobs/info/6994a48ce0bddb6acac315b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bloomington-4240 W 78th St | On Site | Feb 17 |
 | **[Waggle](https://getyourwaggleon.com)** | **[Associate Designer (Custom Apparel)](https://jobright.ai/jobs/info/6994867bce78e77b4fd8877f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Blaine, MN | Hybrid | Feb 17 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Design Professional I - 2026 Graduates](https://jobright.ai/jobs/info/6977ec5a88e2b47213bbedef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Feb 17 |
-| **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Technical Designer, Underwear - Calvin Klein](https://jobright.ai/jobs/info/69782ff139f7f96cc6d077d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
