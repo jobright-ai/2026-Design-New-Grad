@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/699db2cdce78e77b4fe2cb24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montrose, CO | On Site | Feb 24 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/699db603e0bddb6acacd17b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | On Site | Feb 24 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/699db2cdce78e77b4fe2cb24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montrose, CO | On Site | Feb 24 |
 | **[Land Perc](http://www.landperc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/699da8ad81476f6176b692d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Feb 24 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699d84aae0bddb6acacce010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edison, NJ | Remote | Feb 24 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699d8493e0bddb6acaccdfe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Great Falls, MT | Remote | Feb 24 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate CAD Textile Designer](https://jobright.ai/jobs/info/699d0f69ce78e77b4fe1de48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 23 |
 | **[Eastern States Exposition](http://www.thebige.com)** | **[Brand Creative Coordinator](https://jobright.ai/jobs/info/699d2b30e0bddb6acacc568f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Springfield, MA | On Site | Feb 23 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Entry Level Landscape Architectural Designer](https://jobright.ai/jobs/info/699d2c8ae0bddb6acacc588f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Feb 23 |
-| ↳ | **[Entry Level Landscape Architectural Designer](https://jobright.ai/jobs/info/699d2616e0bddb6acacc4c95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Feb 23 |
 | ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/699d2c4481476f6176b5ddb8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Feb 23 |
 | **[H15DEN](https://h15den.com)** | **[Graphic Design - Social Media (Instagram)](https://jobright.ai/jobs/info/699da4dfe0bddb6acacd0b7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Feb 23 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/699d2ab6e0bddb6acacc5519?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 23 |
@@ -419,10 +419,4 @@ For a complete list, click the following sortable link below:
 | **[Coach](https://uk.coach.com)** | **[Coordinator, Architecture (NA)](https://jobright.ai/jobs/info/699538d781476f6176ad19ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 17 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Cabinet Designer (Non-Commissioned) - 20/20 Kitchen & Bath](https://jobright.ai/jobs/info/69951c29ce78e77b4fd93382?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Feb 17 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Staff (Color Format)](https://jobright.ai/jobs/info/69781abcfdeb8243a27b0e4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Feb 17 |
-| **[Life Alive Café](https://www.lifealive.com)** | **[Freelance Graphic Designer [Contract Role]](https://jobright.ai/jobs/info/6995493981476f6176ad2aae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cambridge, Massachusetts, United States | On Site | Feb 17 |
-| **[Stauffers of Kissel Hill](http://skh.com)** | **[Landscape Team Member](https://jobright.ai/jobs/info/699528ed81476f6176ad05f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manheim, PA, US | On Site | Feb 17 |
-| **[TEECOM](http://teecom.com)** | **[Designer I](https://jobright.ai/jobs/info/6994372e81476f6176abf0fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | On Site | Feb 17 |
-| **[Artisan Direct](https://www.artisandirect.us)** | **[Weekend Sign Placer - Jamestown, NC](https://jobright.ai/jobs/info/69952649e0bddb6acac3ae10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jamestown, NC | On Site | Feb 17 |
-| **[Forum Communications Co.](http://www.forumcomm.com/)** | **[Creative Services Producer](https://jobright.ai/jobs/info/699524dfe0bddb6acac3aca6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rapid City,SD,US | On Site | Feb 17 |
-| **[Mappedin](http://www.mappedin.com/)** | **[Implementation Coordinator](https://jobright.ai/jobs/info/699525b5e0bddb6acac3ad77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, ON, Canada | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
