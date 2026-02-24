@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SACHEU](https://sacheu.com)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/699e0dd7ce78e77b4fe32914?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c8ef7995f5211cd2ceb94f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commack, NY | On Site | Feb 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69814bac49964d25b5e440a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Feb 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68f2c35c9a63986de756c127?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | On Site | Feb 24 |
 | **[Blue Hour Studios](https://hellobluehour.com)** | **[Creative](https://jobright.ai/jobs/info/699df04be0bddb6acacd5acf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 24 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f1be72ef766b3f0fd11b12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Augusta, GA | On Site | Feb 24 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/69658a575ad3a93f8230d1ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Feb 24 |
+| **[TransPerfect](http://www.transperfect.com)** | **[Lead UI/UX Designer](https://jobright.ai/jobs/info/699e1575e0bddb6acacd763a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-New York, NY (1250 Broadway) | On Site | Feb 24 |
+| **[Univair Aircraft Corporation](https://www.univair.com)** | **[Print Production Specialist / Graphic Designer](https://jobright.ai/jobs/info/699e13c981476f6176b6fbf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, CO | On Site | Feb 24 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/69815f06abff4c399aa05617?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Feb 24 |
 | ↳ | **[Visual Associate, Part Time Flex, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/684a0d63ab18d2944e0529a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Station, NY | On Site | Feb 24 |
 | **[Blue Hour Studios](https://hellobluehour.com)** | **[Creative (Temp)](https://jobright.ai/jobs/info/699e0382e0bddb6acacd6b36?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 24 |
@@ -384,8 +389,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/69967562ce78e77b4fda82f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Feb 18 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Junior Print Digital Manager](https://jobright.ai/jobs/info/69965bd7e0bddb6acac4cc46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL | Hybrid | Feb 18 |
 | **[Golden Touch](https://gtimports.net)** | **[Assistant CAD Designer – Handbags + SLG](https://jobright.ai/jobs/info/6968059df25a380066965ab0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 18 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Junior Sound Designer, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/699639c1e0bddb6acac49bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
-| ↳ | **[Junior 3D Modeler, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/69965e2f81476f6176ae2d45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Junior 3D Modeler, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/69965e2f81476f6176ae2d45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
+| ↳ | **[Junior Sound Designer, Texas Immersive Institute, Moody College of Communication](https://jobright.ai/jobs/info/699639c1e0bddb6acac49bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Feb 18 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6996436e81476f6176ae0231?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, IL | On Site | Feb 18 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/69963f30ce78e77b4fda3785?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | On Site | Feb 18 |
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Graphic Designer / Digital Key-Op](https://jobright.ai/jobs/info/6996476881476f6176ae082e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA 92618 | On Site | Feb 18 |
