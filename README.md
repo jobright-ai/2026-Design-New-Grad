@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SACHEU](https://sacheu.com)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/699e0dd7ce78e77b4fe32914?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 24 |
+| **[H15DEN](https://h15den.com)** | **[Graphic Design - Social Media (Instagram & TikTok)](https://jobright.ai/jobs/info/699e2838ce78e77b4fe33a1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Feb 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c8ef7995f5211cd2ceb94f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commack, NY | On Site | Feb 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69814bac49964d25b5e440a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Feb 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68f2c35c9a63986de756c127?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | On Site | Feb 24 |
@@ -415,7 +416,4 @@ For a complete list, click the following sortable link below:
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Custom Graphics Technician](https://jobright.ai/jobs/info/695d76dafbd62a0a65660e56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eugene, OR | On Site | Feb 18 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/6995882be0bddb6acac41d97?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ohio, United States | Remote | Feb 18 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69957f0ace78e77b4fd9a917?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Carolina, United States | Remote | Feb 18 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69957769ce78e77b4fd9a1ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia, United States | Remote | Feb 18 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/6995737581476f6176ad6323?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennsylvania, United States | Remote | Feb 18 |
-| **[maurices](https://www.maurices.com)** | **[Technical Design Coordinator (apparel)](https://jobright.ai/jobs/info/6995b91fce78e77b4fd9cc2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
