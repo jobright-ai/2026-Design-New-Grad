@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Scholastic](http://www.scholastic.com)** | **[Junior Designer](https://jobright.ai/jobs/info/699f83c481476f6176b92079?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 25 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/699f8bd323374b3b6e6b5864?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Feb 25 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/699f8d8881476f6176b9367e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Feb 25 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Environment Artist (Star Wars Jedi)](https://jobright.ai/jobs/info/6982b64b8232105a2d0b0943?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kirkland, WA | Hybrid | Feb 25 |
 | ↳ | **[Environment Artist (Star Wars Jedi)](https://jobright.ai/jobs/info/6982aeb98232105a2d0b0138?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 25 |
 | **[HGA](http://www.hga.com)** | **[Lighting Designer](https://jobright.ai/jobs/info/698a3e434db8972cecff7d7f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 25 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69127907d1047e3565cfce3b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairfield, CT | On Site | Feb 25 |
 | **[FanDuel](http://www.fanduel.com)** | **[Production Designer](https://jobright.ai/jobs/info/694af7f467a69734cac60bcf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 25 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Analyst](https://jobright.ai/jobs/info/69829ae50a9e07331f8dc64b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Feb 25 |
+| **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Design Assistant - Women's Blouses](https://jobright.ai/jobs/info/699f89f8ce78e77b4fe55831?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Feb 25 |
 | **[Publicis Health](http://publicishealth.com)** | **[Designer](https://jobright.ai/jobs/info/699f65f023374b3b6e6b3f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 25 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer: Women's Young Customer (Hybrid, Seattle)](https://jobright.ai/jobs/info/6982c0600f6f7e7a2cdc1303?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 25 |
 | **[Tuckernuck](http://tnuck.com/#)** | **[Production Designer](https://jobright.ai/jobs/info/699f34a181476f6176b8d57c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | DC-Baltimore Area | On Site | Feb 25 |
@@ -119,14 +122,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eb9a7e0bddb6acaceab6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Franklin, TN | Remote | Feb 25 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699eb993e0bddb6acaceab55?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota, United States | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699ef38894ef206f184e069c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wahpeton, ND | Remote | Feb 25 |
-| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eec9981476f6176b863a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eeef181476f6176b864fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mandan, ND | Remote | Feb 25 |
+| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eec9981476f6176b863a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699ed62ece78e77b4fe479b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chattanooga, TN | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699ee0e981476f6176b85a7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Williston, ND | Remote | Feb 25 |
-| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699ed8fb81476f6176b84c89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Murfreesboro, TN | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699edfddce78e77b4fe485da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Fargo, ND | Remote | Feb 25 |
-| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eda30ce78e77b4fe47d7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethlehem, PA | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699ee24b81476f6176b85cb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | Remote | Feb 25 |
+| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699ed8fb81476f6176b84c89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Murfreesboro, TN | Remote | Feb 25 |
+| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eda30ce78e77b4fe47d7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethlehem, PA | Remote | Feb 25 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/699ee4b594ef206f184de857?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | Remote | Feb 25 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/699eaf8fe0bddb6acace97e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fargo, ND | Remote | Feb 25 |
 | **[Signarama Silver Spring](https://signarama.com/locations/md-silver-spring/)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/699f0a79ce78e77b4fe4be45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ocean Springs, MS | On Site | Feb 24 |
@@ -263,7 +266,6 @@ For a complete list, click the following sortable link below:
 | **[Parrot (YC F25)](https://parrotapp.com)** | **[Founding Product Designer](https://jobright.ai/jobs/info/699cd915e0bddb6acacbe1fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Feb 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68bb39b95f3832749186d753?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Daytona Beach, FL | On Site | Feb 23 |
 | **[iN Style Kitchen and Bath](www.instylekitchenandbaths.com)** | **[Interior Designer](https://jobright.ai/jobs/info/699cb1d881476f6176b544d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, IN | On Site | Feb 23 |
-| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vacaville - West Elm Outlet](https://jobright.ai/jobs/info/684a645fae37621980c11614?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vacaville, CA | On Site | Feb 23 |
 | **[48 Hour Books](https://www.48hrbooks.com/)** | **[Prepress Technician](https://jobright.ai/jobs/info/699cabbfce78e77b4fe16c41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Twinsburg, OH | On Site | Feb 23 |
 | **[Novolex](http://www.novolex.com/)** | **[Packaging Associate](https://jobright.ai/jobs/info/699c9f5081476f6176b537c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baxter Springs, KS | On Site | Feb 23 |
 | **[Chervon North America, Inc](http://www.chervongroup.com/)** | **[Industrial Designer I](https://jobright.ai/jobs/info/693b3f3d5f2c001987ed3ba3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | Hybrid | Feb 23 |
@@ -458,6 +460,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins&Will](http://perkinswill.com)** | **[Interior Designer I](https://jobright.ai/jobs/info/697aaa639d60e431a16c4456?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
 | ↳ | **[Designer I](https://jobright.ai/jobs/info/697aa3708dbbf73badc7df94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
 | **[The North Face](http://www.thenorthface.com/)** | **[Associate Designer, Lifestyle Everyday + Youth](https://jobright.ai/jobs/info/697b056717b11b1c2e41fe0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Feb 19 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/695f0fb3a112b402660dce68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Feb 19 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/6996d34081476f6176aecf4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pittsburgh, PA | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
