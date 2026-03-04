@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Graphics Coordinator, Creative](https://jobright.ai/jobs/info/6973c7b0bc8e722e7b18955b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Mar 03 |
+| **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate crew C](https://jobright.ai/jobs/info/69a77f5176bbe83d3afae391?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Mar 03 |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Architectural/Interior Design Specialist](https://jobright.ai/jobs/info/69a77cf42672cb0acb4bf46d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Mar 03 |
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/69a77b032672cb0acb4bf2a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Mar 03 |
 | **[Henry Schein One](http://www.henryscheinone.com/)** | **[UX Designer](https://jobright.ai/jobs/info/69a773b276bbe83d3afad7be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Mar 03 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Designer, Entry-Level](https://jobright.ai/jobs/info/69a772062672cb0acb4be882?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 03 |
@@ -90,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69a6ea4776bbe83d3afa3ec2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ames, IA | On Site | Mar 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69a6e9562672cb0acb4b4ea7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk River, MN | On Site | Mar 03 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/69a6e94b76bbe83d3afa3dc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Mar 03 |
+| **[Timberland](https://www.timberland.com/)** | **[Timberland: Associate Designer - Women's Footwear](https://jobright.ai/jobs/info/698a85230f6f7e7a2ce5ad06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stratham, NH | Hybrid | Mar 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[User Researcher](https://jobright.ai/jobs/info/69a70a021fc3d83b78092bab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | Hybrid | Mar 03 |
 | **[Funko](http://www.funko.com)** | **[Packaging Designer - Contractor (3 Months)](https://jobright.ai/jobs/info/698a3c9d47434001cc687152?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Mar 03 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a6cb2d1fc3d83b78091fe0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grafton, WV | Remote | Mar 03 |
@@ -302,8 +306,8 @@ For a complete list, click the following sortable link below:
 | **[MANSCAPED](https://manscaped.com)** | **[THE MANSCAPED® CREATIVE NETWORK](https://jobright.ai/jobs/info/69a17b7c359fe034b1ccda3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 27 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a17b7a359fe034b1ccda36?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kokomo, IN | Remote | Feb 27 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a17b65359fe034b1ccda16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Opelousas, LA | Remote | Feb 27 |
-| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a17b510da45516f16ae5fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, IN | Remote | Feb 27 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a17b510da45516f16ae5f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elkhart, IN | Remote | Feb 27 |
+| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a17b510da45516f16ae5fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, IN | Remote | Feb 27 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a17b35359fe034b1ccd9b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portage, IN | Remote | Feb 27 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Graphics Specialist](https://jobright.ai/jobs/info/69a17b210da45516f16ae5a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weston, MA | Hybrid | Feb 27 |
 | ↳ | **[Graphics Specialist (SF)](https://jobright.ai/jobs/info/69a17a96359fe034b1ccd88a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weston, MA | Hybrid | Feb 27 |
@@ -488,9 +492,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69a027fb5218a81676711ca1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fremont, NE | Remote | Feb 26 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69a0289181476f6176ba3ca2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Island, NE | Remote | Feb 26 |
 | **[Thinkingbox](https://www.thinkingbox.com/)** | **[Junior Motion Designer - The Heist](https://jobright.ai/jobs/info/699fe6b7ce78e77b4fe5d996?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver | On Site | Feb 25 |
-| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69a027400836fe79d860f0f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA- | Remote | Feb 25 |
-| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69a016da81476f6176ba1ed9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNAVAILABLE, CA, US | Remote | Feb 25 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69a016da81476f6176ba1ed9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNAVAILABLE, CA, US | Remote | Feb 25 |
 | ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69a00da353d97f23ee65bdd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA, US | Remote | Feb 25 |
+| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69a027400836fe79d860f0f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA- | Remote | Feb 25 |
 | **[Ampacity](https://www.rpcs.com/)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69a525d40da45516f16dc2b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | Remote | Feb 25 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69a003acce78e77b4fe62720?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hampton, VA | On Site | Feb 25 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/69a28237359fe034b1cdc9cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 25 |
