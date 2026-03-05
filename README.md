@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Service Company of Oklahoma](https://www.psoklahoma.com/default.aspx)** | **[Designer - Designer Sr](https://jobright.ai/jobs/info/69a93d560bc35444388b2d65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tulsa, OK | On Site | Mar 05 |
 | **[Frank Darling - We're Hiring!](http://www.frankdarling.com)** | **[Pre-Production Coordinator, Fine Jewelry](https://jobright.ai/jobs/info/69a92c9c7ac93962b7091d99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 04 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69a91f937ac93962b7090ead?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vernon Hills, IL | On Site | Mar 04 |
 | **[Lucky Strike Entertainment](https://ir.luckystrikeent.com/)** | **[Jr. Training Graphic Designer](https://jobright.ai/jobs/info/69a8edde7ac93962b708d428?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Mar 04 |
@@ -169,6 +170,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Designer, Entry-Level](https://jobright.ai/jobs/info/69a7716476bbe83d3afad58d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, Minnesota, United States | Hybrid | Mar 03 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Brand Motion Graphics Producer, NBCU Local Chicago](https://jobright.ai/jobs/info/6977ac7c52f3c27ec643c4c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Mar 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69a92a4279f3f4037f43e85b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Mar 03 |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69a93a6879f3f4037f440931?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Mar 03 |
+| **[Design Observer](http://designobserver.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69a938c079f3f4037f4405a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Utica-Rome Area | On Site | Mar 03 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69a898c179f3f4037f429e21?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | VEG Headquarters, White Plains, NY | On Site | Mar 03 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69a9206479f3f4037f43d459?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse-Auburn Area | On Site | Mar 03 |
 | **[Vivid Seats](http://www.vividseats.com)** | **[Graphic Mapping Associate](https://jobright.ai/jobs/info/69a7599d76bbe83d3afaba8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppell, TX | Remote | Mar 03 |
@@ -262,7 +265,6 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Multimedia Communications Specialist](https://jobright.ai/jobs/info/69a6584ce567421f42575b20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | On Site | Mar 02 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/69a65373e567421f425751ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 02 |
 | **[Gensler](http://www.gensler.com)** | **[Brand & Environmental Graphic Designer - Junior](https://jobright.ai/jobs/info/69a644ff2c0d8b0f5cd051a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 02 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69a6447b2c0d8b0f5cd050c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange, CA | On Site | Mar 02 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Project Designer](https://jobright.ai/jobs/info/69a639552c0d8b0f5cd043d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | Mar 02 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69a634be2c0d8b0f5cd04002?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oneonta, NY | Hybrid | Mar 02 |
 | **[Edikted](https://edikted.com)** | **[Ecommerce Retoucher](https://jobright.ai/jobs/info/69a6304eb600907a962c102f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 02 |
@@ -300,8 +302,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a568550da45516f16e1db9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Union, NJ | Remote | Mar 02 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a56854b600907a962b20e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Deer Lodge, MT | Remote | Mar 02 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a56811359fe034b1d00fb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colstrip, MT | Remote | Mar 02 |
-| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a5680b359fe034b1d00fab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Royal Oak, MI | Remote | Mar 02 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a5680b359fe034b1d00fae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stanley, ND | Remote | Mar 02 |
+| ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a5680b359fe034b1d00fab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Royal Oak, MI | Remote | Mar 02 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a567f30da45516f16e1d8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Langdon, ND | Remote | Mar 02 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a567df359fe034b1d00eb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West New York, NJ | Remote | Mar 02 |
 | ↳ | **[Photography Contributor (No experience needed / Remote / US)](https://jobright.ai/jobs/info/69a567d40da45516f16e1d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valley City, ND | Remote | Mar 02 |
@@ -473,8 +475,4 @@ For a complete list, click the following sortable link below:
 | **[Homi Technologies Inc.](www.homi.ca)** | **[User Interface Designer](https://jobright.ai/jobs/info/69a0bd4981476f6176bb0999?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Victoria, British Columbia, Canada | Hybrid | Feb 26 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Associate UX Designer - Acton, Mass. or San Diego, CA (Hybrid)](https://jobright.ai/jobs/info/69a097f581476f6176bae943?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California | Hybrid | Feb 26 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Assistant Graphic Designer, Men's](https://jobright.ai/jobs/info/69a0b99a81476f6176bb05f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Feb 26 |
-| **[JCPenney](http://jcp.com)** | **[Associate Designer Mutual Weave](https://jobright.ai/jobs/info/69a091165218a8167671bf6d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Feb 26 |
-| **[Stony Brook University](http://stonybrook.edu)** | **[Architectural Design Assistant](https://jobright.ai/jobs/info/698396170f6f7e7a2cdd0733?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stony Brook, NY | On Site | Feb 26 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Art Director](https://jobright.ai/jobs/info/69a0bbff81476f6176bb0845?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-IL-Chicago | On Site | Feb 26 |
-| ↳ | **[Junior Art Director](https://jobright.ai/jobs/info/69a0b83d0836fe79d861b853?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL, US | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
