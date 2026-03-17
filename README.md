@@ -176,8 +176,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdff391ad6b16f028a09ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ocean Township, NJ | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d49c7ed63844c944b24a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Mar 13 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f19764c3d7411c3c938?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Mar 13 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6960949fa1bbea1d9a7b5ba5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Murfreesboro, TN | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cd660bb2a74e1837ed68a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hyannis, MA | On Site | Mar 13 |
@@ -185,8 +185,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694647fdd1953b5d11bf7059?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Mar 13 |
-| **[Jackson Rancheria Casino Resort](http://www.jacksoncasino.com/)** | **[Specialist, Marketing Production](https://jobright.ai/jobs/info/69b4722206c1ba00c545e2c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, CA, US | On Site | Mar 13 |
-| ↳ | **[Specialist, Marketing Production](https://jobright.ai/jobs/info/69b471723b74eb1e2c81c2ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Jackson | On Site | Mar 13 |
+| **[Jackson Rancheria Casino Resort](http://www.jacksoncasino.com/)** | **[Specialist, Marketing Production](https://jobright.ai/jobs/info/69b471723b74eb1e2c81c2ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Jackson | On Site | Mar 13 |
+| ↳ | **[Specialist, Marketing Production](https://jobright.ai/jobs/info/69b4722206c1ba00c545e2c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, CA, US | On Site | Mar 13 |
 | **[Markquart RV, LLC](https://www.markquartrv.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69b44f073b74eb1e2c81865a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chippewa Falls, WI | On Site | Mar 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6946217563141d188455ce41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Mar 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Mar 13 |
@@ -295,13 +295,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2ce31ad360c0340a7c1c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Belfast, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2cd45ae2a534885e9faad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Freeport, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2cd45ae2a534885e9fab8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakdale, MN | Remote | Mar 11 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225d165de58104c719af1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houlton, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225d165de58104c719aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inver Grove Heights, MN | Remote | Mar 11 |
+| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225d165de58104c719af1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houlton, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225bad04c69566c74d9f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madawaska, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225b9548f140066e862fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bath, ME | Remote | Mar 11 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225a165de58104c719ab3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeville, MN | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225a165de58104c719ab4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Old Orchard Beach, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225a1548f140066e862ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockland, ME | Remote | Mar 11 |
+| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b225a165de58104c719ab3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeville, MN | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b22598548f140066e862da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bar Harbor, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b22596d04c69566c74d9aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Millinocket, ME | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2259565de58104c719a9d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maplewood, MN | Remote | Mar 11 |
@@ -356,8 +356,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2149a65de58104c71806c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, GA | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2149a65de58104c71806d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hinesville, GA | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2148165de58104c718035?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglasville, GA | Remote | Mar 11 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2147c548f140066e840ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Statesboro, GA | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2147c548f140066e840ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Powder Springs, GA | Remote | Mar 11 |
+| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2147c548f140066e840ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Statesboro, GA | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b21469548f140066e840c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newnan, GA | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b21469548f140066e840c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dalton, GA | Remote | Mar 11 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b2145f548f140066e840ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gainesville, GA | Remote | Mar 11 |
@@ -444,8 +444,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103c57495006450983857?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sand Point, AK | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103b5749500645098382e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103b5749500645098382f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Skagway, AK | Remote | Mar 10 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103aa7495006450983816?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Selawik, AK | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103aa7495006450983815?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain Village, AK | Remote | Mar 10 |
+| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103aa7495006450983816?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Selawik, AK | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b10355dfaeda6ff59bde4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wrangell, AK | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103170b2db6275c05fb2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fountain, CO | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b1030d0b2db6275c05fb09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Pole, AK | Remote | Mar 10 |
@@ -453,8 +453,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b103000b2db6275c05fae7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b102f1749500645098370e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheat Ridge, CO | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b102f1749500645098370f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brighton, CO | Remote | Mar 10 |
-| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b102e374950064509836d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seward, AK | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b102e374950064509836d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | Remote | Mar 10 |
+| ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b102e374950064509836d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seward, AK | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b10283dfaeda6ff59bdd74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parker, CO | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b1026bdfaeda6ff59bdd37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commerce City, CO | Remote | Mar 10 |
 | ↳ | **[Raw Photo Collection - United States (Remote)](https://jobright.ai/jobs/info/69b158b365de58104c7050cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Menomonee Falls, WI | Remote | Mar 10 |
@@ -494,8 +494,4 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - City Design](https://jobright.ai/jobs/info/69b0a4a27495006450975696?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | On Site | Mar 10 |
 | **[SDK Design Group](https://sdkatelier.com)** | **[Architectural Graphic Designer](https://jobright.ai/jobs/info/69b097d90b2db6275c04d2ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Mar 10 |
 | **[Anglin](http://anglinpr.com)** | **[Digital Content Designer – Full Time, Hybrid](https://jobright.ai/jobs/info/69b0972d0b2db6275c04d0a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | Hybrid | Mar 10 |
-| **[York Region District School Board](https://www2.yrdsb.ca/about-us/working-yrdsb/careers)** | **[Secondary Long Term Occasional (LTO) 100% Gr 9 & 10 Visual Art](https://jobright.ai/jobs/info/69b08b3ddfaeda6ff59a9459?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newmarket, Ontario, Canada | On Site | Mar 10 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Landscape Architecture](https://jobright.ai/jobs/info/69b0e564dfaeda6ff59babab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Mar 10 |
-| ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b085bf0b2db6275c04a08b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Mar 10 |
-| ↳ | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/69b0859e749500645096f324?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
