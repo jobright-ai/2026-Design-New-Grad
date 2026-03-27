@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Woodland - Full Time](https://jobright.ai/jobs/info/69c6a5d51818a24cd84c764f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3165 28th Street SE, Kentwood, MI, 49512, US | On Site | Mar 27 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[Creative Technologist](https://jobright.ai/jobs/info/69811787abff4c399a9fe641?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Remote | Mar 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Product Designer (UX/UI)-Specialist](https://jobright.ai/jobs/info/69a9ee0c9ca4e908ec653401?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Mar 27 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Video Editor](https://jobright.ai/jobs/info/69c6489d1818a24cd84c27c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arkansas, United States | Remote | Mar 27 |
@@ -213,8 +214,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Associate Producer, Creative Content](https://jobright.ai/jobs/info/69c30854ec22f8310ab10e0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, California, USA | On Site | Mar 24 |
 | **[Hofstra University](http://hofstra.edu)** | **[Print/Digital Designer](https://jobright.ai/jobs/info/69c2e816ec22f8310ab0e0c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hempstead, NY | On Site | Mar 24 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69c31478753c101b215694cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNAVAILABLE, TX, US | Remote | Mar 24 |
-| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c314deec22f8310ab12bf7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Monterey | Remote | Mar 24 |
 | ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3147994007a2195df41da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA, US | Remote | Mar 24 |
+| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c314deec22f8310ab12bf7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Monterey | Remote | Mar 24 |
 | ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3147994007a2195df41d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TX- | Remote | Mar 24 |
 | **[AEW](http://www.aew.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c2ef58753c101b21565dfa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Mar 24 |
 | **[Bernie & Phyl's Furniture](http://bernieandphyls.com)** | **[SHOWROOM DECORATOR/STORE DESIGNER](https://jobright.ai/jobs/info/69c30d7494007a2195df354f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashua - Nashua, NH 03060 | On Site | Mar 24 |
@@ -273,8 +274,8 @@ For a complete list, click the following sortable link below:
 | **[True Religion](https://www.truereligion.com)** | **[Assistant Designer, Off Price](https://jobright.ai/jobs/info/69c1a36c75f7ff1cd80fef84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Mar 23 |
 | **[MV Ventures](https://www.explorevikinglakes.com)** | **[Photo Editor Associate](https://jobright.ai/jobs/info/69c23e372c312363dcd5cd9d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eagan, MN, US | On Site | Mar 23 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Associate Technical Designer, Dress & Bottoms](https://jobright.ai/jobs/info/69c19fbc75f7ff1cd80fe5d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 23 |
-| **[Hootsuite](https://hootsuite.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c19f9579e36d3a847e9bf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Remote | Mar 23 |
-| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c19f9579e36d3a847e9bf8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, United States | Remote | Mar 23 |
+| **[Hootsuite](https://hootsuite.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c19f9579e36d3a847e9bf8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, United States | Remote | Mar 23 |
+| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c19f9579e36d3a847e9bf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Remote | Mar 23 |
 | **[M Booth](http://www.mbooth.com)** | **[Designer/Social Media Creator](https://jobright.ai/jobs/info/69c19cf879e36d3a847e95be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Mar 23 |
 | **[The Kent Companies](http://thekentcompanies.com)** | **[Production Designer / CAD Designer – Sign Company](https://jobright.ai/jobs/info/69c1955b79e36d3a847e762a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Mar 23 |
 | **[Signtech Digital Printing LLC](https://www.signtechdigital.com)** | **[Full-Time Graphic Designer Needed for Busy Print Shop](https://jobright.ai/jobs/info/69c19e6f2c312363dcd4b763?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Mar 23 |
@@ -324,5 +325,4 @@ For a complete list, click the following sortable link below:
 | **[Pocket Prep](http://www.pocketprep.com)** | **[Junior Product Designer](https://jobright.ai/jobs/info/69bdffb7482822729300b6d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Durham, NC | Hybrid | Mar 20 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate, Designer - Sleepwear](https://jobright.ai/jobs/info/69bdfbaab10602456283626a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Mar 20 |
 | ↳ | **[Associate, Designer - Sleepwear](https://jobright.ai/jobs/info/69bdfb15482822729300b38b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | On Site | Mar 20 |
-| **[PBK](https://pbk.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/69bde3c4482822729300955d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
