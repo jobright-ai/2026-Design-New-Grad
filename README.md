@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EFI](http://efi.com)** | **[Web Designer](https://jobright.ai/jobs/info/69c869ea83ea553769fe9d94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bell Gardens, CA | On Site | Mar 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer (Content Ecosystem & Integrity) - TikTok UX (San Jose)](https://jobright.ai/jobs/info/69c8389c1b5ad028873926e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Mar 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/691f49773f782d2f1afb9eff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, FL | On Site | Mar 28 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/69c803d483ea553769fe7f03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 28 |
@@ -201,7 +202,6 @@ For a complete list, click the following sortable link below:
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69c450c0d5a1016e98db72c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Mar 25 |
 | **[Office Revolution](http://office-revolution.com)** | **[Designer](https://jobright.ai/jobs/info/69c4bb89d5a1016e98dc1230?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Mar 25 |
 | **[Liquid Development](http://www.liquiddevelopment.com/)** | **[Concept Artist - Talent Pool (2026 Opportunities)](https://jobright.ai/jobs/info/69c5add6aa3c2c1995e02f19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ontario, Canada | Remote | Mar 25 |
-| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69c446fa33eecf31079477d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wichita, KS | On Site | Mar 25 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX Product Designer - Voice & Device Experiences](https://jobright.ai/jobs/info/69c516a3f7bed33dee483202?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Mar 25 |
 | **[Guide Book Publishing](https://www.guidebookpublishing.com)** | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69c4592633eecf310794a1b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ballwin, MO | On Site | Mar 25 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69c45bd56f4f855eeda6e305?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wichita, KS | On Site | Mar 25 |
@@ -261,16 +261,16 @@ For a complete list, click the following sortable link below:
 | **[Stauffers of Kissel Hill](http://skh.com)** | **[Landscape Team Member](https://jobright.ai/jobs/info/69c3638094007a2195dfd37b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manheim, PA, US | On Site | Mar 24 |
 | **[lululemon](http://shop.lululemon.com)** | **[Design Assistant - Performance](https://jobright.ai/jobs/info/69c324d7ec22f8310ab152a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | On Site | Mar 24 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 24 |
-| **[Ampacity](https://www.rpcs.com/)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69c336a2753c101b2156dbe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas County, TX | Remote | Mar 24 |
-| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3369a94007a2195df87a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | Remote | Mar 24 |
+| **[Ampacity](https://www.rpcs.com/)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3369a94007a2195df87a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | Remote | Mar 24 |
+| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c336a2753c101b2156dbe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas County, TX | Remote | Mar 24 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[ANALYST I](https://jobright.ai/jobs/info/69c314f394007a2195df4363?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 24 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Assistant Art Director](https://jobright.ai/jobs/info/69c3113cec22f8310ab12355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Home Office/Remote, MA #0692 | Remote | Mar 24 |
 | **[Amazon](https://amazon.com)** | **[Associate Producer, Creative Content](https://jobright.ai/jobs/info/69c30854ec22f8310ab10e0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, California, USA | On Site | Mar 24 |
 | **[Hofstra University](http://hofstra.edu)** | **[Print/Digital Designer](https://jobright.ai/jobs/info/69c2e816ec22f8310ab0e0c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hempstead, NY | On Site | Mar 24 |
-| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3147994007a2195df41da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA, US | Remote | Mar 24 |
-| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c314deec22f8310ab12bf7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Monterey | Remote | Mar 24 |
-| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c31478753c101b215694cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNAVAILABLE, TX, US | Remote | Mar 24 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/69c31478753c101b215694cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNAVAILABLE, TX, US | Remote | Mar 24 |
+| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3147994007a2195df41da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA, US | Remote | Mar 24 |
 | ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c3147994007a2195df41d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TX- | Remote | Mar 24 |
+| ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/69c314deec22f8310ab12bf7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Monterey | Remote | Mar 24 |
 | **[AEW](http://www.aew.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c2ef58753c101b21565dfa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Mar 24 |
 | **[Bernie & Phyl's Furniture](http://bernieandphyls.com)** | **[SHOWROOM DECORATOR/STORE DESIGNER](https://jobright.ai/jobs/info/69c30d7494007a2195df354f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashua - Nashua, NH 03060 | On Site | Mar 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69c2eed294007a2195df07cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fountain Valley, CA | On Site | Mar 24 |
@@ -350,5 +350,4 @@ For a complete list, click the following sortable link below:
 | **[ABCD & Company](https://theabcdcompany.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c4f34b6f4f855eeda7b384?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockville, MD | On Site | Mar 23 |
 | **[General Dynamics Land Systems–Canada](https://gdlscanada.com/)** | **[Associate Specialist, Editor](https://jobright.ai/jobs/info/69c0ded67798f73e35e56f4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, ON | On Site | Mar 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69bff96d79e36d3a847c8306?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk Grove, CA | On Site | Mar 22 |
-| **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/69bfa22079e36d3a847c4b06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
