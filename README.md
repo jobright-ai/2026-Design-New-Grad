@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YES! Communities](http://www.yescommunities.com/)** | **[Seasonal Landscaper](https://jobright.ai/jobs/info/69ccc3d6366bb95ba54f66f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3501 Ridgely Rd, Springfield, IL 62702, USA | On Site | Apr 01 |
+| ↳ | **[Seasonal Landscaper](https://jobright.ai/jobs/info/69ccc335891d7b11cfcb36c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 5720 E Washington Rd, Saginaw, MI 48601, USA | On Site | Apr 01 |
 | **[Li & Fung](http://www.lifung.com)** | **[Associate Swim Designer](https://jobright.ai/jobs/info/69ccb19c366bb95ba54f556e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Mar 31 |
 | ↳ | **[Associate Swim Designer (Freelance)](https://jobright.ai/jobs/info/69ccb0c0e1921223acc7bbd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Mar 31 |
 | **[Stout](http://www.stout.com)** | **[Designer, Strategy (Arlington, VA)](https://jobright.ai/jobs/info/69ccad57cdb525785fb81536?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, VA | On Site | Mar 31 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Kaseya](http://www.kaseya.com)** | **[Product Designer I](https://jobright.ai/jobs/info/69cc4c72366bb95ba54eeb54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia | On Site | Mar 31 |
 | **[Bench Craft Company](http://benchcraftcompany.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69cc668bcfdc6132f940c130?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Mar 31 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer (Baby)](https://jobright.ai/jobs/info/69cc7958e1921223acc760df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 31 |
+| **[Haven Design & Build, Inc.](www.havendesignbuild.com)** | **[Junior Designer](https://jobright.ai/jobs/info/69ccc1a7366bb95ba54f6366?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Mar 31 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Hybrid Case Design Analyst](https://jobright.ai/jobs/info/69cc43ce891d7b11cfcab63e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750 | Hybrid | Mar 31 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Team Member -Custom Art Frame Designer-PT](https://jobright.ai/jobs/info/69cc42eacfdc6132f940b42b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Park Heights-5845 Krueger Ln N | On Site | Mar 31 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Hybrid Case Design Analyst](https://jobright.ai/jobs/info/69cc42d9cfdc6132f940b3f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700 | Hybrid | Mar 31 |
@@ -185,7 +188,6 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Angel Essentials](https://jobright.ai/jobs/info/699019896ea51a7610f282f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 28 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Silk Screener Decorative Panels B - 79805](https://jobright.ai/jobs/info/69c7d9951818a24cd84d20a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Mar 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69abf38b142d5b4265fd7317?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami Beach, FL | On Site | Mar 28 |
-| **[3D Systems Corporation](http://www.3dsystems.com)** | **[Biomedical Designer](https://jobright.ai/jobs/info/69ab64a0142d5b4265fc9c16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Mar 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69c601c083ea553769fd217f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Mar 28 |
 | **[Gensler](http://www.gensler.com)** | **[Graphic Designer - Brand - Junior](https://jobright.ai/jobs/info/69c7b7cdaa3c2c1995e1a602?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Mar 28 |
 | **[Raindrop](https://raindrop.agency)** | **[Junior Art Director](https://jobright.ai/jobs/info/69ccb1d6cdb525785fb818ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Mar 27 |
@@ -283,6 +285,7 @@ For a complete list, click the following sortable link below:
 | **[J.Crew](http://www.jcrew.com)** | **[Design Assistant - J.Crew Color & Concept](https://jobright.ai/jobs/info/697141f251f7264771837b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 26 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69c4f5806f4f855eeda7b646?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vernon Hills, IL | On Site | Mar 26 |
 | **[Versant Media](https://versantmedia.com)** | **[Associate Editor, Social and Graphics](https://jobright.ai/jobs/info/69c4f08133eecf3107956f65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood Cliffs, NJ | On Site | Mar 26 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Designer, Entry-Level](https://jobright.ai/jobs/info/69cccb4e366bb95ba54f6c05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 26 |
 | **[Harry's](http://www.harrys.com)** | **[Retoucher](https://jobright.ai/jobs/info/69a7505076bbe83d3afab0a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 25 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/69c4cf8bd5a1016e98dc2ecb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Mar 25 |
 | **[SupplyOne, Inc.](http://www.supplyone.com)** | **[Packaging Designer - Pennsauken, NJ](https://jobright.ai/jobs/info/69c4cc066f4f855eeda778b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennsauken, NJ 08110 | On Site | Mar 25 |
@@ -324,7 +327,4 @@ For a complete list, click the following sortable link below:
 | **[PepsiCo](http://www.pepsico.com)** | **[Associate Brand Designer](https://jobright.ai/jobs/info/69c409e433eecf3107942170?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plano, TX | On Site | Mar 25 |
 | **[Viking Coca-Cola Bottling Company](https://www.vikingcocacola.com)** | **[Marketing Print Lab Coordinator - St. Cloud](https://jobright.ai/jobs/info/69c42aa46f4f855eeda687a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Cloud,MN,US | On Site | Mar 25 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/69c4074fd5a1016e98db0f2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 25 |
-| **[Viking Coca-Cola Bottling Company](https://www.vikingcocacola.com)** | **[Marketing Print Lab Coordinator](https://jobright.ai/jobs/info/69c4e9f4d5a1016e98dc5bdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saint Cloud, MN | On Site | Mar 25 |
-| **[Saatchi US](http://www.wearesaatchi.com)** | **[Art Director](https://jobright.ai/jobs/info/69a81497d010537e743266b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 25 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c54592db52c07d288421cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parkville, MD | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
