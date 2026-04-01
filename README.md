@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FOCO](https://www.foco.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69cd3811891d7b11cfcb6cff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Piscataway, NJ | On Site | Apr 01 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c16dc42c312363dcd44189?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, Canada, Toronto, Canada, East USA | Remote | Apr 01 |
 | **[IDMI.Net](http://www.idmi.net)** | **[Web Designer](https://jobright.ai/jobs/info/69cd2254398fb071abf72811?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Poland, OH | Remote | Apr 01 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d79edfaeda6ff59b7bbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 01 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Good Time Design](http://www.goodtimedesignsd.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cd19e654f00230c6ceca1c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN, 37203, US | On Site | Apr 01 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/69b0d797dfaeda6ff59b7b96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
 | **[Good Time Design](http://www.goodtimedesignsd.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cd18ee366bb95ba54f903c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN, 37203, US | On Site | Apr 01 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d780749500645097de9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/69cd127e54f00230c6cec599?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Apr 01 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/69c34c5e94007a2195df9ef9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 01 |
 | ↳ | **[Year One - Junior Designer - Landscape Architecture](https://jobright.ai/jobs/info/69b0d7c9dfaeda6ff59b7c5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
@@ -224,8 +226,8 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Assistant Designer - Kids Team - 3 month Contract](https://jobright.ai/jobs/info/69c700d583ea553769fdf8c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Mar 27 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Presentation Designer](https://jobright.ai/jobs/info/69966e4ce0bddb6acac4e4c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Mar 27 |
 | **[MCA - Merchandising Consultants Associates](https://corporate.mca.ca)** | **[Cosmetic Reset Merchandising Rep](https://jobright.ai/jobs/info/69c6f2a6e565c26a7002419c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denison, IA | On Site | Mar 27 |
-| ↳ | **[Cosmetic Reset Merchandising Rep](https://jobright.ai/jobs/info/69c6f2a5aa3c2c1995e137b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Somerset, PA | On Site | Mar 27 |
 | ↳ | **[Cosmetic Reset Merchandising Rep](https://jobright.ai/jobs/info/69c6f2a5e565c26a70024193?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Uniontown, PA | On Site | Mar 27 |
+| ↳ | **[Cosmetic Reset Merchandising Rep](https://jobright.ai/jobs/info/69c6f2a5aa3c2c1995e137b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Somerset, PA | On Site | Mar 27 |
 | ↳ | **[Cosmetic Reset Merchandising Rep](https://jobright.ai/jobs/info/69c6f29383ea553769fdeda0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paullina, IA | On Site | Mar 27 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69c7080bb773006330b753cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wichita, KS | On Site | Mar 27 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Specialist, Graphic Designer](https://jobright.ai/jobs/info/69c6f7661818a24cd84ca4f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Mar 27 |
@@ -300,7 +302,6 @@ For a complete list, click the following sortable link below:
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69c4fa5833eecf3107957688?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 26 |
 | **[J.Crew](http://www.jcrew.com)** | **[Design Assistant - J.Crew Color & Concept](https://jobright.ai/jobs/info/697141f251f7264771837b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 26 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69c4f5806f4f855eeda7b646?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vernon Hills, IL | On Site | Mar 26 |
-| **[Versant Media](https://versantmedia.com)** | **[Associate Editor, Social and Graphics](https://jobright.ai/jobs/info/69c4f08133eecf3107956f65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood Cliffs, NJ | On Site | Mar 26 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Creative Coordinator - Blue 84 Licensed](https://jobright.ai/jobs/info/69ccd4e5cfdc6132f9413efc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Mar 26 |
 | **[Sangoma](http://www.sangoma.com)** | **[UX Product Designer - Voice & Device Experiences](https://jobright.ai/jobs/info/69ccd177891d7b11cfcb3f8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Mar 26 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Designer, Entry-Level](https://jobright.ai/jobs/info/69cccb4e366bb95ba54f6c05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 26 |
