@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Product Designer (Desk Phones)](https://jobright.ai/jobs/info/69ce6394cdb525785fb96f54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Apr 02 |
+| **[SLR Consulting](http://www.slrconsulting.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/6994d6a981476f6176aca969?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Haven, CT | On Site | Apr 02 |
 | **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Industrial Designer](https://jobright.ai/jobs/info/69b26e93ae2a534885e97e4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Itasca, IL | Hybrid | Apr 02 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interior Designer I](https://jobright.ai/jobs/info/697aaa639d60e431a16c4456?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/69b20732d04c69566c74ac1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | On Site | Apr 02 |
@@ -358,9 +358,7 @@ For a complete list, click the following sortable link below:
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/69c5c4921b5ad02887379033?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ocean Springs, MS | On Site | Mar 26 |
 | **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Visual Associate, Part Time Flex, UTC San Diego- Pottery Barn Kids](https://jobright.ai/jobs/info/69c5bf29aa3c2c1995e03d89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Mar 26 |
 | **[DEPT®](https://www.deptagency.com)** | **[Creative Analyst](https://jobright.ai/jobs/info/69c5b513aa9a29199e808f10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States (Remote) | Remote | Mar 26 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Art Director](https://jobright.ai/jobs/info/69ccdfc3891d7b11cfcb4ebe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, MI, US | On Site | Mar 26 |
-| ↳ | **[Art Director](https://jobright.ai/jobs/info/69ccdfd1cfdc6132f9414c91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MI-Birmingham | On Site | Mar 26 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Art Director](https://jobright.ai/jobs/info/69ccdfd1cfdc6132f9414c91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MI-Birmingham | On Site | Mar 26 |
+| ↳ | **[Art Director](https://jobright.ai/jobs/info/69ccdfc3891d7b11cfcb4ebe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, MI, US | On Site | Mar 26 |
 | **[Cardcollector2 Sports Cards](http://cardcollector2.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c5ccc71818a24cd84bb453?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grove City, OH | On Site | Mar 26 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, UTC San Diego- Pottery Barn Kids](https://jobright.ai/jobs/info/69c5aa091818a24cd84b9306?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 4575 La Jolla Village Dr, San Diego, CA, 92122-1203, US | On Site | Mar 26 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[Freelance Art Handler, Crozier](https://jobright.ai/jobs/info/69c966541b5ad028873993fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | VA | South Chesterfield | 1924 Ruffin Mill Road | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
