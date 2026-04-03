@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins&Will](http://perkinswill.com)** | **[Designer I](https://jobright.ai/jobs/info/69b3c6b8ae2a534885eb2c75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bainbridge Island, WA | On Site | Apr 03 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Website Planning Specialist](https://jobright.ai/jobs/info/6993d32dce78e77b4fd7a700?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Apr 03 |
+| **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69883d9e8da7a61204635dc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Digital Project Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d8642b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Apr 03 |
 | **[Cisco](http://www.cisco.com)** | **[UI/UX Designer I (Full Time) - United States](https://jobright.ai/jobs/info/69cf2838cfdc6132f942ff4e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Boys & Girls Clubs of Huntington Valley](bgchv.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cf0f4754f00230c6d06409?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Beach,CA,US | On Site | Apr 02 |
 | **[Music & Arts](http://www.MusicArts.com)** | **[Junior UX Designer](https://jobright.ai/jobs/info/69cf099754f00230c6d05e33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frederick, MD | On Site | Apr 02 |
@@ -109,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Industrial Designer](https://jobright.ai/jobs/info/69b26e93ae2a534885e97e4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Itasca, IL | Hybrid | Apr 02 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interior Designer I](https://jobright.ai/jobs/info/697aaa639d60e431a16c4456?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/69b20732d04c69566c74ac1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | On Site | Apr 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ba66949a7695fbd029af9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bailey's Crossroads, VA | On Site | Apr 02 |
 | **[Desjardins Financial Security Independent Network](https://www.dfsin.ca)** | **[Exhibit Designer & Graphic Production Coordinator](https://jobright.ai/jobs/info/69ce30a3cfdc6132f9425953?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, ON | On Site | Apr 02 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Graphic Designer I, University Marketing & Communications](https://jobright.ai/jobs/info/69ce272dcdb525785fb946e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | University, MS | On Site | Apr 02 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer – Sports Studio – Junior](https://jobright.ai/jobs/info/69ce263a891d7b11cfcc5ad9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 02 |
@@ -343,7 +348,6 @@ For a complete list, click the following sortable link below:
 | **[BRP](https://www.brp.com/en/)** | **[Peintre](https://jobright.ai/jobs/info/691db150ad5a5170347955a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valcourt, Quebec, Canada | On Site | Mar 28 |
 | **[Harbor Breeze Whale Watching Cruises](https://2seewhales.com)** | **[Content Creator - Part Time](https://jobright.ai/jobs/info/69c89b0baa3c2c1995e1f61f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | On Site | Mar 28 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/69c803d483ea553769fe7f03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Mar 28 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ba66949a7695fbd029af9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bailey's Crossroads, VA | On Site | Mar 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69c94a0caa3c2c1995e24196?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshfield, WI | On Site | Mar 28 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69c7f336b773006330b7d214?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Marcos, TX | On Site | Mar 28 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69c7f32ae565c26a7002cfaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Mar 28 |
@@ -375,5 +379,4 @@ For a complete list, click the following sortable link below:
 | **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c6f8a61b5ad02887388db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Schenectady, NY | On Site | Mar 27 |
 | **[Genesis Marketing](http://genesiscreatescolor.com/)** | **[Content Creator & Designer](https://jobright.ai/jobs/info/69c70289e565c26a700250b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Mar 27 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framer - Retail Picture Framer - PT](https://jobright.ai/jobs/info/69c6d6d31b5ad02887387515?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Victor-40 Square Dr | On Site | Mar 27 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/696ec13c350cf4380315ad4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nanuet, NY | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
