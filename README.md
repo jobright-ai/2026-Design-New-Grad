@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Staples Canada](http://www.staples.ca)** | **[Evening Garment Inspector - Staples Promotional Products](https://jobright.ai/jobs/info/69d068e6cdb525785fbaa16d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 03 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Assistant Designer, Textiles](https://jobright.ai/jobs/info/69850871348f733a5c3925d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | On Site | Apr 03 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Designer (Analyst)](https://jobright.ai/jobs/info/69d0589a366bb95ba551d970?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Amazon](https://amazon.com)** | **[Visual Communications Specialist, CHA1 L3, CHA1 Learning](https://jobright.ai/jobs/info/69d04d69891d7b11cfcda92c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chattanooga, TN | On Site | Apr 03 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[KITH](https://kith.com)** | **[Assistant Technical Designer, Men's](https://jobright.ai/jobs/info/69b878f406c1ba00c54a718c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Apr 03 |
 | **[Nebraska State College System](https://www.nscs.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d0315d54f00230c6d102fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wayne, NE | On Site | Apr 03 |
 | **[Basic Resources, Inc.](http://basicresources.com)** | **[Assistant Packaging Designer](https://jobright.ai/jobs/info/69d03f3a54f00230c6d10932?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 03 |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Color Designer 2](https://jobright.ai/jobs/info/69d06c51366bb95ba551e327?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beaverton, OR | On Site | Apr 03 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Associate - PT](https://jobright.ai/jobs/info/69d01985891d7b11cfcd88ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandusky-904 East Perkins Ave | On Site | Apr 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Oakbrook - Pottery Barn](https://jobright.ai/jobs/info/69d0135ccdb525785fba72ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 21 Oakbrook Center, Oakbrook, IL, 60523, US | On Site | Apr 03 |
 | **[4 Sharp Corners](https://4sharpcorners.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d01465366bb95ba551b426?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Attleboro Falls, MA | On Site | Apr 03 |
@@ -213,10 +215,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cfd0c7fb49c96ca6eabb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69c1e9d279e36d3a847ef6ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69ba8dbe3b74eb1e2c888164?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Surprise, AZ | On Site | Apr 01 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68b79838f4e41a61efd9a562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oxnard, CA | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69cdf0a3cdb525785fb91b97?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Apr 01 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68b79838f4e41a61efd9a562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oxnard, CA | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69a0f4cb81476f6176bb50ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Apr 01 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/693ceebd49a7695fbd0397f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/695364ccf1f8465b79eabf1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69658ebc5ad3a93f8230d5d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/699519f4e0bddb6acac3a30c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waltham, MA | On Site | Apr 01 |
@@ -316,7 +317,6 @@ For a complete list, click the following sortable link below:
 | **[NAC](http://nacarchitecture.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d02f80cdb525785fba83ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Mar 31 |
 | **[Thinkingbox](https://www.thinkingbox.com/)** | **[Junior Designer - Thinkingbox](https://jobright.ai/jobs/info/69cc36ffcfdc6132f940b00d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City | Hybrid | Mar 31 |
 | **[Miller International Inc.](https://cinchjeans.com)** | **[Apparel Technical Designer (Entry Level)](https://jobright.ai/jobs/info/69cc3305366bb95ba54ee1d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States | On Site | Mar 31 |
-| **[Triumph](https://triumpharcade.com)** | **[Product Designer](https://jobright.ai/jobs/info/69cc809c366bb95ba54f09e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Mar 31 |
 | **[Behavioral Science Department at Daemen University](https://www.daemen.edu/academics/college-health-human-sciences-business/behavioral-science/applied-behavior-analysis)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cd2711cdb525785fb8547f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Amherst,NY,US | On Site | Mar 31 |
 | **[4imprint](http://investors.4imprint.com/)** | **[Screen Printing Press Operator](https://jobright.ai/jobs/info/69cc3e93cfdc6132f940b357?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Appleton, WI | On Site | Mar 31 |
 | **[Moda Health](https://www.modahealth.com/index.shtml)** | **[Brand Designer - Contract, Temporary](https://jobright.ai/jobs/info/69cc807a366bb95ba54f0914?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Remote | Mar 31 |
@@ -379,8 +379,8 @@ For a complete list, click the following sortable link below:
 | **[Cloud9 Esports, Inc.](http://cloud9.gg)** | **[Graphic Designer (Contractor, Full Time)](https://jobright.ai/jobs/info/69cdfb35891d7b11cfcc3c41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | Remote | Mar 29 |
 | **[TurboTenant](http://www.turbotenant.com)** | **[Real Estate Photographer](https://jobright.ai/jobs/info/69c59a0ae565c26a7001281e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Mar 29 |
 | **[Tsenta (YC S26)](https://tsenta.com)** | **[Head of UGC and Short-Form Content](https://jobright.ai/jobs/info/69c9cc87b773006330b8893d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Mar 29 |
-| **[Matic Robots](https://maticrobots.com)** | **[UX Engineer](https://jobright.ai/jobs/info/69cae735e565c26a70042560?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
-| ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/69cae790466f1e133aac8979?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
+| **[Matic Robots](https://maticrobots.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cae790466f1e133aac8979?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
+| ↳ | **[UX Engineer](https://jobright.ai/jobs/info/69cae735e565c26a70042560?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
 | **[TriEdge Investments](https://triedgeinvestments.com)** | **[Junior Visual Designer (Contract)](https://jobright.ai/jobs/info/69cac4c5a8c1822476e1ff2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | Mar 29 |
 | **[Image360 Westminster CO](image360westminsterCO.com)** | **[Graphic Designer - Sign & Wide Format Printing](https://jobright.ai/jobs/info/69cacabe466f1e133aac704f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Westminster, CO | On Site | Mar 29 |
 | **[VITA Planning & Landscape Architecture](http://vitainc.com/)** | **[Designer](https://jobright.ai/jobs/info/69c983261b5ad02887399a86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Rafael, CA | On Site | Mar 29 |
@@ -400,5 +400,4 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Angel Essentials](https://jobright.ai/jobs/info/699019896ea51a7610f282f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 28 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Silk Screener Decorative Panels B - 79805](https://jobright.ai/jobs/info/69c7d9951818a24cd84d20a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Mar 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69abf38b142d5b4265fd7317?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami Beach, FL | On Site | Mar 28 |
-| **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69c601c083ea553769fd217f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
