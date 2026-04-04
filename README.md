@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/69d12b0c54f00230c6d18d4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Apr 04 |
+| ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/69d12af7cdb525785fbb10c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Apr 04 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[UX Researcher](https://jobright.ai/jobs/info/69b486ef06c1ba00c54605bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, CA | On Site | Apr 04 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Lighting Artist, Environment (Contingent)](https://jobright.ai/jobs/info/69c7d706b773006330b7c777?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Apr 04 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Product Designer (Desk Phones)](https://jobright.ai/jobs/info/69d0fddccfdc6132f94411b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Apr 04 |
@@ -389,8 +391,8 @@ For a complete list, click the following sortable link below:
 | **[Cloud9 Esports, Inc.](http://cloud9.gg)** | **[Graphic Designer (Contractor, Full Time)](https://jobright.ai/jobs/info/69cdfb35891d7b11cfcc3c41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | Remote | Mar 29 |
 | **[TurboTenant](http://www.turbotenant.com)** | **[Real Estate Photographer](https://jobright.ai/jobs/info/69c59a0ae565c26a7001281e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Mar 29 |
 | **[Tsenta (YC S26)](https://tsenta.com)** | **[Head of UGC and Short-Form Content](https://jobright.ai/jobs/info/69c9cc87b773006330b8893d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Mar 29 |
-| **[Matic Robots](https://maticrobots.com)** | **[UX Engineer](https://jobright.ai/jobs/info/69cae735e565c26a70042560?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
-| ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/69cae790466f1e133aac8979?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
+| **[Matic Robots](https://maticrobots.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cae790466f1e133aac8979?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
+| ↳ | **[UX Engineer](https://jobright.ai/jobs/info/69cae735e565c26a70042560?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Mar 29 |
 | **[TriEdge Investments](https://triedgeinvestments.com)** | **[Junior Visual Designer (Contract)](https://jobright.ai/jobs/info/69cac4c5a8c1822476e1ff2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | Mar 29 |
 | **[Image360 Westminster CO](image360westminsterCO.com)** | **[Graphic Designer - Sign & Wide Format Printing](https://jobright.ai/jobs/info/69cacabe466f1e133aac704f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Westminster, CO | On Site | Mar 29 |
 | **[VITA Planning & Landscape Architecture](http://vitainc.com/)** | **[Designer](https://jobright.ai/jobs/info/69c983261b5ad02887399a86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Rafael, CA | On Site | Mar 29 |
