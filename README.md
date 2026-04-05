@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69d26dbe891d7b11cfceaa5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, ON | On Site | Apr 05 |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/69d26bcacfdc6132f944ad02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Apr 05 |
+| ↳ | **[Designer / Everett, WA](https://jobright.ai/jobs/info/69d26bbb0b098b7a67088b7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Apr 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Footwear Assistant Designer](https://jobright.ai/jobs/info/6945f2f6d1953b5d11befcc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/698840230f6f7e7a2ce38933?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Apr 05 |
 | **[City of Wilson](http://www.wilsonnc.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d2279f54f00230c6d2033a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilson, NC | On Site | Apr 05 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Assistant Designer, Textiles](https://jobright.ai/jobs/info/69850871348f733a5c3925d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | On Site | Apr 03 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Designer (Analyst)](https://jobright.ai/jobs/info/69d0589a366bb95ba551d970?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Guide Book Publishing](https://www.guidebookpublishing.com)** | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d101af54f00230c6d17e05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St. Louis, MO | On Site | Apr 03 |
+| ↳ | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d101bc0b098b7a6707f250?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ballwin, MO | On Site | Apr 03 |
 | ↳ | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d101bc0b098b7a6707f24f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saint Charles, MO | On Site | Apr 03 |
-| ↳ | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d0fe56891d7b11cfce127f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ballwin, MO | On Site | Apr 03 |
 | **[Amazon](https://amazon.com)** | **[Visual Communications Specialist, CHA1 L3, CHA1 Learning](https://jobright.ai/jobs/info/69d04d69891d7b11cfcda92c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chattanooga, TN | On Site | Apr 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Associate, Creative Design](https://jobright.ai/jobs/info/69d04a73cfdc6132f943a524?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 | **[Wefunder](http://www.wefunder.com)** | **[Visual & Micro-Interaction Designer](https://jobright.ai/jobs/info/69d0460b54f00230c6d10a71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Apr 03 |
@@ -98,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[4 Sharp Corners](https://4sharpcorners.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d01465366bb95ba551b426?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Attleboro Falls, MA | On Site | Apr 03 |
 | **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[Associate 3D Artist](https://jobright.ai/jobs/info/69b38971ad360c0340a8b050?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Needham, MA | On Site | Apr 03 |
 | **[New England Design & Construction](https://www.nedesignbuild.com/)** | **[Architectural Assistant Designer](https://jobright.ai/jobs/info/69cffa310b098b7a6707560c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, MA | On Site | Apr 03 |
-| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Firewheel Town Center - Full Time](https://jobright.ai/jobs/info/69cff811cdb525785fba6446?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 701 Horseshoe Dr, Garland, TX, 75040, US | On Site | Apr 03 |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Tyrone - Full Time](https://jobright.ai/jobs/info/69cff811cdb525785fba644e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 6901 22nd Ave N, St Petersburg, FL, 33710, US | On Site | Apr 03 |
 | ↳ | **[Visual Support Captain, Waikiki - Full Time](https://jobright.ai/jobs/info/69cff81154f00230c6d0dff8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2314 Kalakaua Ave, Honolulu, HI, 96815, US | On Site | Apr 03 |
-| ↳ | **[Visual Support Captain, Tyrone - Full Time](https://jobright.ai/jobs/info/69cff811cdb525785fba644e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 6901 22nd Ave N, St Petersburg, FL, 33710, US | On Site | Apr 03 |
+| ↳ | **[Visual Support Captain, Firewheel Town Center - Full Time](https://jobright.ai/jobs/info/69cff811cdb525785fba6446?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 701 Horseshoe Dr, Garland, TX, 75040, US | On Site | Apr 03 |
 | ↳ | **[Visual Support Captain, Santan Village - Full Time](https://jobright.ai/jobs/info/69cff805891d7b11cfcd76e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2190 E Williams Field Rd, Gilbert, AZ, 85295, US | On Site | Apr 03 |
 | ↳ | **[Visual Support Captain, Columbia Mall - Full Time](https://jobright.ai/jobs/info/69cff803cfdc6132f943732a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7201 Two Notch Rd, Columbia, SC, 29223, US | On Site | Apr 03 |
 | **[New England Design & Construction](https://www.nedesignbuild.com/)** | **[Architectural Assistant Designer](https://jobright.ai/jobs/info/69cff5c354f00230c6d0deea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, MA | On Site | Apr 03 |
@@ -239,8 +242,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cfd0c7fb49c96ca6eabb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69c1e9d279e36d3a847ef6ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69ba8dbe3b74eb1e2c888164?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Surprise, AZ | On Site | Apr 01 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69cdf0a3cdb525785fb91b97?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68b79838f4e41a61efd9a562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oxnard, CA | On Site | Apr 01 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/69cdf0a3cdb525785fb91b97?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69a0f4cb81476f6176bb50ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/695364ccf1f8465b79eabf1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Apr 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69658ebc5ad3a93f8230d5d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Apr 01 |
