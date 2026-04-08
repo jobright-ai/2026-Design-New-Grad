@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Men's Sweaters](https://jobright.ai/jobs/info/69d69348366bb95ba554d706?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Apr 08 |
+| **[4imprint](http://investors.4imprint.com/)** | **[Digital Print Associate - Level 2](https://jobright.ai/jobs/info/69d689c0706f771673bab42f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oshkosh, WI, US | On Site | Apr 08 |
+| ↳ | **[Digital Print Associate - Level 1](https://jobright.ai/jobs/info/69d689ad52a5bf5800129486?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 4imprint - DC, Oshkosh, WI, US | On Site | Apr 08 |
+| **[Earthscape Play](http://www.earthscapeplay.com)** | **[Applied Playground Designer](https://jobright.ai/jobs/info/69d6899b48f0c8161d2f84d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wallenstein, ON | Hybrid | Apr 08 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Assistant Designer (NYC Hybrid)](https://jobright.ai/jobs/info/69d66a83366bb95ba554c88f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | Hybrid | Apr 08 |
 | ↳ | **[Assistant Designer (NYC Hybrid)](https://jobright.ai/jobs/info/69d66a29706f771673baa834?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | Hybrid | Apr 08 |
 | **[Coty](https://www.coty.com/)** | **[Graphic Designer & E-Merchandising Assistant Manager](https://jobright.ai/jobs/info/69825ef1348f733a5c352ef6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Apr 08 |
@@ -293,8 +297,7 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Web Designer](https://jobright.ai/jobs/info/69cddc93398fb071abf7d552?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madison, WI | Hybrid | Apr 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69b18940d04c69566c73da0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Antioch, TN | On Site | Apr 01 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Designer I - Architecture Studio](https://jobright.ai/jobs/info/69c2c52894007a2195debb51?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tustin, CA | On Site | Apr 01 |
-| **[Blue Whale Lending](https://www.bluewhalelending.com/)** | **[Graphic Design Assistant at Blue Whale Lending LLC.](https://jobright.ai/jobs/info/69d109cb0b098b7a6707f6fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, United States | On Site | Apr 01 |
+| **[Blue Whale Lending](https://www.bluewhalelending.com/)** | **[Content/Graphic Designer at Blue Whale Lending LLC.](https://jobright.ai/jobs/info/69d0edee54f00230c6d1783d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, United States | On Site | Apr 01 |
+| ↳ | **[Graphic Design Assistant at Blue Whale Lending LLC.](https://jobright.ai/jobs/info/69d109cb0b098b7a6707f6fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, United States | On Site | Apr 01 |
 | ↳ | **[Junior Creative Designer at Blue Whale Lending LLC.](https://jobright.ai/jobs/info/69d4399ccfdc6132f9459075?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, United States | On Site | Apr 01 |
-| ↳ | **[Content/Graphic Designer at Blue Whale Lending LLC.](https://jobright.ai/jobs/info/69d0edee54f00230c6d1783d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, United States | On Site | Apr 01 |
-| **[Netflix](https://www.netflix.com)** | **[Coordinator, Music Creative - Netflix Animation Studios](https://jobright.ai/jobs/info/69cdcbcbcfdc6132f941f766?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
