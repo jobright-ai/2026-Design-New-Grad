@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AntiSocial](https://antisocialsolutions.com/)** | **[Junior Designer - Thinkingbox](https://jobright.ai/jobs/info/69d6de05e63cea7a8b66cc99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Hybrid | Apr 08 |
+| **[Book of the Month](http://www.bookofthemonth.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d6dcd3cfdc6132f946dcd1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 08 |
+| **[Marquee Brands](http://www.marqueebrands.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d6dc99706f771673bae8d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | Hybrid | Apr 08 |
 | **[Navan](https://navan.com)** | **[Product Design, FinTech](https://jobright.ai/jobs/info/69d6d771366bb95ba5550423?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | Hybrid | Apr 08 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[UX Researcher](https://jobright.ai/jobs/info/69d6d720cfdc6132f946d94e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Apr 08 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Creative Specialist](https://jobright.ai/jobs/info/69d6d59fe63cea7a8b66c8ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 08 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69b8924056973837413df170?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shoreline, WA | On Site | Apr 08 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69b0ac457495006450976ad4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Apr 08 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assoc Designer, Women's Apparel, Nordstrom Label](https://jobright.ai/jobs/info/69d6ac8552a5bf580012b125?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 08 |
-| **[Nordstar Media](https://www.linkedin.com/company/107543365)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d6ac70706f771673bad016?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 08 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Ad Production Designer, Marketing - Lakeland](https://jobright.ai/jobs/info/69d6a4d052a5bf5800129fc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3300 Publix Corporate Parkway | On Site | Apr 08 |
 | ↳ | **[Ad Production Designer, Marketing - Lakeland](https://jobright.ai/jobs/info/69d6a4cbcfdc6132f946b2ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Apr 08 |
 | ↳ | **[Ad Production Designer, Marketing - Lakeland](https://jobright.ai/jobs/info/69d6a4bf48f0c8161d2f915f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland Florida | On Site | Apr 08 |
@@ -239,7 +241,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Support Captain, Santan Village - Full Time](https://jobright.ai/jobs/info/69cff805891d7b11cfcd76e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2190 E Williams Field Rd, Gilbert, AZ, 85295, US | On Site | Apr 03 |
 | ↳ | **[Visual Support Captain, Columbia Mall - Full Time](https://jobright.ai/jobs/info/69cff803cfdc6132f943732a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7201 Two Notch Rd, Columbia, SC, 29223, US | On Site | Apr 03 |
 | **[Clarks](https://www.clarksusa.com)** | **[Associate Footwear Designer](https://jobright.ai/jobs/info/69cff2ad54f00230c6d0dde8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 140 Kendrick St, Needham Heights, MA 02494, USA | On Site | Apr 03 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Creative Operations Project Coordinator - GreenRow](https://jobright.ai/jobs/info/69bfb5532c312363dcd2779d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69cfe8510b098b7a67074870?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, AR | On Site | Apr 03 |
 | **[Talent Market](http://talentmarket.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d1011a366bb95ba5523e65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Institute, NC | Hybrid | Apr 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Accessories- Victoria's Secret](https://jobright.ai/jobs/info/69794e1288e2b47213bd8631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 03 |
@@ -286,7 +287,6 @@ For a complete list, click the following sortable link below:
 | **[Skylo](https://www.skylo.tech)** | **[Brand Designer](https://jobright.ai/jobs/info/69b1aa49548f140066e776d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | Hybrid | Apr 02 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Associate Designer Personalization](https://jobright.ai/jobs/info/69cecef1cfdc6132f942c827?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | Hybrid | Apr 02 |
 | **[Klick](https://www.klick.com)** | **[Art Director, Market Access](https://jobright.ai/jobs/info/69cedcbe366bb95ba5510440?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saratoga Springs, NY | On Site | Apr 02 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Designer, Polo World of Sports](https://jobright.ai/jobs/info/6924d3f3ec574f4265bb7893?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Professional - San Francisco/Salt Lake City](https://jobright.ai/jobs/info/69792cd488e2b47213bd4b69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69cffb99cfdc6132f94375c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | Apr 02 |
 | **[Actus Nutrition](https://actus.com)** | **[Marketing & Graphic Design Coordinator](https://jobright.ai/jobs/info/69cea23d366bb95ba550d9d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 02 |
