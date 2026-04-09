@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d41493891d7b11cfcf714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Apr 09 |
+| **[Coded Snake®](https://www.codedsnake.com/)** | **[2D Texture/VFX Artist - Commission](https://jobright.ai/jobs/info/69d75a1f366bb95ba5554cf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
 | **[Guide Book Publishing](https://www.guidebookpublishing.com)** | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d744bc48f0c8161d2ff463?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ballwin, MO | On Site | Apr 08 |
@@ -180,7 +182,6 @@ For a complete list, click the following sortable link below:
 | **[Belami eCommerce](https://www.belamiecommercesolutions.com/)** | **[Social Media Design Contractor](https://jobright.ai/jobs/info/69d41cabcdb525785fbc67ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 06 |
 | **[Rising Tide Interactive](http://www.risingtideinteractive.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d41c64cfdc6132f9457acb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Apr 06 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Licensing Associate (External Agency Staff)](https://jobright.ai/jobs/info/69d418e1e63cea7a8b6566b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Apr 06 |
-| **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d41493891d7b11cfcf714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Apr 06 |
 | **[Associated Students Inc. at California State Polytechnic University, Pomona](http://asi.cpp.edu/)** | **[Junior Designer Supervisor PTS](https://jobright.ai/jobs/info/69d408d7e63cea7a8b655fd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Associated Students, Inc., Pomona, CA, US | Hybrid | Apr 06 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d40127cfdc6132f9456ae8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Sprung Studios - UX-UI Design](http://www.sprungstudios.com/)** | **[UX-UI Designer](https://jobright.ai/jobs/info/69d3f939366bb95ba553939a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | On Site | Apr 06 |
@@ -296,6 +297,4 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Interior Design Professional - San Francisco/Salt Lake City](https://jobright.ai/jobs/info/69792cd488e2b47213bd4b69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69cffb99cfdc6132f94375c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | Apr 02 |
 | **[Actus Nutrition](https://actus.com)** | **[Marketing & Graphic Design Coordinator](https://jobright.ai/jobs/info/69cea23d366bb95ba550d9d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 02 |
-| **[G-III Apparel Group](https://www.giii.com/)** | **[Temporary Assistant Designer](https://jobright.ai/jobs/info/69ceba6c366bb95ba550ea46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 02 |
-| **[Bakeshop Digital](https://bakeshop.digital)** | **[Jr. Digital Designer](https://jobright.ai/jobs/info/69ce940d891d7b11cfcc9d75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
