@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
 | **[Guide Book Publishing](https://www.guidebookpublishing.com)** | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d744bc48f0c8161d2ff463?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ballwin, MO | On Site | Apr 08 |
 | ↳ | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d744bc48f0c8161d2ff464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saint Charles, MO | On Site | Apr 08 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Earthscape Play](http://www.earthscapeplay.com)** | **[Applied Playground Designer](https://jobright.ai/jobs/info/69d6899b48f0c8161d2f84d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wallenstein, ON | Hybrid | Apr 08 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Assistant Designer (NYC Hybrid)](https://jobright.ai/jobs/info/69d66a83366bb95ba554c88f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | Hybrid | Apr 08 |
 | ↳ | **[Assistant Designer (NYC Hybrid)](https://jobright.ai/jobs/info/69d66a29706f771673baa834?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | Hybrid | Apr 08 |
-| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/69d73a9e950d1a0760b7d4ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Apr 08 |
 | **[Coty](https://www.coty.com/)** | **[Graphic Designer & E-Merchandising Assistant Manager](https://jobright.ai/jobs/info/69825ef1348f733a5c352ef6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Apr 08 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Creative Services Coordinator](https://jobright.ai/jobs/info/69ba8e183b74eb1e2c88838e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Indianapolis | On Site | Apr 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Crowds Artist](https://jobright.ai/jobs/info/698729a98da7a61204623ea2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Apr 08 |
@@ -227,6 +227,7 @@ For a complete list, click the following sortable link below:
 | **[Applied Intuition](https://appliedintuition.com)** | **[UX Researcher](https://jobright.ai/jobs/info/69b486ef06c1ba00c54605bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, CA | On Site | Apr 04 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Lighting Artist, Environment (Contingent)](https://jobright.ai/jobs/info/69c7d706b773006330b7c777?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Apr 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69881aa38da7a6120463346d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Apr 04 |
+| **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/69d753bbe63cea7a8b670b65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | On Site | Apr 03 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry-Level Landscape Architect](https://jobright.ai/jobs/info/6997a313ce78e77b4fdbf95a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 03 |
 | **[Staples Canada](http://www.staples.ca)** | **[Evening Garment Inspector - Staples Promotional Products](https://jobright.ai/jobs/info/69d068e6cdb525785fbaa16d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 03 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Assistant Designer, Textiles](https://jobright.ai/jobs/info/69850871348f733a5c3925d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | On Site | Apr 03 |
@@ -284,7 +285,6 @@ For a complete list, click the following sortable link below:
 | **[The Home Depot Canada](careers.homedepot.ca)** | **[Digital Content Designer (12 month contract)](https://jobright.ai/jobs/info/69cec91ecdb525785fb9b776?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | On Site | Apr 02 |
 | **[Sangoma](http://www.sangoma.com)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/69cec8f9398fb071abf891d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | Remote | Apr 02 |
 | **[COAR Design Group](https://www.jeffkatzarchitecture.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/69cf2d30398fb071abf8d079?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Apr 02 |
-| **[ROCS - Rocket Science of Marketing](https://rocs.no/)** | **[Marketing & Design Coordinator (Entry-Level)](https://jobright.ai/jobs/info/69ced7c9366bb95ba5510179?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockville, MD | On Site | Apr 02 |
 | **[Tufts University](http://hnrca.tufts.edu)** | **[UI/UX Producer](https://jobright.ai/jobs/info/69af82f6dfaeda6ff597a961?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Medford, MA | On Site | Apr 02 |
 | **[RRD](http://www.rrd.com)** | **[Presentation Design Associate (M-F, 11am-8pm)](https://jobright.ai/jobs/info/69cec3aa54f00230c6d02ea8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH, USA | Hybrid | Apr 02 |
 | ↳ | **[Presentation Design Associate (M-F, 11am-8pm)](https://jobright.ai/jobs/info/69cec3a7366bb95ba550f2f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheeling, WV | Hybrid | Apr 02 |
@@ -298,6 +298,4 @@ For a complete list, click the following sortable link below:
 | **[Actus Nutrition](https://actus.com)** | **[Marketing & Graphic Design Coordinator](https://jobright.ai/jobs/info/69cea23d366bb95ba550d9d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 02 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Temporary Assistant Designer](https://jobright.ai/jobs/info/69ceba6c366bb95ba550ea46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | **[Bakeshop Digital](https://bakeshop.digital)** | **[Jr. Digital Designer](https://jobright.ai/jobs/info/69ce940d891d7b11cfcc9d75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Apr 02 |
-| **[Rural King](https://www.ruralking.com)** | **[Space Planner](https://jobright.ai/jobs/info/699647cc81476f6176ae08bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mattoon, IL | On Site | Apr 02 |
-| **[Actus Nutrition](https://actus.com)** | **[Marketing & Graphic Design Coordinator](https://jobright.ai/jobs/info/69ce8833cdb525785fb986ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eden Prairie, Minnesota, United States | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
