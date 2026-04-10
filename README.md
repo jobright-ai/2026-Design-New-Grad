@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CURION](https://curioninsights.com/)** | **[Temporary Presentation Designer](https://jobright.ai/jobs/info/69d8c3ac869c7e25d8597b00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Deerfield, IL | Remote | Apr 10 |
+| **[Omnicom Production](https://omnicomproduction.com)** | **[Proofreader - Bilingual Spanish](https://jobright.ai/jobs/info/69d8d0a45356a60f40fd6611?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 10 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/69d8b24d9f97a42dc9c1dcf0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 09 |
 | **[Sekisui House U.S., Inc.](https://ir.richmondamerican.com)** | **[Merchandising Designer I](https://jobright.ai/jobs/info/69d8b18a9f97a42dc9c1daba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 09 |
 | **[Anaconda, Inc.](https://www.anaconda.com)** | **[UX Researcher II](https://jobright.ai/jobs/info/69d85bf6869c7e25d859502a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 09 |
@@ -105,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Junior Motion Designer](https://jobright.ai/jobs/info/69bb10a356973837414103cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Apr 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69bb0946569738374140e6dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, NY | On Site | Apr 09 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d41493891d7b11cfcf714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Apr 09 |
-| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b3eff4ea471a51fdfe45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
+| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b40bf4ea471a51fdfe61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
 | **[Coded Snake®](https://www.codedsnake.com/)** | **[2D Texture/VFX Artist - Commission](https://jobright.ai/jobs/info/69d75a1f366bb95ba5554cf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
@@ -291,5 +291,4 @@ For a complete list, click the following sortable link below:
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Color Designer 2](https://jobright.ai/jobs/info/69d4ab91366bb95ba553ff0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beaverton, OR | On Site | Apr 03 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Associate - PT](https://jobright.ai/jobs/info/69d01985891d7b11cfcd88ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandusky-904 East Perkins Ave | On Site | Apr 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Oakbrook - Pottery Barn](https://jobright.ai/jobs/info/69d0135ccdb525785fba72ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 21 Oakbrook Center, Oakbrook, IL, 60523, US | On Site | Apr 03 |
-| **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[Associate 3D Artist](https://jobright.ai/jobs/info/69b38971ad360c0340a8b050?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Needham, MA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
