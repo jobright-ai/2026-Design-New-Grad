@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombas](http://www.bombas.com)** | **[Assistant Designer, Intimates & Apparel (temporary, full time)](https://jobright.ai/jobs/info/69d90a3bb67cec4f9b09faa1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | On Site | Apr 10 |
+| **[ALO](https://www.aloyoga.com/)** | **[Accessories & Bags, Designer 1](https://jobright.ai/jobs/info/699fb92ad643757b0e453f37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 10 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer: Women's Young Customer (Hybrid, Seattle)](https://jobright.ai/jobs/info/6982c0600f6f7e7a2cdc1303?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 10 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Print Center Coordinator](https://jobright.ai/jobs/info/69d906229f97a42dc9c1f040?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Apr 10 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d8eba85356a60f40fd6d7f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Kansas City, MO | Hybrid | Apr 10 |
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d8eb95738f2f099e89eff9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Prairie, TX | Hybrid | Apr 10 |
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d8eb41b67cec4f9b09f276?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grapevine, TX | Hybrid | Apr 10 |
@@ -115,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
 | **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Graphics Coordinator, Creative](https://jobright.ai/jobs/info/690a54064a1b456627b064d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | On Site | Apr 08 |
-| **[Guide Book Publishing](https://www.guidebookpublishing.com)** | **[Graphic Artist (Production Focus)](https://jobright.ai/jobs/info/69d744bc48f0c8161d2ff464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saint Charles, MO | On Site | Apr 08 |
 | **[Able Label](https://www.ablelabel.com)** | **[Label Specialist/Graphic Designer](https://jobright.ai/jobs/info/69d7b31bf4ea471a51fdfc48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Apr 08 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/69d7050ccfdc6132f946e7a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Apr 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69cc73e08130af1ac8338834?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davie, FL | On Site | Apr 08 |
@@ -286,5 +289,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Visual Communications Specialist, CHA1 L3, CHA1 Learning](https://jobright.ai/jobs/info/69d04d69891d7b11cfcda92c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chattanooga, TN | On Site | Apr 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Associate, Creative Design](https://jobright.ai/jobs/info/69d04a73cfdc6132f943a524?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 | **[Wefunder](http://www.wefunder.com)** | **[Visual & Micro-Interaction Designer](https://jobright.ai/jobs/info/69d0460b54f00230c6d10a71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Apr 03 |
-| **[Versant Media](https://versantmedia.com)** | **[Photo Production Supervisor](https://jobright.ai/jobs/info/69d03e83cfdc6132f9439c02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
