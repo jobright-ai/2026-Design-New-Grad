@@ -257,7 +257,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Architect/Designer](https://jobright.ai/jobs/info/69d41e2d54f00230c6d2e5d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 05 |
 | **[Relay](https://relayfi.com)** | **[Production Designer, Marketing](https://jobright.ai/jobs/info/699925a1ce78e77b4fddd383?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Apr 05 |
 | **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69d26dbe891d7b11cfceaa5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, ON | On Site | Apr 05 |
-| **[ALO](https://www.aloyoga.com/)** | **[Footwear Assistant Designer](https://jobright.ai/jobs/info/6945f2f6d1953b5d11befcc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[TEECOM](http://teecom.com)** | **[Designer I](https://jobright.ai/jobs/info/69942ea0ce78e77b4fd822c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Apr 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/698840230f6f7e7a2ce38933?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Apr 05 |
 | **[Closets By Design](https://www.closetsbydesign.com)** | **[Designer, In Home Sales, Saint Petersburg](https://jobright.ai/jobs/info/69d12663cdb525785fbb1086?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St. Petersburg, FL | On Site | Apr 04 |
@@ -299,7 +298,4 @@ For a complete list, click the following sortable link below:
 | **[Talent Market](http://talentmarket.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d1011a366bb95ba5523e65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Institute, NC | Hybrid | Apr 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Accessories- Victoria's Secret](https://jobright.ai/jobs/info/69794e1288e2b47213bd8631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69cfcb4e366bb95ba5518c39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Andover, KS | On Site | Apr 03 |
-| **[Fabletics](https://www.fabletics.com/)** | **[Jr. Graphic Designer](https://jobright.ai/jobs/info/69b3798fae2a534885eae5f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Apr 03 |
-| **[PepsiCo](http://www.pepsico.com)** | **[Brand Designer](https://jobright.ai/jobs/info/69b369a7a8ac8e70ff67a69e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
-| **[LOFT](https://www.loft.com/)** | **[Coordinator, Visual Merchandising](https://jobright.ai/jobs/info/69b2e744a8ac8e70ff670b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
