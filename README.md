@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Propelis](https://propelis.com)** | **[Print Utility](https://jobright.ai/jobs/info/69d934cef748bc5d08a49bc9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Butler, PA | On Site | Apr 10 |
+| **[GARY R. WEBER ASSOCIATES, INC.](https://www.grwainc.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d93407f748bc5d08a4995a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheaton, IL | On Site | Apr 10 |
+| **[SGS & Co](https://www.sgsco.com/)** | **[Print Utility](https://jobright.ai/jobs/info/69d92d0a5356a60f40fd8061?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Butler, Pennsylvania, United States | On Site | Apr 10 |
 | **[Canadian Bank Note Company, Limited](https://www.cbnco.com/)** | **[Secure Document Designer](https://jobright.ai/jobs/info/69d928609f97a42dc9c1fe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, ON | Hybrid | Apr 10 |
 | **[SFV Services](https://sfvservices.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/69d920d5869c7e25d8598f1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Southfield, MI | On Site | Apr 10 |
 | **[MANSCAPED](https://manscaped.com)** | **[THE MANSCAPED® CREATIVE NETWORK](https://jobright.ai/jobs/info/69a8b00079f3f4037f4306a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 10 |
@@ -289,5 +292,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69881aa38da7a6120463346d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Apr 04 |
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/69d753bbe63cea7a8b670b65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | On Site | Apr 03 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry-Level Landscape Architect](https://jobright.ai/jobs/info/6997a313ce78e77b4fdbf95a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 03 |
-| **[Staples Canada](http://www.staples.ca)** | **[Evening Garment Inspector - Staples Promotional Products](https://jobright.ai/jobs/info/69d068e6cdb525785fbaa16d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
