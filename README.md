@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Merchandising Designer I](https://jobright.ai/jobs/info/69d84d389f97a42dc9c1b775?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 09 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Product Designer (Desk Phones)](https://jobright.ai/jobs/info/69d83734738f2f099e89b6bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Apr 09 |
 | **[City of Wilson](http://www.wilsonnc.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d8338c9f97a42dc9c1b0e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilson, NC | On Site | Apr 09 |
 | **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Merchandising Designer I](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver , CO, US | On Site | Apr 09 |
@@ -216,7 +217,6 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69d44b25cfdc6132f94596eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Turnersville, NJ | On Site | Apr 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69d44adc891d7b11cfcf910d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | On Site | Apr 06 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Print Center Coordinator](https://jobright.ai/jobs/info/69d4382fcdb525785fbc7414?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA CA Fresno | On Site | Apr 06 |
-| **[Fresh](http://www.fresh.com)** | **[Coordinator, Creative Opreations](https://jobright.ai/jobs/info/69d43238cdb525785fbc7207?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 06 |
 | **[Maddox Industrial Transformer](https://www.maddoxtransformer.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69d4302a54f00230c6d2ee63?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA | On Site | Apr 06 |
 | **[Sierra Nevada Brewing Co.](http://www.sierranevada.com)** | **[Associate Graphic Designer or Graphic Designer](https://jobright.ai/jobs/info/69d42cfacdb525785fbc6f1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mills River, NC | On Site | Apr 06 |
 | **[Meneses Law](https://www.meneses.law)** | **[Creative Writer Supervisor](https://jobright.ai/jobs/info/69d4248654f00230c6d2e86e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX, US | On Site | Apr 06 |
