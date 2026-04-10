@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omnicom Production](https://omnicomproduction.com)** | **[Proofreader - Bilingual Spanish](https://jobright.ai/jobs/info/69cdb55a398fb071abf7b73a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 10 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/69d8b24d9f97a42dc9c1dcf0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 09 |
+| **[Sekisui House U.S., Inc.](https://ir.richmondamerican.com)** | **[Merchandising Designer I](https://jobright.ai/jobs/info/69d8b18a9f97a42dc9c1daba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 09 |
 | **[Anaconda, Inc.](https://www.anaconda.com)** | **[UX Researcher II](https://jobright.ai/jobs/info/69d85bf6869c7e25d859502a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Merchandising Designer I](https://jobright.ai/jobs/info/69d84d389f97a42dc9c1b775?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 09 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Product Designer (Desk Phones)](https://jobright.ai/jobs/info/69d83734738f2f099e89b6bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Apr 09 |
@@ -82,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Designer – Navy Interactive Multimedia Instruction (IMI)](https://jobright.ai/jobs/info/69cb2c81e565c26a7004560f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | Apr 09 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Victor Valley - Full Time](https://jobright.ai/jobs/info/69d7d712f4ea471a51fe1f54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 14580 Bear Valley Rd, Victorville, CA, 92392, US | On Site | Apr 09 |
 | **[Babcock Power Services](https://www.babcockpower.com/bps/)** | **[CAD Designer](https://jobright.ai/jobs/info/69d7d222738f2f099e8983bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marlborough, MA | On Site | Apr 09 |
-| **[Book of the Month](http://www.bookofthemonth.com)** | **[Junior Brand Designer](https://jobright.ai/jobs/info/69d6dcd3cfdc6132f946dcd1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 09 |
+| **[Book of the Month](http://www.bookofthemonth.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d6dcd3cfdc6132f946dcd1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 09 |
 | **[HOK](http://www.hok.com/)** | **[Planning - Landscape Design Professional](https://jobright.ai/jobs/info/6966c3315ad3a93f8232195e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69d7c629869c7e25d859063c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | On Site | Apr 09 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d7c5f4b861c42857c454de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 09 |
@@ -102,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Junior Motion Designer](https://jobright.ai/jobs/info/69bb10a356973837414103cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Apr 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69bb0946569738374140e6dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, NY | On Site | Apr 09 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d41493891d7b11cfcf714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Apr 09 |
-| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b3eff4ea471a51fdfe45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
+| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b40bf4ea471a51fdfe61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
 | **[Coded Snake®](https://www.codedsnake.com/)** | **[2D Texture/VFX Artist - Commission](https://jobright.ai/jobs/info/69d75a1f366bb95ba5554cf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
@@ -292,5 +295,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Support Captain, Santan Village - Full Time](https://jobright.ai/jobs/info/69cff805891d7b11cfcd76e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2190 E Williams Field Rd, Gilbert, AZ, 85295, US | On Site | Apr 03 |
 | ↳ | **[Visual Support Captain, Columbia Mall - Full Time](https://jobright.ai/jobs/info/69cff803cfdc6132f943732a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7201 Two Notch Rd, Columbia, SC, 29223, US | On Site | Apr 03 |
 | **[Clarks](https://www.clarksusa.com)** | **[Associate Footwear Designer](https://jobright.ai/jobs/info/69cff2ad54f00230c6d0dde8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 140 Kendrick St, Needham Heights, MA 02494, USA | On Site | Apr 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69cfe8510b098b7a67074870?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, AR | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
