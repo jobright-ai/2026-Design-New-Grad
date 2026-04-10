@@ -304,7 +304,4 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com/)** | **[Coordinator, Visual Merchandising](https://jobright.ai/jobs/info/69b2e744a8ac8e70ff670b25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Print Services Specialist](https://jobright.ai/jobs/info/69d7b261b861c42857c44575?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Butte, MT, US | On Site | Apr 03 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Presentation Designer](https://jobright.ai/jobs/info/6996aed081476f6176aea779?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 03 |
-| **[Vizcom](https://www.vizcom.ai/)** | **[Product Designer, Creative Tools](https://jobright.ai/jobs/info/69b3995da8ac8e70ff67da3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Remote | Apr 03 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Framing Team Member-Training Provided](https://jobright.ai/jobs/info/69d4f0d1cdb525785fbcd724?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stoneham-119 Main St, Ste 1 | On Site | Apr 03 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Designer I](https://jobright.ai/jobs/info/697aa3708dbbf73badc7df94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
