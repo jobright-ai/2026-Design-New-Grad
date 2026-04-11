@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workshop/APD](http://workshopapd.com)** | **[Junior Designer](https://jobright.ai/jobs/info/69da0409869c7e25d85a0ac2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
+| **[NORR](https://norr.com)** | **[Technical Designer, Restaurants](https://jobright.ai/jobs/info/69da032c9f97a42dc9c2716f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 11 |
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24488?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24489?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cac59f97a42dc9c24469?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Hybrid | Apr 10 |
-| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1869c7e25d859da19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe, NM | Hybrid | Apr 10 |
+| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa05356a60f40fdc67e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Mexico, United States | Hybrid | Apr 10 |
 | **[Tower 28 Beauty, Inc.](https://www.tower28beauty.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d9c003869c7e25d859d61d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/69d9b040869c7e25d859cecf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Production and Design Specialist](https://jobright.ai/jobs/info/69d990fcf748bc5d08a4be24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairfield, NJ | On Site | Apr 10 |
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d98cfa869c7e25d859b810?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - California | Remote | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d98cf5b67cec4f9b0a29a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - Nevada | Remote | Apr 10 |
+| **[Book of the Month](http://www.bookofthemonth.com)** | **[Junior Brand Designer](https://jobright.ai/jobs/info/69da0487869c7e25d85a0b22?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 10 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[VISUAL PRESENTATION ASSOCIATE](https://jobright.ai/jobs/info/69d976b6869c7e25d859b0cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lake George, NY | On Site | Apr 10 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Print Utility](https://jobright.ai/jobs/info/69d9764bf748bc5d08a4b5bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Butler, PA | On Site | Apr 10 |
 | **[Vertafore](http://www.vertafore.com)** | **[Product Designer I](https://jobright.ai/jobs/info/69af31aa6b21de023e605acc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Apr 10 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/69d912419f97a42dc9c1f689?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Apr 10 |
 | **[Sportech](https://www.sportechinc.com)** | **[Technical Illustrator](https://jobright.ai/jobs/info/69d911ef869c7e25d8598b71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk River, MN | On Site | Apr 10 |
 | ↳ | **[Technical Illustrator](https://jobright.ai/jobs/info/69d90faa738f2f099e89f937?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk River,MN,US | On Site | Apr 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69da03769f97a42dc9c27268?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Highlands Ranch, CO | On Site | Apr 10 |
 | **[Bombas](http://www.bombas.com)** | **[Assistant Designer, Intimates & Apparel (temporary, full time)](https://jobright.ai/jobs/info/69d90a3bb67cec4f9b09faa1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | On Site | Apr 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Accessories & Bags, Designer 1](https://jobright.ai/jobs/info/699fb92ad643757b0e453f37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 10 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer: Women's Young Customer (Hybrid, Seattle)](https://jobright.ai/jobs/info/6982c0600f6f7e7a2cdc1303?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 10 |
@@ -304,6 +308,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Nugget Atlantic City](https://www.goldennugget.com/atlantic-city/)** | **[Jr Graphic Designer & Advertising Coordinator](https://jobright.ai/jobs/info/69b47d953b74eb1e2c81d5bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlantic City, NJ | On Site | Apr 04 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/69b7806906c1ba00c549349c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 04 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/69b492d106c1ba00c5461240?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 04 |
-| **[Westmor Industries](http://westmor-ind.com)** | **[Multimedia Designer](https://jobright.ai/jobs/info/69d13c1554f00230c6d18f27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morris, MN | On Site | Apr 04 |
-| **[Aristocrat](http://www.aristocrat.com)** | **[Game Designer (Mathematician)](https://jobright.ai/jobs/info/697d888f7f40342e15d651d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
