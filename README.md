@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tower 28 Beauty, Inc.](https://www.tower28beauty.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d9c003869c7e25d859d61d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/69d9b040869c7e25d859cecf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
 | ↳ | **[Designer - Junior](https://jobright.ai/jobs/info/69d9aee7738f2f099e8a3c39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
 | **[Impulse Alarm](https://impulsealarm.com)** | **[Creative Content Specialist / Content Creator](https://jobright.ai/jobs/info/69d9ae32738f2f099e8a3a7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | Hybrid | Apr 10 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69d7fcceb861c42857c4795c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Apr 09 |
 | **[GEA Group](http://www.gea.com/)** | **[Production Designer](https://jobright.ai/jobs/info/69d7b467f4ea471a51fdff61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hudson, WI | On Site | Apr 09 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Associate Creative Designer, Studio](https://jobright.ai/jobs/info/69bb64f05697383741416423?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Apr 09 |
-| **[Publix Super Markets](https://www.publix.com/)** | **[Ad Production Designer, Marketing - Lakeland](https://jobright.ai/jobs/info/69d7b567869c7e25d858fe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Apr 09 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/69cb9c9ee1921223acc72111?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 09 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/68dae9da6df7b8311bb14058?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist - On Site](https://jobright.ai/jobs/info/699e6073ce78e77b4fe393b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Apr 09 |
@@ -145,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Junior Motion Designer](https://jobright.ai/jobs/info/69bb10a356973837414103cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Apr 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69bb0946569738374140e6dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, NY | On Site | Apr 09 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d41493891d7b11cfcf714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Apr 09 |
-| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b3eff4ea471a51fdfe45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
+| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b40bf4ea471a51fdfe61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
 | **[Coded Snake®](https://www.codedsnake.com/)** | **[2D Texture/VFX Artist - Commission](https://jobright.ai/jobs/info/69d75a1f366bb95ba5554cf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/69b34ea4ae2a534885eab272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
@@ -243,7 +243,6 @@ For a complete list, click the following sortable link below:
 | **[Burnsville-Eagan-Savage School District 191](https://www.isd191.org)** | **[Community Ed Summer Theater Prop Designer](https://jobright.ai/jobs/info/69d8c18eb67cec4f9b09eb80?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burnsville, MN | On Site | Apr 07 |
 | ↳ | **[Community Ed Summer Theater Set Designer/Builder](https://jobright.ai/jobs/info/69d8c3509f97a42dc9c1e412?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burnsville, MN | On Site | Apr 07 |
 | **[Dôen](https://shopdoen.com)** | **[Design Assistant](https://jobright.ai/jobs/info/698d242f78b4502f12a3ae83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 06 |
-| **[Pro-MotionPix, LLC](https://promotionpix.com/)** | **[Inventory Photography Technician](https://jobright.ai/jobs/info/69d9b00a9f97a42dc9c23906?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Apr 06 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Production Designer](https://jobright.ai/jobs/info/69d45bd3cfdc6132f945a081?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Apr 06 |
 | **[J. Jill](http://www.jjill.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/69d451fdcdb525785fbc839e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Quincy, MA | On Site | Apr 06 |
 | **[Ally Global Foundation](https://ally.org)** | **[Creative Designer](https://jobright.ai/jobs/info/69d44c4e54f00230c6d2fe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Vancouver Metropolitan Area | Hybrid | Apr 06 |
