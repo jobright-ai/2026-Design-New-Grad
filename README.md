@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Product Designer (UX/UI)-Specialist](https://jobright.ai/jobs/info/69d9a4fd9f97a42dc9c23386?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Apr 10 |
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Production and Design Specialist](https://jobright.ai/jobs/info/69d990fcf748bc5d08a4be24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairfield, NJ | On Site | Apr 10 |
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d98cfa869c7e25d859b810?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - California | Remote | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d98cf5b67cec4f9b0a29a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - Nevada | Remote | Apr 10 |
