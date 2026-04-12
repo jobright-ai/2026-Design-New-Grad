@@ -64,9 +64,9 @@ For a complete list, click the following sortable link below:
 | **[J Street](https://jstreet.org/)** | **[Social Media Content Creator and Strategist](https://jobright.ai/jobs/info/69bddbc3393a1008f743ac91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Apr 11 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer - Mens - HYBRID](https://jobright.ai/jobs/info/69a12a5e5218a8167672646f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 11 |
 | **[Equitable](https://equitable.com/)** | **[Team Member, Strategic Innovation Group (HYBRID)](https://jobright.ai/jobs/info/69d9e7ef9f97a42dc9c25642?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 11 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69da72be9f97a42dc9c29150?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Apr 11 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Apr 11 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69da72be9f97a42dc9c29150?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Apr 11 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Apr 11 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Apr 11 |
 | **[Ubisoft Toronto](https://toronto.ubisoft.com/)** | **[Texture Artist [Splinter Cell Remake]](https://jobright.ai/jobs/info/69a23bdc359fe034b1cd77e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | On Site | Apr 11 |
 | **[Equitable](https://equitable.com/)** | **[Team Member, Strategic Innovation Group (HYBRID)](https://jobright.ai/jobs/info/69c76cc583ea553769fe33fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
 | **[First Avenue & 7th St Entry](http://first-avenue.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69da3c6b5356a60f40fdfe40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Twin Cities Area | On Site | Apr 11 |
@@ -76,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24489?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24488?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cac59f97a42dc9c24469?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Hybrid | Apr 10 |
-| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Hybrid | Apr 10 |
-| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1869c7e25d859da19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe, NM | Hybrid | Apr 10 |
+| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Hybrid | Apr 10 |
+| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa05356a60f40fdc67e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Mexico, United States | Hybrid | Apr 10 |
 | **[Tower 28 Beauty, Inc.](https://www.tower28beauty.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d9c003869c7e25d859d61d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/69d9b040869c7e25d859cecf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
@@ -311,5 +311,4 @@ For a complete list, click the following sortable link below:
 | **[Relay](https://relayfi.com)** | **[Production Designer, Marketing](https://jobright.ai/jobs/info/699925a1ce78e77b4fddd383?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Remote | Apr 05 |
 | **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69d26dbe891d7b11cfceaa5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, ON | On Site | Apr 05 |
 | **[TEECOM](http://teecom.com)** | **[Designer I](https://jobright.ai/jobs/info/69942ea0ce78e77b4fd822c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Apr 05 |
-| **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/698840230f6f7e7a2ce38933?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
