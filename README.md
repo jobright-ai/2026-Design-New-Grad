@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stouffer Legal](https://www.stoufferlegal.com/)** | **[Junior Print and Mail Production Specialist](https://jobright.ai/jobs/info/69dbcc33b67cec4f9b0af65b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson,MD,US | On Site | Apr 12 |
+| **[Trava Health](https://taketrava.com/)** | **[Junior Product Designer](https://jobright.ai/jobs/info/69dbc5c05356a60f40fe6f2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 12 |
 | **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/696b36bedb26b618950ebce8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | On Site | Apr 12 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Full Time Visual Associate](https://jobright.ai/jobs/info/69bea5d0393a1008f7448837?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | On Site | Apr 12 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Associate Art Director, Early Career](https://jobright.ai/jobs/info/69b8baca06c1ba00c54ae9c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Apr 12 |
@@ -308,7 +310,4 @@ For a complete list, click the following sortable link below:
 | **[National Security Agency](http://www.nsa.gov/)** | **[Interior Designer - Entry to Mid Level (Maryland)](https://jobright.ai/jobs/info/69d378f10b098b7a6708f5ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Meade, MD | On Site | Apr 06 |
 | **[Gensler](http://www.gensler.com)** | **[Graphic Designer - Brand - Junior](https://jobright.ai/jobs/info/69c7b7cdaa3c2c1995e1a602?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 06 |
 | **[Belami eCommerce](https://www.belamiecommercesolutions.com/)** | **[Social Media Design Contractor](https://jobright.ai/jobs/info/69d46a3a54f00230c6d30b49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 05 |
-| **[GBES - A company of TÜV SÜD](https://www.gbes.com)** | **[URBAN DESIGNER](https://jobright.ai/jobs/info/69d392a4891d7b11cfcf1ed8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 05 |
-| **[Archinect](https://archinect.com)** | **[Entry-Level Designer](https://jobright.ai/jobs/info/69d41e28891d7b11cfcf793e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 05 |
-| ↳ | **[Junior Architect/Designer](https://jobright.ai/jobs/info/69d41e2d54f00230c6d2e5d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
