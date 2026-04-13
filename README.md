@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertafore](http://www.vertafore.com)** | **[Product Designer I](https://jobright.ai/jobs/info/69af31aa6b21de023e605acc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Apr 13 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c16dc42c312363dcd44189?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, Canada, Toronto, Canada, East USA | Remote | Apr 12 |
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Designer – Navy Interactive Multimedia Instruction (IMI)](https://jobright.ai/jobs/info/69cb2c81e565c26a7004560f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | Apr 12 |
 | **[Workshop](https://www.useworkshop.com)** | **[Brand Designer](https://jobright.ai/jobs/info/69d56915cdb525785fbd0a02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, Nebraska, United States | Hybrid | Apr 12 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24489?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cac59f97a42dc9c24469?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Hybrid | Apr 10 |
-| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1869c7e25d859da19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe, NM | Hybrid | Apr 10 |
+| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa05356a60f40fdc67e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Mexico, United States | Hybrid | Apr 10 |
 | **[Tower 28 Beauty, Inc.](https://www.tower28beauty.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d9c003869c7e25d859d61d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/69d9b040869c7e25d859cecf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d98cf5b67cec4f9b0a29a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - Nevada | Remote | Apr 10 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[VISUAL PRESENTATION ASSOCIATE](https://jobright.ai/jobs/info/69d976b6869c7e25d859b0cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lake George, NY | On Site | Apr 10 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Print Utility](https://jobright.ai/jobs/info/69d9764bf748bc5d08a4b5bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Butler, PA | On Site | Apr 10 |
-| **[Vertafore](http://www.vertafore.com)** | **[Product Designer I](https://jobright.ai/jobs/info/69af31aa6b21de023e605acc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Apr 10 |
 | **[Via](http://www.ridewithvia.com)** | **[Designer: Brand & Interactive Systems (Via, Remix, Citymapper)](https://jobright.ai/jobs/info/698a51b447434001cc688658?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Apr 10 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Personal Designer/Frame Shop - Part Time](https://jobright.ai/jobs/info/69d96e4f738f2f099e8a1b56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maplewood-2980 White Bear Ave N | On Site | Apr 10 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer - Men's Rack - Hybrid (Seattle, WA)](https://jobright.ai/jobs/info/69d96d2e5356a60f40fd9b26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 10 |
@@ -176,7 +176,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Junior Motion Designer](https://jobright.ai/jobs/info/69bb10a356973837414103cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Apr 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69bb0946569738374140e6dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, NY | On Site | Apr 09 |
 | **[Great Oaks Landscape](https://www.greatoakslandscape.com/)** | **[Landscape Designer/Architect](https://jobright.ai/jobs/info/69db644f869c7e25d85a7d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Apr 09 |
-| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b3eff4ea471a51fdfe45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
+| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b40bf4ea471a51fdfe61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Davis Polk & Wardwell LLP](http://www.davispolk.com)** | **[Graphics Coordinator, Creative](https://jobright.ai/jobs/info/690a54064a1b456627b064d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | On Site | Apr 08 |
 | **[Able Label](https://www.ablelabel.com)** | **[Label Specialist/Graphic Designer](https://jobright.ai/jobs/info/69d7b31bf4ea471a51fdfc48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Apr 08 |
@@ -293,6 +293,4 @@ For a complete list, click the following sortable link below:
 | **[Sprung Studios - UX-UI Design](http://www.sprungstudios.com/)** | **[UX-UI Designer](https://jobright.ai/jobs/info/69d3f939366bb95ba553939a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | On Site | Apr 06 |
 | **[Kaseya](http://www.kaseya.com)** | **[Product Designer I](https://jobright.ai/jobs/info/69cc4c72366bb95ba54eeb54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia | On Site | Apr 06 |
 | **[The Bureau Fashion Week](http://thebureaufashionweek.com)** | **[Fashion Week Operations and Designer Relations](https://jobright.ai/jobs/info/69d3f319366bb95ba5538ecb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | On Site | Apr 06 |
-| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Coordinator, Creative Opreations](https://jobright.ai/jobs/info/69d3ebdacdb525785fbc4917?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | Hybrid | Apr 06 |
-| **[RRD](http://www.rrd.com)** | **[Presentations Associate  - 2nd Shift](https://jobright.ai/jobs/info/69d3ebd6cdb525785fbc4903?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
