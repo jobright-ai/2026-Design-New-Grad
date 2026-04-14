@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Whitchurch-Stouffville](https://www.townofws.ca)** | **[Graphic Designer](https://jobright.ai/jobs/info/69dea640e34484770f1a3ed5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Whitchurch-Stouffville, ON | Hybrid | Apr 14 |
+| **[Volo Sports](https://www.volosports.com)** | **[Digital Designer, Social](https://jobright.ai/jobs/info/69dea0dd18cf504166e2e9be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 14 |
 | **[Artemis Solutions](www.artemisvf.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69de96d236823d1b42582691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Apr 14 |
 | **[Too Sweet Cakes](https://toosweetcakes.com)** | **[Graphic Designer & Content Creator](https://jobright.ai/jobs/info/69de961faba61f1417316605?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, Arizona, United States | Hybrid | Apr 14 |
 | **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Junior Designer](https://jobright.ai/jobs/info/69c46131d5a1016e98db95b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 14 |
 | **[American Exchange Group](https://www.axnygroup.com)** | **[Digital Graphic Designer & Retoucher](https://jobright.ai/jobs/info/69de8a6aaba61f1417315e59?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 14 |
+| **[Odawa Casino Resort](http://odawacasino.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69dea1a6e34484770f1a3a7f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Petoskey, MI | On Site | Apr 14 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Designer (Mission Critical)](https://jobright.ai/jobs/info/69de813d18cf504166e2d709?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
 | **[Woven](http://woven.is)** | **[Junior Textile Designer](https://jobright.ai/jobs/info/69de80c85913ad339813d753?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Hollywood, CA | On Site | Apr 14 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Temporary Assistant Designer- BCBG](https://jobright.ai/jobs/info/69de802a36823d1b42581694?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Apr 14 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Designer - Part -Time](https://jobright.ai/jobs/info/69dda2aee34484770f19e030?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MN-Minneapolis | On Site | Apr 13 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[Assistant Designer, Women’s Bottoms — Icons, Fashion, Non-Denim](https://jobright.ai/jobs/info/69dda20b5913ad3398139247?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 13 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/69cb9c9ee1921223acc72111?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 13 |
+| **[United States Golf Association (USGA)](http://www.usga.org)** | **[Digital Designer](https://jobright.ai/jobs/info/69dea683433ac8430e0db8d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Liberty Corner, NJ | Hybrid | Apr 13 |
 | **[Thinkingbox](https://www.thinkingbox.com/)** | **[Junior Designer - Thinkingbox](https://jobright.ai/jobs/info/69dd8aec5356a60f40fee9f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago | Hybrid | Apr 13 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Signage Manager](https://jobright.ai/jobs/info/69dd85009f97a42dc9c36770?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 13 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Designer I](https://jobright.ai/jobs/info/69dd7c8dbc6f6622c991268e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Apr 13 |
@@ -234,7 +238,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Junior Motion Designer](https://jobright.ai/jobs/info/69bb10a356973837414103cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Apr 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69bb0946569738374140e6dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, NY | On Site | Apr 09 |
 | **[Great Oaks Landscape](https://www.greatoakslandscape.com/)** | **[Landscape Designer/Architect](https://jobright.ai/jobs/info/69db644f869c7e25d85a7d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Apr 09 |
-| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b40bf4ea471a51fdfe61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
+| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/69d7b3eff4ea471a51fdfe45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 09 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69d750dc706f771673bb2745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Green Bay, WI | On Site | Apr 09 |
 | **[Able Label](https://www.ablelabel.com)** | **[Label Specialist/Graphic Designer](https://jobright.ai/jobs/info/69d7b31bf4ea471a51fdfc48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Apr 08 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/69d7050ccfdc6132f946e7a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Apr 08 |
@@ -278,5 +282,4 @@ For a complete list, click the following sortable link below:
 | **[Anaconda, Inc.](https://www.anaconda.com)** | **[UX Researcher II](https://jobright.ai/jobs/info/69d7d721738f2f099e898b56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Apr 08 |
 | **[Novolex](http://www.novolex.com/)** | **[Packaging Associate](https://jobright.ai/jobs/info/699c9f5081476f6176b537c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baxter Springs, KS | On Site | Apr 08 |
 | **[Gensler](http://www.gensler.com)** | **[Brand Designer - Junior](https://jobright.ai/jobs/info/69d5e6284a12eb12c5e14791?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC, US | On Site | Apr 07 |
-| **[TEECOM](http://teecom.com)** | **[Designer I](https://jobright.ai/jobs/info/69d67405cfdc6132f946a01e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
