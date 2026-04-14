@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Designer I](https://jobright.ai/jobs/info/69dd7c8dbc6f6622c991268e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Apr 13 |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Capitola - Full Time](https://jobright.ai/jobs/info/69dd766161f6ed54321fd855?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1865 41st Ave, Capitola, CA, 95010, US | On Site | Apr 13 |
+| ↳ | **[Visual Support Captain, Stockton Sherwood - Full Time](https://jobright.ai/jobs/info/69dd765d61f6ed54321fd841?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 5242 Pacific Ave, Stockton, CA, 95207, US | On Site | Apr 13 |
 | **[Cresco Labs](http://www.crescolabs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dd70cc738f2f099e8b655b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 13 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Signage Manager](https://jobright.ai/jobs/info/69dd6d6b9f97a42dc9c3624f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 13 |
 | **[Zumiez](http://www.zumiez.com)** | **[Associate Graphic Designer – Marketing & Brand Management for Owned Brands](https://jobright.ai/jobs/info/69dd6bd6bc6f6622c99121a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
@@ -124,12 +127,12 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69db646eb67cec4f9b0aef91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wayne, NE | On Site | Apr 11 |
 | **[Workshop/APD](http://workshopapd.com)** | **[Junior Designer](https://jobright.ai/jobs/info/69da0409869c7e25d85a0ac2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 11 |
 | **[NORR](https://norr.com)** | **[Technical Designer, Restaurants](https://jobright.ai/jobs/info/69da032c9f97a42dc9c2716f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 11 |
-| **[Meow Wolf](http://www.meowwolf.com)** | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24488?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Hybrid | Apr 10 |
-| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24489?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | Hybrid | Apr 10 |
+| **[Meow Wolf](http://www.meowwolf.com)** | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24489?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California, United States | Hybrid | Apr 10 |
+| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cad99f97a42dc9c24488?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9cac59f97a42dc9c24469?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Hybrid | Apr 10 |
-| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1869c7e25d859da19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe, NM | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas, United States | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1b67cec4f9b0a4aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Hybrid | Apr 10 |
+| ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa1869c7e25d859da19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe, NM | Hybrid | Apr 10 |
 | ↳ | **[Associate Creative Producer, Brand Creative](https://jobright.ai/jobs/info/69d9caa05356a60f40fdc67e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Mexico, United States | Hybrid | Apr 10 |
 | **[Tower 28 Beauty, Inc.](https://www.tower28beauty.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69d9c003869c7e25d859d61d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/69d9b040869c7e25d859cecf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
@@ -303,5 +306,4 @@ For a complete list, click the following sortable link below:
 | **[CIVIC](http://www.cegny.com)** | **[Junior Designer](https://jobright.ai/jobs/info/69d503eb706f771673ba0147?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 07 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Project Designer](https://jobright.ai/jobs/info/69d5f98b891d7b11cfd074fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Apr 07 |
 | **[Burnsville-Eagan-Savage School District 191](https://www.isd191.org)** | **[Community Ed Summer Theater Prop Designer](https://jobright.ai/jobs/info/69d8c18eb67cec4f9b09eb80?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burnsville, MN | On Site | Apr 07 |
-| ↳ | **[Community Ed Summer Theater Set Designer/Builder](https://jobright.ai/jobs/info/69d8c3509f97a42dc9c1e412?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burnsville, MN | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
