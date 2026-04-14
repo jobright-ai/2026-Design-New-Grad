@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewlr](https://www.safyrelabs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69ddb25c8182b27d34741223?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North York, ON | Hybrid | Apr 13 |
 | **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Design Operations Coordinator](https://jobright.ai/jobs/info/69dda6394d3bec4144b4d13a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 13 |
 | **[Kurita Group](https://www.kurita-water.com/)** | **[Junior Designer - Part -Time](https://jobright.ai/jobs/info/69dda2c08182b27d347406a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN, US | On Site | Apr 13 |
 | ↳ | **[Junior Designer - Part -Time](https://jobright.ai/jobs/info/69dda2aee34484770f19e030?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MN-Minneapolis | On Site | Apr 13 |
