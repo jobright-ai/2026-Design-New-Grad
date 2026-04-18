@@ -187,8 +187,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jr. Copy Editor & Proofreader](https://jobright.ai/jobs/info/69dfb7d3433ac8430e0e1ba4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-WI-Mount Horeb | Hybrid | Apr 15 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry Level Landscape Architect - Summer 2026 (FED/STL)](https://jobright.ai/jobs/info/69a55ab4359fe034b1cff65d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | Apr 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69dfabc7e34484770f1a9b45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Channahon, IL | On Site | Apr 15 |
-| **[Hootsuite](https://hootsuite.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e168f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | Remote | Apr 15 |
-| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e1691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, United States | Remote | Apr 15 |
+| **[Hootsuite](https://hootsuite.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e1691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, United States | Remote | Apr 15 |
+| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e168f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | Remote | Apr 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Junior Visual Production Designer](https://jobright.ai/jobs/info/69dfaac74920452a85dceb16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago IL USA | Hybrid | Apr 15 |
 | ↳ | **[Junior Visual Production Designer](https://jobright.ai/jobs/info/69dfaac5e34484770f1a999a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids MI USA | Hybrid | Apr 15 |
 | ↳ | **[Junior Visual Production Designer](https://jobright.ai/jobs/info/69dfaac0aba61f141731c8ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville TN USA | Hybrid | Apr 15 |
@@ -295,6 +295,6 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Designer - Mens - HYBRID](https://jobright.ai/jobs/info/69a12a5e5218a8167672646f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 11 |
 | **[SHEGLAM](https://www.sheglam.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdd0abb106024562831149?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69db64859f97a42dc9c2ec0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fenton, MI | On Site | Apr 11 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Apr 11 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Apr 11 |
 | **[Ubisoft Toronto](https://toronto.ubisoft.com/)** | **[Texture Artist [Splinter Cell Remake]](https://jobright.ai/jobs/info/69a23bdc359fe034b1cd77e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
