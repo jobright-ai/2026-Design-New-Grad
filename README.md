@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69c6caabb773006330b72f38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Halifax, NS | On Site | Apr 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69c601c083ea553769fd217f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Apr 18 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69e110b86c20aa114953f430?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Topanga, California, United States | On Site | Apr 18 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[UX Researcher](https://jobright.ai/jobs/info/69dac66e5356a60f40fe3d99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Apr 18 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Visual Associate, Part Time Flex, UTC San Diego- Pottery Barn Kids](https://jobright.ai/jobs/info/69c5bf29aa3c2c1995e03d89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Apr 17 |
 | **[Image360 Katy](https://katytx.image360.com/)** | **[On Site Graphic Designer](https://jobright.ai/jobs/info/69e296a33ce36005badbec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Apr 17 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69d41493891d7b11cfcf714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Apr 17 |
-| **[MedVet](https://www.medvet.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69e2826b3ce36005badbe7c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 17 |
 | **[Via](http://www.ridewithvia.com)** | **[Designer: Brand & Interactive Systems (Via, Remix, Citymapper)](https://jobright.ai/jobs/info/698a51b447434001cc688658?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Apr 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69e271dafcfcbd43860a2fdc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington Heights, IL | On Site | Apr 17 |
 | **[Marvin](http://www.marvin.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/696fdd660f4e0f657ea423a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota, United States | On Site | Apr 17 |
