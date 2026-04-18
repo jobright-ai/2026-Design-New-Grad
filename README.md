@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/69bfa22079e36d3a847c4b06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Apr 18 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PART TIME FRAMING TEAM MEMBER](https://jobright.ai/jobs/info/69e3b5df2664c278c1dd5450?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Thornton-931 E 120th Ave | On Site | Apr 18 |
 | **[AMI Design](http://www.amidesigns.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69e3a3e60ddab31db6f97142?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Apr 18 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Color Assistant](https://jobright.ai/jobs/info/69c7372f1b5ad0288738b2dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 18 |
@@ -207,8 +208,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jr. Copy Editor & Proofreader](https://jobright.ai/jobs/info/69dfb7d3433ac8430e0e1ba4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-WI-Mount Horeb | Hybrid | Apr 15 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry Level Landscape Architect - Summer 2026 (FED/STL)](https://jobright.ai/jobs/info/69a55ab4359fe034b1cff65d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | Apr 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69dfabc7e34484770f1a9b45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Channahon, IL | On Site | Apr 15 |
-| **[Hootsuite](https://hootsuite.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e1691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, United States | Remote | Apr 15 |
-| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e168f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | Remote | Apr 15 |
+| **[Hootsuite](https://hootsuite.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e168f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC | Remote | Apr 15 |
+| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dfab85433ac8430e0e1691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, United States | Remote | Apr 15 |
 | **[Crowe](https://www.crowe.com/)** | **[Junior Visual Production Designer](https://jobright.ai/jobs/info/69dfaac74920452a85dceb16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago IL USA | Hybrid | Apr 15 |
 | ↳ | **[Junior Visual Production Designer](https://jobright.ai/jobs/info/69dfaac5e34484770f1a999a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids MI USA | Hybrid | Apr 15 |
 | ↳ | **[Junior Visual Production Designer](https://jobright.ai/jobs/info/69dfaac0aba61f141731c8ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville TN USA | Hybrid | Apr 15 |
@@ -229,8 +230,8 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69def613aba61f141731917c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hawthorne, CA | On Site | Apr 14 |
 | **[Bottega Louie Restaurant, Gourmet Market & Patisserie](http://bottegalouie.com)** | **[Jr Graphic Designer](https://jobright.ai/jobs/info/69dee77818cf504166e30637?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | BHFC Capital (Headquarters) - Los Angeles, CA 90017 | On Site | Apr 14 |
 | **[Amazon](https://amazon.com)** | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee343aba61f14173183ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Reading, Massachusetts, USA | On Site | Apr 14 |
-| ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee33a18cf504166e30534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 14 |
 | ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee33a18cf504166e30530?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Reading, Massachusetts, USA | On Site | Apr 14 |
+| ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee33a18cf504166e30534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 14 |
 | ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee2aa36823d1b425844d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 14 |
 | ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee2a9e34484770f1a53fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 14 |
 | **[Tuckernuck](http://tnuck.com/#)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/69decd1aaba61f1417317daa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, District of Columbia, United States | On Site | Apr 14 |
