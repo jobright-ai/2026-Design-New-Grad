@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trava Health](https://taketrava.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/69e58c259b6eb37e26f7d21e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 19 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/69c803d483ea553769fe7f03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 19 |
 | **[Amazon](https://amazon.com)** | **[Associate Producer, Creative Content](https://jobright.ai/jobs/info/69d33a97cfdc6132f944ed59?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, California, USA | On Site | Apr 19 |
 | **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Designer, Global Visual Merchandising, MAC](https://jobright.ai/jobs/info/69dff5ff14bf245fc7a6ef6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Apr 19 |
@@ -226,8 +227,8 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69def613aba61f141731917c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hawthorne, CA | On Site | Apr 14 |
 | **[Bottega Louie Restaurant, Gourmet Market & Patisserie](http://bottegalouie.com)** | **[Jr Graphic Designer](https://jobright.ai/jobs/info/69dee77818cf504166e30637?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | BHFC Capital (Headquarters) - Los Angeles, CA 90017 | On Site | Apr 14 |
 | **[Amazon](https://amazon.com)** | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee343aba61f14173183ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Reading, Massachusetts, USA | On Site | Apr 14 |
-| ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee33a18cf504166e30534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 14 |
 | ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee33a18cf504166e30530?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Reading, Massachusetts, USA | On Site | Apr 14 |
+| ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee33a18cf504166e30534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 14 |
 | ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee2aa36823d1b425844d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 14 |
 | ↳ | **[Architectural Design And Drafting, Integrated Design Solutions](https://jobright.ai/jobs/info/69dee2a9e34484770f1a53fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 14 |
 | **[Tuckernuck](http://tnuck.com/#)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/69decd1aaba61f1417317daa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, District of Columbia, United States | On Site | Apr 14 |
