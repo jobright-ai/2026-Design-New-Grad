@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69e110b86c20aa114953f430?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Topanga, California, United States | On Site | Apr 20 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Billposter, General Labourer, Astral Media](https://jobright.ai/jobs/info/69cd7b84891d7b11cfcb938e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Québec, QC | On Site | Apr 19 |
 | **[Trava Health](https://taketrava.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/69e58c259b6eb37e26f7d21e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 19 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/69c803d483ea553769fe7f03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 19 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[PART TIME FRAMING TEAM MEMBER](https://jobright.ai/jobs/info/69e3b5df2664c278c1dd5450?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Thornton-931 E 120th Ave | On Site | Apr 18 |
 | **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69c6caabb773006330b72f38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Halifax, NS | On Site | Apr 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Designer 1](https://jobright.ai/jobs/info/69c601c083ea553769fd217f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Apr 18 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69e110b86c20aa114953f430?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Topanga, California, United States | On Site | Apr 18 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - Structured Woven](https://jobright.ai/jobs/info/69e32f6cbe46fa3a4ef59852?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69a958dc7f9271426f8842b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 17 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Floral Designer](https://jobright.ai/jobs/info/69dd01f39f97a42dc9c33dcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshall, E Main Street, Marshall, MN | On Site | Apr 17 |
@@ -282,9 +282,4 @@ For a complete list, click the following sortable link below:
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[Digital Designer](https://jobright.ai/jobs/info/69de6ca7aba61f1417314d56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Liberty Corner, Bernards, NJ, USA | Hybrid | Apr 13 |
 | **[DEPT®](https://www.deptagency.com)** | **[Designer - 6 month FTC](https://jobright.ai/jobs/info/69dd38a7738f2f099e8b530d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 13 |
 | **[IGN Entertainment](http://corp.ign.com)** | **[Social Branded Producer (Temporary)](https://jobright.ai/jobs/info/69dd4e629f97a42dc9c3562f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 13 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[Jr. Designer (Headwear)](https://jobright.ai/jobs/info/69dd26eb5356a60f40fecbfb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Apr 13 |
-| ↳ | **[Jr. Designer (Headwear)](https://jobright.ai/jobs/info/69dd267e5356a60f40fecb7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY, US | On Site | Apr 13 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Production Designer](https://jobright.ai/jobs/info/69dd200dbc6f6622c99109b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Joppa, MD, US | On Site | Apr 13 |
-| **[Simon Pearce](http://simonpearce.com)** | **[Engraver](https://jobright.ai/jobs/info/69dd1fc95356a60f40fec9a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Windsor VT Headquarters - Windsor, VT 05089 | On Site | Apr 13 |
-| **[East Carolina University](ecu.edu)** | **[Content Manager](https://jobright.ai/jobs/info/69dd1f3161f6ed54321fb446?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, NC | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
