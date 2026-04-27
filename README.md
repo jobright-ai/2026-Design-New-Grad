@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/69eea5304b0fa35a707872d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Apr 26 |
 | **[Vericast](https://www.vericast.com/)** | **[Graphics Specialist I](https://jobright.ai/jobs/info/69ee95834b0fa35a70787262?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Apr 26 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Picture Framer PT](https://jobright.ai/jobs/info/69ee91507820c036924ff09e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Store - 17125 SE 272nd St, US | On Site | Apr 26 |
 | **[Vericast](https://www.vericast.com/)** | **[Graphics Specialist I](https://jobright.ai/jobs/info/69ee68e316b2612c2a126c76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX, USA | Hybrid | Apr 26 |
@@ -219,8 +220,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e9774758811370cb12d71d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kalamazoo, MI | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977470a6e09555303beae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fosston, MN | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977937820c036924e82d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bismarck, ND | On Site | Apr 22 |
-| ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977937820c036924e82da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Petoskey, MI | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977273aa0c479643a9fff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fenton, MI | On Site | Apr 22 |
+| ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977937820c036924e82da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Petoskey, MI | On Site | Apr 22 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Junior Designer](https://jobright.ai/jobs/info/69e92d6858811370cb12b98d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | Apr 22 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Associate](https://jobright.ai/jobs/info/69eacd74dc35f7132c4ac2eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lee's Summit, MO, US | On Site | Apr 22 |
 | **[RealPage, Inc.](https://www.realpage.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/69b0c84ddfaeda6ff59b4717?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richardson, TX | Remote | Apr 22 |
@@ -346,5 +347,4 @@ For a complete list, click the following sortable link below:
 | **[BIC](http://bicworld.com/)** | **[Junior Digital Designer](https://jobright.ai/jobs/info/69e146fcacc736112f5c2e00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 20 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Floral Designer](https://jobright.ai/jobs/info/69dd01f39f97a42dc9c33dcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshall, E Main Street, Marshall, MN | On Site | Apr 20 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Apr 20 |
-| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69582408aa05c26e7ab20400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
