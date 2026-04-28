@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Hour Studios](https://hellobluehour.com)** | **[Junior Creative](https://jobright.ai/jobs/info/69be41b8393a1008f7442b0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 28 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Graphic Designer & Photo Editor](https://jobright.ai/jobs/info/69f100f2ecbc8c2f7320303d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes,MN,US | On Site | Apr 28 |
 | ↳ | **[Graphic Designer & Photo Editor](https://jobright.ai/jobs/info/69f0ff1e62b48c68387930da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Apr 28 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Womens Denim](https://jobright.ai/jobs/info/69f0fc6d8d8d624381a99934?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 28 |
@@ -218,8 +219,8 @@ For a complete list, click the following sortable link below:
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[PrePress Operator/Technician](https://jobright.ai/jobs/info/69c409ed6f4f855eeda66153?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lansing, MI | On Site | Apr 23 |
 | **[Bosley Real Estate Ltd, Brokerage](https://www.bosleyrealestate.com/)** | **[Full-Time Production & Graphic Designer (Full-time in office with possibility of remote)](https://jobright.ai/jobs/info/69ea8ff34b0fa35a707750ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Apr 23 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part time custom framing](https://jobright.ai/jobs/info/69ea800d4b0fa35a70774c64?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ramsey-75 Interstate Shopping Center, US | On Site | Apr 23 |
-| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[Designer / Landscape Architect (0-2 yrs experience)](https://jobright.ai/jobs/info/69eb2efa0a6e095553044b03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 23 |
-| ↳ | **[Designer / Landscape Architect (0-2 yrs experience)](https://jobright.ai/jobs/info/69eb2f134b0fa35a70778901?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Apr 23 |
+| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[Designer / Landscape Architect (0-2 yrs experience)](https://jobright.ai/jobs/info/69eb2f134b0fa35a70778901?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Apr 23 |
+| ↳ | **[Designer / Landscape Architect (0-2 yrs experience)](https://jobright.ai/jobs/info/69eb2efa0a6e095553044b03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 23 |
 | **[CTP](https://www.ctpboston.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/69eaf2cd7820c036924f081e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Apr 23 |
 | **[Reason Brand Inc](https://reasonclothing.com)** | **[Apparel Graphic Designer](https://jobright.ai/jobs/info/69ea6b3c4b0fa35a70773f39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Apr 23 |
 | **[Hootsuite](https://hootsuite.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69c16dc42c312363dcd44189?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, Canada, Toronto, Canada, East USA | Remote | Apr 23 |
@@ -278,9 +279,9 @@ For a complete list, click the following sortable link below:
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Architectural Designer/Drafter](https://jobright.ai/jobs/info/69e979b90a6e09555303c843?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pleasanton, CA | Hybrid | Apr 22 |
 | **[MCA - Merchandising Consultants Associates](https://corporate.mca.ca)** | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977564b0fa35a7076e756?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mishawaka, IN | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977350a6e09555303be8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lancaster, PA | On Site | Apr 22 |
-| ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977470a6e09555303beae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fosston, MN | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977937820c036924e82d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bismarck, ND | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e9774758811370cb12d71d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kalamazoo, MI | On Site | Apr 22 |
+| ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977470a6e09555303beae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fosston, MN | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977937820c036924e82da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Petoskey, MI | On Site | Apr 22 |
 | ↳ | **[Cosmetic Reset Merchandising Representative](https://jobright.ai/jobs/info/69e977273aa0c479643a9fff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fenton, MI | On Site | Apr 22 |
 | **[RealPage, Inc.](https://www.realpage.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/69b0c84ddfaeda6ff59b4717?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richardson, TX | Remote | Apr 22 |
