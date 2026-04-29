@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Multimedia Designer, Playfly Creates](https://jobright.ai/jobs/info/69d030f6cfdc6132f94395f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Apr 29 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69f25356ecbc8c2f73209f89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Apr 29 |
 | **[Crown Crafts, Inc.](http://www.crowncrafts.com)** | **[Brand Content Creator](https://jobright.ai/jobs/info/69f24dabf154d768fbaa663a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Compton, CA | On Site | Apr 29 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69f246628d8d624381aa0149?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 29 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Product Group (NPG)  -  Assistant Technical Designer, Rack Women's Apparel - Hybrid (Seattle, WA)](https://jobright.ai/jobs/info/69d5ca3ae63cea7a8b664e1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 29 |
@@ -72,6 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Larson Communications](https://larsonpr.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f22a81f154d768fbaa5a2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 29 |
 | **[Next](https://www.next.co.uk/)** | **[Assistant Designer - Textiles (Bedding)](https://jobright.ai/jobs/info/69f22641ab4ec4779fff7913?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Desford Road, Leicester, Leicestershire, LE19 4AT, GB | On Site | Apr 29 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[Production Print & Scan Operator](https://jobright.ai/jobs/info/69f2248dab4ec4779fff7726?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA-Washington-DC-2100 Pennsylvania Avenue NW, US | On Site | Apr 29 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f25c7aab4ec4779fff8af0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | On Site | Apr 29 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f25c608feca91f14924727?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Herndon, VA | On Site | Apr 29 |
 | **[GM Industrial LLC](https://www.linkedin.com/company/89931958)** | **[Production Graphic Designer](https://jobright.ai/jobs/info/69f20b258d8d624381a9eefd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cleveland, OH | On Site | Apr 29 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Assistant, Designer](https://jobright.ai/jobs/info/69d58eea891d7b11cfd02ee7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[Coty](https://www.coty.com/)** | **[Graphic Designer & E-Merchandising Assistant Manager](https://jobright.ai/jobs/info/69f12cbf825a315d7ca361ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Apr 29 |
@@ -271,8 +275,8 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d79edfaeda6ff59b7bbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 23 |
 | **[Absolute Collagen](https://www.absolutecollagen.com/)** | **[Email Designer](https://jobright.ai/jobs/info/69ea53564b0fa35a707736f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, West Midlands, United Kingdom | Hybrid | Apr 23 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b085bf0b2db6275c04a08b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 23 |
-| ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d84d0b2db6275c058ce6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, CO | Hybrid | Apr 23 |
 | ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d780749500645097de9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
+| ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d84d0b2db6275c058ce6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, CO | Hybrid | Apr 23 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Entry Level Architectural Staff I](https://jobright.ai/jobs/info/674f5ca9ccd2bc1e4d052da9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 23 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - City Design](https://jobright.ai/jobs/info/69ce5d76891d7b11cfcc7f6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
 | ↳ | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/69b0d797dfaeda6ff59b7b96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
