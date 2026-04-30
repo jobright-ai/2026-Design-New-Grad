@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charcoalblue](https://www.charcoalblue.com/)** | **[Graphic Designer (Marketing & Brand Implementation) - (35)](https://jobright.ai/jobs/info/69f34dfe1f90bd6ae23ce7a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bristol, BST BS1 4EQ GBLondon, LND SE1 8LJ GB (Primary) | Hybrid | Apr 30 |
+| **[Navan](https://navan.com)** | **[Product Design, FinTech](https://jobright.ai/jobs/info/69d6d771366bb95ba5550423?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | Hybrid | Apr 30 |
+| **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - J.Crew Men's Sweaters](https://jobright.ai/jobs/info/69d6b730706f771673bad464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/68dae9da6df7b8311bb14058?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Apr 30 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist - On Site Hourly](https://jobright.ai/jobs/info/699e6073ce78e77b4fe393b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Apr 30 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69bb0946569738374140e6dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rome, NY | On Site | Apr 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Crowds Artist](https://jobright.ai/jobs/info/698729a98da7a61204623ea2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Apr 30 |
 | **[CFO Insights](https://cfoinsights.org)** | **[Graphic Designer at CFO insights](https://jobright.ai/jobs/info/69f2d89aecbc8c2f7320eec7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, United Kingdom | On Site | Apr 29 |
 | ↳ | **[UX designer at CFO Insights](https://jobright.ai/jobs/info/69f2d8578d8d624381aa4563?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, United Kingdom | On Site | Apr 29 |
@@ -285,7 +288,4 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Junior Designer](https://jobright.ai/jobs/info/69eaa352dc35f7132c4ab654?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California | On Site | Apr 23 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[PrePress Operator/Technician](https://jobright.ai/jobs/info/69c409ed6f4f855eeda66153?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lansing, MI | On Site | Apr 23 |
 | **[Bosley Real Estate Ltd, Brokerage](https://www.bosleyrealestate.com/)** | **[Full-Time Production & Graphic Designer (Full-time in office with possibility of remote)](https://jobright.ai/jobs/info/69ea8ff34b0fa35a707750ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Apr 23 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Part time custom framing](https://jobright.ai/jobs/info/69ea800d4b0fa35a70774c64?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ramsey-75 Interstate Shopping Center, US | On Site | Apr 23 |
-| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[Designer / Landscape Architect (0-2 yrs experience)](https://jobright.ai/jobs/info/69eb2efa0a6e095553044b03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Apr 23 |
-| ↳ | **[Designer / Landscape Architect (0-2 yrs experience)](https://jobright.ai/jobs/info/69eb2f134b0fa35a70778901?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
