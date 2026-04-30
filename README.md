@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
+| **[PIP Marketing, Signs & Print - Kissimmee, FL](http://www.pipmarketing.com)** | **[Prepress Graphic Designer](https://jobright.ai/jobs/info/69f28bdef154d768fbaa7bfc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL, US | On Site | Apr 29 |
+| **[Lume Deodorant](https://lumedeodorant.com/)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f289db8feca91f14925756?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f28521ab4ec4779fff98fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[ASI | Signage Innovations - North Carolina](https://www.asisignage.com)** | **[Sign Graphics & Print Production Supervisor](https://jobright.ai/jobs/info/69f2818eab4ec4779fff9738?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holly Springs, NC | On Site | Apr 29 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2782a8feca91f14924ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Apr 29 |
@@ -283,17 +286,12 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d79edfaeda6ff59b7bbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 23 |
 | **[Absolute Collagen](https://www.absolutecollagen.com/)** | **[Email Designer](https://jobright.ai/jobs/info/69ea53564b0fa35a707736f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, West Midlands, United Kingdom | Hybrid | Apr 23 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b085bf0b2db6275c04a08b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 23 |
-| ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d84d0b2db6275c058ce6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, CO | Hybrid | Apr 23 |
 | ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d780749500645097de9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
+| ↳ | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d84d0b2db6275c058ce6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, CO | Hybrid | Apr 23 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Entry Level Architectural Staff I](https://jobright.ai/jobs/info/674f5ca9ccd2bc1e4d052da9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 23 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - City Design](https://jobright.ai/jobs/info/69ce5d76891d7b11cfcc7f6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
 | ↳ | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/69b0d797dfaeda6ff59b7b96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69cdeb33398fb071abf7df21?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Apr 23 |
 | **[Maddox Industrial Transformer](https://www.maddoxtransformer.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69eb928716b2612c2a11d002?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA, US | On Site | Apr 23 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/69f0c80ab27fee43e8cd546a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC, US | On Site | Apr 23 |
-| **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer Active Women's Lifestyle](https://jobright.ai/jobs/info/69e9ceca0a6e09555303db8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 23 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69e9c71858811370cb12f35d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Apr 23 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69e9c6ebe0cd471b2f13f2c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Warwick, RI | On Site | Apr 23 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69d7eca6738f2f099e8991e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellingham, MA | On Site | Apr 23 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69dd8683f748bc5d08a60092?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
