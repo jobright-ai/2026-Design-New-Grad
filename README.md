@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illinois Wesleyan University](http://www.iwu.edu/)** | **[Digital and Graphic Designer](https://jobright.ai/jobs/info/69f366b9c78b9e45189548fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bloomington, IL | On Site | Apr 30 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Product Designer 1, Client Growth](https://jobright.ai/jobs/info/69d6c04a706f771673badbf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | Hybrid | Apr 30 |
 | **[Navan](https://navan.com)** | **[Product Design, FinTech](https://jobright.ai/jobs/info/69d6d771366bb95ba5550423?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | Hybrid | Apr 30 |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Project Employee, NBA Social and Emerging Media – Creative Activations](https://jobright.ai/jobs/info/69f3670b461b9b613a620106?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Secaucus, NJ | Remote | Apr 30 |
 | **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - J.Crew Men's Sweaters](https://jobright.ai/jobs/info/69d6b730706f771673bad464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/68dae9da6df7b8311bb14058?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Apr 30 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist - On Site Hourly](https://jobright.ai/jobs/info/699e6073ce78e77b4fe393b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Apr 30 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b67434c4af7a79ab48c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b6688d8d624381aa23c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
-| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
-| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f2a7e9ab4ec4779fffa361?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2ca7c825a315d7ca3fa0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Beach, CA | On Site | Apr 29 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
@@ -285,6 +287,4 @@ For a complete list, click the following sortable link below:
 | **[Samba TV](http://www.samba.tv)** | **[Junior Designer](https://jobright.ai/jobs/info/69eaa83d58811370cb134a41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 23 |
 | **[Omnicom Production](https://omnicomproduction.com)** | **[Post Coordinator- Localization](https://jobright.ai/jobs/info/69eaa4d658811370cb13491d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Apr 23 |
 | **[A Thinking Ape](http://athinkingape.com)** | **[Associate 2D Game Artist](https://jobright.ai/jobs/info/69eaa4853aa0c479643b1197?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver | Remote | Apr 23 |
-| **[Samba TV](http://www.samba.tv)** | **[Junior Designer](https://jobright.ai/jobs/info/69eaa352dc35f7132c4ab654?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California | On Site | Apr 23 |
-| **[MSU Federal Credit Union](http://www.msufcu.org)** | **[PrePress Operator/Technician](https://jobright.ai/jobs/info/69c409ed6f4f855eeda66153?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lansing, MI | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
