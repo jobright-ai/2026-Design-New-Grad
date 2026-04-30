@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Mac Artist / Freelancer - Kennewick, WA](https://jobright.ai/jobs/info/69f3cbc5343eef4fb0a9e201?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennewick, WA | On Site | Apr 30 |
 | **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3bcb7c78b9e4518957790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mclean, Virginia, United States | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 30 |
@@ -67,15 +68,16 @@ For a complete list, click the following sortable link below:
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Hybrid Case Design Analyst](https://jobright.ai/jobs/info/69f3ac10c78b9e4518956a71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | Hybrid | Apr 30 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Designer I](https://jobright.ai/jobs/info/69f3a5aa343eef4fb0a9c656?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 30 |
 | ↳ | **[Designer I](https://jobright.ai/jobs/info/69f3a5a1343eef4fb0a9c642?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Apr 30 |
+| **[Green Grass](https://www.greengrasslandscape.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69f3c90fc78b9e45189579bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Downers Grove, IL | Hybrid | Apr 30 |
 | **[FastWill](https://www.fastwill.com)** | **[Creative Production Associate](https://jobright.ai/jobs/info/69f397d8343eef4fb0a9c267?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Apr 30 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Coordinator, Development - Golf](https://jobright.ai/jobs/info/69f397151f90bd6ae23d0db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1 Blachley Road, Stamford, Connecticut | Hybrid | Apr 30 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69f39709461b9b613a621ec6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI, US | On Site | Apr 30 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/69f396f258b23a2329da6094?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Thorp, WI, US | On Site | Apr 30 |
-| **[Magellan Investment Partners](https://www.magellangroup.com.au/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f39353461b9b613a621d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Apr 30 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Visual Merchandising Coordinator - Calvin Klein](https://jobright.ai/jobs/info/69f3ad5c58b23a2329da6920?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 30 |
 | **[Apple](https://www.apple.com)** | **[Marcom Designer](https://jobright.ai/jobs/info/69f39033343eef4fb0a9be5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cupertino, California, United States | On Site | Apr 30 |
 | **[Chewy](https://www.chewy.com)** | **[Artist](https://jobright.ai/jobs/info/69bb568e06c1ba00c54dd10f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plantation, FL | On Site | Apr 30 |
 | **[HOK](http://www.hok.com/)** | **[Planning - Landscape Design Professional](https://jobright.ai/jobs/info/6966c3315ad3a93f8232195e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
+| **[Magellan Investment Partners](https://www.magellangroup.com.au/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f39353461b9b613a621d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Apr 30 |
 | **[OPOC.us](https://www.opoc.us)** | **[Presentation Specialist](https://jobright.ai/jobs/info/69f3816a343eef4fb0a9aa19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Worthington, OH | On Site | Apr 30 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail- PT Custom Framing](https://jobright.ai/jobs/info/69f37b3f58b23a2329da493e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greensburg, Pennsylvania, United States of America | On Site | Apr 30 |
 | **[New England Design & Construction](https://www.nedesignbuild.com/)** | **[Architectural Assistant Designer](https://jobright.ai/jobs/info/69f372d458b23a2329da47bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, MA | On Site | Apr 30 |
@@ -299,5 +301,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69eb6e057820c036924f3b4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edina, MN | On Site | Apr 24 |
 | **[GritrSports.com](https://www.gritrsports.com/)** | **[Content Creator / Media SpecialistEqual Employment Opportunity Statement](https://jobright.ai/jobs/info/69ebc5887820c036924f7348?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Richland Hills, TX | On Site | Apr 23 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69eb5ddf0a6e095553046d4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Crystal Lake, IL | On Site | Apr 23 |
-| **[BGIS](https://www.bgis.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | British Columbia, Canada | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
