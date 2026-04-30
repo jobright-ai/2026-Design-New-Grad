@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
+| **[Hybrid Apparel](http://hybridapparel.com/)** | **[Temp. Assistant Designer](https://jobright.ai/jobs/info/69f29a1a825a315d7ca3d8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cypress, CA, US | On Site | Apr 29 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[PIP Marketing, Signs & Print - Kissimmee, FL](http://www.pipmarketing.com)** | **[Prepress Graphic Designer](https://jobright.ai/jobs/info/69f28bdef154d768fbaa7bfc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL, US | On Site | Apr 29 |
 | **[Lume Deodorant](https://lumedeodorant.com/)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f289db8feca91f14925756?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
+| **[Baresque](https://baresque.com.au/)** | **[CAD Designer](https://jobright.ai/jobs/info/69f2a4d0ab4ec4779fffa292?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f28521ab4ec4779fff98fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[ASI | Signage Innovations - North Carolina](https://www.asisignage.com)** | **[Sign Graphics & Print Production Supervisor](https://jobright.ai/jobs/info/69f2818eab4ec4779fff9738?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holly Springs, NC | On Site | Apr 29 |
+| **[PIP Marketing, Signs & Print - Kissimmee, FL](http://www.pipmarketing.com)** | **[Prepress Graphic Designer](https://jobright.ai/jobs/info/69f29af5ab4ec4779fffa0dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Apr 29 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2782a8feca91f14924ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Apr 29 |
 | **[KTGY](http://ktgy.com)** | **[Designer - Architecture, Oakland For Sale Design](https://jobright.ai/jobs/info/69b21cd165de58104c7191b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | Hybrid | Apr 29 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f277ffecbc8c2f7320a8c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | On Site | Apr 29 |
