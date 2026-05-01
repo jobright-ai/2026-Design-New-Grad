@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kids Stop](http://kidsstopny.com)** | **[Graphic Designer Kids Apparel](https://jobright.ai/jobs/info/69f4d77881706a5bd2163945?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 01 |
 | **[ALO](https://www.aloyoga.com/)** | **[Accessories & Bags, Designer 1](https://jobright.ai/jobs/info/699fb92ad643757b0e453f37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | May 01 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdcc6d393a1008f7436f3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 01 |
+| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Photo Publicity Coordinator](https://jobright.ai/jobs/info/69f4b16543a25828a8d1439a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | May 01 |
 | **[Talbots](http://www.talbots.com)** | **[Visual Merchandising Assistant](https://jobright.ai/jobs/info/69d7c5b89f97a42dc9c16f32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hingham, MA | On Site | May 01 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Junior Graphic Designer](https://jobright.ai/jobs/info/69b508143b74eb1e2c82815a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
@@ -304,5 +304,4 @@ For a complete list, click the following sortable link below:
 | **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/69ec36c04b0fa35a707818fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Apr 24 |
 | **[Gensler](http://www.gensler.com)** | **[Urban Designer - Junior](https://jobright.ai/jobs/info/69ec2de90a6e09555304d005?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 24 |
 | **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb385c16b2612c2a119c2f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth, Scotland, United Kingdom | On Site | Apr 24 |
-| **[McDowell-Craig](https://www.mcdowellcraig.com)** | **[Interior Design & Client Care Specialist](https://jobright.ai/jobs/info/69ec9ec058811370cb14032f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe Springs, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
