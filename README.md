@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Photo Publicity Coordinator](https://jobright.ai/jobs/info/69f4b16543a25828a8d1439a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | May 01 |
+| **[Talbots](http://www.talbots.com)** | **[Visual Merchandising Assistant](https://jobright.ai/jobs/info/69d7c5b89f97a42dc9c16f32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hingham, MA | On Site | May 01 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Junior Graphic Designer](https://jobright.ai/jobs/info/69b508143b74eb1e2c82815a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Associate - Entry-Level](https://jobright.ai/jobs/info/69f4a95cdb88714bcdfaef62?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Hybrid | May 01 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Junior Brand Designer](https://jobright.ai/jobs/info/69d6dcd3cfdc6132f946dcd1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Photo Publicity Coordinator](https://jobright.ai/jobs/info/69f4a3a90b36ff035474e0d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | May 01 |
@@ -104,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Apple](https://www.apple.com)** | **[Marcom Designer](https://jobright.ai/jobs/info/69f39033343eef4fb0a9be5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cupertino, California, United States | On Site | Apr 30 |
 | **[Chewy](https://www.chewy.com)** | **[Artist](https://jobright.ai/jobs/info/69bb568e06c1ba00c54dd10f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plantation, FL | On Site | Apr 30 |
 | **[HOK](http://www.hok.com/)** | **[Planning - Landscape Design Professional](https://jobright.ai/jobs/info/6966c3315ad3a93f8232195e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
-| **[Magellan Investment Partners](https://www.magellangroup.com.au/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f39353461b9b613a621d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Apr 30 |
 | **[OPOC.us](https://www.opoc.us)** | **[Presentation Specialist](https://jobright.ai/jobs/info/69f3816a343eef4fb0a9aa19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Worthington, OH | On Site | Apr 30 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail- PT Custom Framing](https://jobright.ai/jobs/info/69f37b3f58b23a2329da493e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greensburg, Pennsylvania, United States of America | On Site | Apr 30 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Apr 30 |
@@ -277,7 +279,6 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Front-End Supervisor](https://jobright.ai/jobs/info/69ed838058811370cb141c1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wauwatosa, WI | On Site | Apr 25 |
 | **[Business Insider](http://www.businessinsider.com)** | **[Associate UX/UI Designer](https://jobright.ai/jobs/info/69c42fec33eecf310794577d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Apr 25 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Front-End Supervisor](https://jobright.ai/jobs/info/69ed34a9dc35f7132c4b82ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wauwatosa, WI 53222, US | On Site | Apr 25 |
-| **[Digitas Health](http://www.digitashealth.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/69b7806906c1ba00c549349c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 25 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PT Evening Custom Framing Team Member](https://jobright.ai/jobs/info/69ed0c5516b2612c2a123d6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus-3670 Easton Market, US | On Site | Apr 25 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/69b492d106c1ba00c5461240?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69ece2a54b0fa35a707838b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester Hills, MI | On Site | Apr 25 |
@@ -296,6 +297,4 @@ For a complete list, click the following sortable link below:
 | **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb385c16b2612c2a119c2f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth, Scotland, United Kingdom | On Site | Apr 24 |
 | **[McDowell-Craig](https://www.mcdowellcraig.com)** | **[Interior Design & Client Care Specialist](https://jobright.ai/jobs/info/69ec9ec058811370cb14032f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Fe Springs, CA | On Site | Apr 24 |
 | **[Chemical Guys](https://www.chemicalguys.com/)** | **[Packaging Development Specialist](https://jobright.ai/jobs/info/69ec116a4b0fa35a70780804?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance, CA | On Site | Apr 24 |
-| **[Design Observer](http://designobserver.com/)** | **[Industrial Designer](https://jobright.ai/jobs/info/69ec11e27820c036924f8fb7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, CA | Hybrid | Apr 24 |
-| **[Floor Coverings International](https://floorcoveringsinternational.com)** | **[Design Associate](https://jobright.ai/jobs/info/69ec17c24b0fa35a70780947?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cary, NC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
