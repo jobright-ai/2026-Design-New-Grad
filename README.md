@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abbott](https://www.abbott.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/69f43a896942c746fa69716e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plymouth, MN | On Site | Apr 30 |
 | **[Staples Canada](http://www.staples.ca)** | **[Embroidery Multihead Operator - Staples Promotional Products](https://jobright.ai/jobs/info/69f42bc76942c746fa696f94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 30 |
 | **[Marymount University](http://www.marymount.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f42a54343eef4fb0aa00b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, VA | Hybrid | Apr 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f4071f6942c746fa6967b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, PA | On Site | Apr 30 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3f8a31f90bd6ae23d30bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
 | **[Loudr Agency](https://www.loudr.agency)** | **[Content Creator](https://jobright.ai/jobs/info/69f4240858b23a2329da9a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States | Hybrid | Apr 30 |
 | **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3bcb7c78b9e4518957790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 30 |
-| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mclean, Virginia, United States | On Site | Apr 30 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mclean, Virginia, United States | On Site | Apr 30 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3d2ec6942c746fa6951ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, Pennsylvania, United States | On Site | Apr 30 |
 | **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Mac Artist / Freelancer - San Francisco, CA](https://jobright.ai/jobs/info/69f3d98e1f90bd6ae23d1edb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 30 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Assistant Designer, Karl Lagerfeld Paris](https://jobright.ai/jobs/info/69f3df8e343eef4fb0a9eafc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 30 |
@@ -139,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Baresque](https://baresque.com.au/)** | **[CAD Designer](https://jobright.ai/jobs/info/69f2a4d0ab4ec4779fffa292?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f28521ab4ec4779fff98fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[ASI | Signage Innovations - North Carolina](https://www.asisignage.com)** | **[Sign Graphics & Print Production Supervisor](https://jobright.ai/jobs/info/69f2818eab4ec4779fff9738?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holly Springs, NC | On Site | Apr 29 |
+| **[Studio Zerbey Architecture + Interiors](https://studiozerbey.com/)** | **[Custom Home Architect/Designer](https://jobright.ai/jobs/info/69f43acf343eef4fb0aa0371?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Apr 29 |
 | **[PIP Marketing, Signs & Print - Kissimmee, FL](http://www.pipmarketing.com)** | **[Prepress Graphic Designer](https://jobright.ai/jobs/info/69f29af5ab4ec4779fffa0dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Apr 29 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2782a8feca91f14924ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Apr 29 |
 | **[KTGY](http://ktgy.com)** | **[Designer - Architecture, Oakland For Sale Design](https://jobright.ai/jobs/info/69b21cd165de58104c7191b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | Hybrid | Apr 29 |
@@ -305,6 +307,4 @@ For a complete list, click the following sortable link below:
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Staff (Color Format)](https://jobright.ai/jobs/info/69e7cd430a6e09555302c2ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Apr 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69ec40ed58811370cb13f64e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport, KY | On Site | Apr 24 |
 | **[Turner Fleischer](http://www.turnerfleischer.com)** | **[Designer, Architecture](https://jobright.ai/jobs/info/69e8e83fe0cd471b2f138c27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
-| **[Cleveland & Co](https://cleveland-co.com)** | **[User Interface Designer](https://jobright.ai/jobs/info/69eb90ce58811370cb13a0dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, England, United Kingdom | Hybrid | Apr 24 |
-| **[Land Perc](http://www.landperc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/69eb910e4b0fa35a7077c59a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
