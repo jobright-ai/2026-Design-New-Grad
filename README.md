@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Staples Canada](http://www.staples.ca)** | **[Embroidery Multihead Operator - Staples Promotional Products](https://jobright.ai/jobs/info/69f42bc76942c746fa696f94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 30 |
+| **[Marymount University](http://www.marymount.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f42a54343eef4fb0aa00b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, VA | Hybrid | Apr 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f4071f6942c746fa6967b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, PA | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f406edc78b9e45189591a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f406c8461b9b613a6256fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Apr 30 |
@@ -69,10 +71,12 @@ For a complete list, click the following sortable link below:
 | **[EwingCole](http://www.ewingcole.com)** | **[Lighting Designer I](https://jobright.ai/jobs/info/69f3df7b343eef4fb0a9eab4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 30 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[PartTime Temp - Photo Assistant/Retoucher](https://jobright.ai/jobs/info/69f3d98d1f90bd6ae23d1ed2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3d978c78b9e4518958457?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Apr 30 |
+| **[Abbott](https://www.abbott.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/69f42579343eef4fb0a9ff6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States > Minnesota > Plymouth : 5050 Nathan Lane N, US | On Site | Apr 30 |
 | **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Mac Artist / Freelancer - Medford, OR](https://jobright.ai/jobs/info/69f3d10f461b9b613a62410a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Medford, NY | On Site | Apr 30 |
 | ↳ | **[Mac Artist / Freelancer - Kennewick, WA](https://jobright.ai/jobs/info/69f3cbc5343eef4fb0a9e201?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennewick, WA | On Site | Apr 30 |
 | **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3f8a31f90bd6ae23d30bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
-| ↳ | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3bcb7c78b9e4518957790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
+| **[Loudr Agency](https://www.loudr.agency)** | **[Content Creator](https://jobright.ai/jobs/info/69f4240858b23a2329da9a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States | Hybrid | Apr 30 |
+| **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3bcb7c78b9e4518957790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mclean, Virginia, United States | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3d2ec6942c746fa6951ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, Pennsylvania, United States | On Site | Apr 30 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Magellan Investment Partners](https://www.magellangroup.com.au/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69f39353461b9b613a621d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Apr 30 |
 | **[OPOC.us](https://www.opoc.us)** | **[Presentation Specialist](https://jobright.ai/jobs/info/69f3816a343eef4fb0a9aa19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Worthington, OH | On Site | Apr 30 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail- PT Custom Framing](https://jobright.ai/jobs/info/69f37b3f58b23a2329da493e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greensburg, Pennsylvania, United States of America | On Site | Apr 30 |
-| **[New England Design & Construction](https://www.nedesignbuild.com/)** | **[Architectural Assistant Designer](https://jobright.ai/jobs/info/69f372d458b23a2329da47bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, MA | On Site | Apr 30 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Apr 30 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Technical Illustrator](https://jobright.ai/jobs/info/69f3a1061f90bd6ae23d10e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk River, MN | On Site | Apr 30 |
 | **[Company 3](http://www.company3.com)** | **[Color Assist](https://jobright.ai/jobs/info/69f37a27343eef4fb0a9a712?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 30 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b67434c4af7a79ab48c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b6688d8d624381aa23c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
-| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
-| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f2a7e9ab4ec4779fffa361?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2ca7c825a315d7ca3fa0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Beach, CA | On Site | Apr 29 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
@@ -304,8 +307,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Fleischer](http://www.turnerfleischer.com)** | **[Designer, Architecture](https://jobright.ai/jobs/info/69e8e83fe0cd471b2f138c27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[Cleveland & Co](https://cleveland-co.com)** | **[User Interface Designer](https://jobright.ai/jobs/info/69eb90ce58811370cb13a0dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, England, United Kingdom | Hybrid | Apr 24 |
 | **[Land Perc](http://www.landperc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/69eb910e4b0fa35a7077c59a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Apr 24 |
-| **[Vidsy](https://vidsy.co/)** | **[Creative Strategy Coordinator](https://jobright.ai/jobs/info/69eb67bb4b0fa35a7077b323?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, CA | Hybrid | Apr 24 |
-| **[Rural King](https://www.ruralking.com)** | **[Space Planner](https://jobright.ai/jobs/info/699647cc81476f6176ae08bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mattoon, IL | On Site | Apr 24 |
-| **[Raytheon](http://www.bbn.com)** | **[RTX BBN Junior Visual Designer I (Generalist — Motion-Capable)](https://jobright.ai/jobs/info/69ef65c10a6e095553054552?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | boston, Massachusetts, United States of America | Remote | Apr 24 |
-| **[Brent Council](https://www.brent.gov.uk/)** | **[Creative Content Officer](https://jobright.ai/jobs/info/69eb5ec10a6e095553046db4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Engineers Way, HA9 0FJ, GB | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
