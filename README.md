@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/69d95af0869c7e25d859a4d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ridgeland, MS | On Site | May 02 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d988c5869c7e25d859b756?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | May 02 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69f5d72fdb88714bcdfb4bf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | May 02 |
 | **[MSC Industrial Supply Co.](http://www.mscdirect.com)** | **[Digital Asset Specialist](https://jobright.ai/jobs/info/69f57cfa81706a5bd216691a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davidson, NC | On Site | May 01 |
@@ -217,6 +218,7 @@ For a complete list, click the following sortable link below:
 | **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/69f26a2d8feca91f14924baa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 29 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f26a1ef154d768fbaa6ea3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, Washington, United States | On Site | Apr 29 |
 | **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/69f26a19ecbc8c2f7320a6c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Carolina, United States | Remote | Apr 29 |
+| **[BlackBerry](https://www.blackberry.com)** | **[Designer Specialist](https://jobright.ai/jobs/info/69f5eb5ddb88714bcdfb560f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, Ontario, CA | On Site | Apr 29 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Multimedia Designer, Playfly Creates](https://jobright.ai/jobs/info/69d030f6cfdc6132f94395f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Apr 29 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69f25356ecbc8c2f73209f89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Apr 29 |
 | **[Halo Dream, Inc.](http://www.adenandanais.com)** | **[Junior Technical Designer](https://jobright.ai/jobs/info/69ef95c0e624fe645d53217b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 29 |
