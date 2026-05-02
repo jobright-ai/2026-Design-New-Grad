@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f62013db88714bcdfb5af4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Council Bluffs, IA | On Site | May 02 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f61e23a3d34b4f76f57c69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apopka, FL | On Site | May 02 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f61e1081706a5bd2168487?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | May 02 |
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/69d912419f97a42dc9c1f689?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | May 02 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Product Designer (UX/UI)-Specialist](https://jobright.ai/jobs/info/69d9a4fd9f97a42dc9c23386?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | May 02 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Print Center Coordinator](https://jobright.ai/jobs/info/69d906229f97a42dc9c1f040?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | May 02 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Fungi Perfecti LLC](https://fungi.com/)** | **[Graphic Designer I](https://jobright.ai/jobs/info/69f500a3a3d34b4f76f52f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Olympia, WA | On Site | May 01 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdcc6d393a1008f7436f3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6505a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | May 01 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c3f0b36ff035475266b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Ellyn, IL | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cb1a3d34b4f76f55964?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kaneohe, HI | On Site | May 01 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
@@ -144,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[PragerU](https://www.prageru.com)** | **[Multimedia Designer](https://jobright.ai/jobs/info/69f3f69ac78b9e4518958d7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 30 |
 | **[State of Florida](http://www.myflorida.com)** | **[GRAPHICS DESIGNER II - 42001384](https://jobright.ai/jobs/info/69f52a59a3d34b4f76f540e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gainesville, FL | On Site | Apr 30 |
 | **[TOPS Products LLC](https://www.tops-products.com/)** | **[Junior Industrial Designer](https://jobright.ai/jobs/info/69f3e8cb343eef4fb0a9f065?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Hills, CA, USA | Hybrid | Apr 30 |
-| **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/69f406d858b23a2329da9476?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Apr 30 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Designer I](https://jobright.ai/jobs/info/69f40518343eef4fb0a9f793?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Apr 30 |
 | ↳ | **[Designer I](https://jobright.ai/jobs/info/69f40521343eef4fb0a9f7a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 30 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Lighting Designer I](https://jobright.ai/jobs/info/69f3df7b343eef4fb0a9eab4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 30 |
