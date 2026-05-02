@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bond Capital SIA](www.bondcapital.io)** | **[Lighting Designer/Estimator - Remote](https://jobright.ai/jobs/info/69f6470cb1fc847fc1ae2bf6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 02 |
 | **[HOK](http://www.hok.com/)** | **[Architecture - Design Professional](https://jobright.ai/jobs/info/69ebbc8e58811370cb13c251?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f62013db88714bcdfb5af4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Council Bluffs, IA | On Site | May 02 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f61e23a3d34b4f76f57c69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apopka, FL | On Site | May 02 |
@@ -206,8 +207,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b67434c4af7a79ab48c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b6688d8d624381aa23c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
-| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
-| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f2a7e9ab4ec4779fffa361?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2ca7c825a315d7ca3fa0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Beach, CA | On Site | Apr 29 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
@@ -349,5 +350,4 @@ For a complete list, click the following sortable link below:
 | **[Taylor](https://taylorstrategy.com/)** | **[Open Call: Freelance Talent – Creative & Strategy](https://jobright.ai/jobs/info/69edda9b0a6e095553050cb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 26 |
 | **[PostNet Syracuse](http://www.postnet.com/syracuse-ny135)** | **[Graphic & Print Service Representative Retail](https://jobright.ai/jobs/info/69edb6200a6e0955530509ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakewood Ranch, FL | On Site | Apr 25 |
 | **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb361816b2612c2a1194e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Banbury, England, United Kingdom | On Site | Apr 25 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Front-End Supervisor](https://jobright.ai/jobs/info/69ed838058811370cb141c1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wauwatosa, WI | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
