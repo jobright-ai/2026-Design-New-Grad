@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHEGLAM](https://www.sheglam.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdd0abb106024562831149?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 03 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/69f68d21db88714bcdfb6f88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | May 02 |
 | **[ME+EM Ltd](http://www.meandem.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/69f67587a3d34b4f76f588da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | May 02 |
 | **[Bond Capital SIA](www.bondcapital.io)** | **[Lighting Designer/Estimator - Remote](https://jobright.ai/jobs/info/69f6470cb1fc847fc1ae2bf6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 02 |
