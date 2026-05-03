@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[SHEGLAM](https://www.sheglam.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdd0abb106024562831149?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 03 |
 | **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/69f68d21db88714bcdfb6f88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | May 02 |
 | **[ME+EM Ltd](http://www.meandem.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/69f67587a3d34b4f76f588da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | May 02 |
-| **[Bond Capital SIA](www.bondcapital.io)** | **[Lighting Designer/Estimator - Remote](https://jobright.ai/jobs/info/69f6470cb1fc847fc1ae2bf6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 02 |
 | **[HOK](http://www.hok.com/)** | **[Architecture - Design Professional](https://jobright.ai/jobs/info/69ebbc8e58811370cb13c251?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f62013db88714bcdfb5af4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Council Bluffs, IA | On Site | May 02 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f61e23a3d34b4f76f57c69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apopka, FL | On Site | May 02 |
@@ -128,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Fungi Perfecti LLC](https://fungi.com/)** | **[Graphic Designer I](https://jobright.ai/jobs/info/69f500a3a3d34b4f76f52f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Olympia, WA | On Site | May 01 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdcc6d393a1008f7436f3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6505a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | May 01 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c3f0b36ff035475266b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Ellyn, IL | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cb1a3d34b4f76f55964?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kaneohe, HI | On Site | May 01 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
