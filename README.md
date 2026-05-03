@@ -344,5 +344,4 @@ For a complete list, click the following sortable link below:
 | **[Stanleybet Group](http://www.stanleybetcorporate.com/en)** | **[Italian Speaking Junior Graphic Designer](https://jobright.ai/jobs/info/69f03046a4aa3545d8a5d79a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Liverpool, England, United Kingdom | Hybrid | Apr 27 |
 | **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb349d0a6e095553044f2f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Truro, England, United Kingdom | On Site | Apr 27 |
 | **[Welo Data](https://t.mtrbio.com/WeloData)** | **[Maps Visual Design Relevance Evaluator - English (US)](https://jobright.ai/jobs/info/69ef46a0e624fe645d53029e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Apr 27 |
-| **[Ingram Micro Czech Republic](http://cz.ingrammicro.eu)** | **[Designer](https://jobright.ai/jobs/info/69f448dd1f90bd6ae23d4107?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
