@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coach](https://uk.coach.com)** | **[Assistant Designer, Home](https://jobright.ai/jobs/info/69f8f725db88714bcdfbcc0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA (Corporate Headquarters), US | Hybrid | May 04 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Technical Editor II](https://jobright.ai/jobs/info/69f8e493b1fc847fc1ae8ef2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin | Hybrid | May 04 |
 | **[AutoTrader.ca](http://go.trader.ca)** | **[Web Designer](https://jobright.ai/jobs/info/69f8e3f281706a5bd216e834?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | May 04 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Production Coordinator &amp; Pre-press Designer](https://jobright.ai/jobs/info/69f8c273582f810f9c8ce21c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duquesne, PA | On Site | May 04 |
