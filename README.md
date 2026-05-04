@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Yabu Pushelberg](https://yabupushelberg.com/)** | **[Junior / Intermediate Designer](https://jobright.ai/jobs/info/69f9142ba3d34b4f76f5ff72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | May 04 |
+| **[Amazon](https://amazon.com)** | **[UX Designer](https://jobright.ai/jobs/info/69f920c9a3d34b4f76f6063f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, Washington, USA | On Site | May 04 |
+| **[Yabu Pushelberg](https://yabupushelberg.com/)** | **[Junior / Intermediate Designer](https://jobright.ai/jobs/info/69f914960b36ff035475d00f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 04 |
+| ↳ | **[Junior / Intermediate Designer](https://jobright.ai/jobs/info/69f9142ba3d34b4f76f5ff72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | May 04 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher - Global E-Commerce (US)](https://jobright.ai/jobs/info/69f90e5b0b36ff035475ce3b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | May 04 |
 | **[Sock Club](https://www.sockclub.com)** | **[Work at Sock Club](https://jobright.ai/jobs/info/69f90d71582f810f9c8d0087?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | May 04 |
 | **[Convergint](http://www.convergint.com)** | **[Associate Production Designer](https://jobright.ai/jobs/info/69f90c50db88714bcdfbd2fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 04 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Tilbury Beauty](https://www.charlottetilbury.com)** | **[Creative Assistant](https://jobright.ai/jobs/info/69f50663a3d34b4f76f533a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | Hybrid | May 01 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Littleton - Pottery Barn](https://jobright.ai/jobs/info/69f50654a3d34b4f76f5337c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 8555 Pk Meadows Center Dr, Lone Tree, CO, 80124, US | On Site | May 01 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Associate, Document Specialist- 4 pm to midnight shift](https://jobright.ai/jobs/info/69f5063d0b36ff0354750336?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON, Canada | On Site | May 01 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Designer (Entry Level)](https://jobright.ai/jobs/info/69bb1c235697383741411b3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | May 01 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f51d7943a25828a8d16fdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 01 |
 | **[Charlotte Tilbury Beauty](https://www.charlottetilbury.com)** | **[Creative Assistant](https://jobright.ai/jobs/info/69f52a1da3d34b4f76f5402b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 01 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Hybrid Case Design Analyst](https://jobright.ai/jobs/info/69f4f7ec43a25828a8d15e37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | Hybrid | May 01 |
@@ -312,5 +313,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689daf2383d13d1f5b6b343e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Apr 28 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Project Designer](https://jobright.ai/jobs/info/69d5f98b891d7b11cfd074fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | Apr 28 |
 | **[Signarama Silver Spring](https://signarama.com/locations/md-silver-spring/)** | **[Sign Production and Installation Specialist](https://jobright.ai/jobs/info/69f084cbb27fee43e8cd381b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Apr 28 |
-| **[Lakeshirts](http://lakeshirts.com)** | **[Graphic Designer & Photo Editor](https://jobright.ai/jobs/info/69f1104162b48c6838793965?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
