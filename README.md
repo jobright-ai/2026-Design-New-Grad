@@ -213,8 +213,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b67434c4af7a79ab48c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b6688d8d624381aa23c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
-| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
-| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
+| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f2a7e9ab4ec4779fffa361?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2ca7c825a315d7ca3fa0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Beach, CA | On Site | Apr 29 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
