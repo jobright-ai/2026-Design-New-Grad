@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Fungi Perfecti LLC](https://fungi.com/)** | **[Graphic Designer I](https://jobright.ai/jobs/info/69f500a3a3d34b4f76f52f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Olympia, WA | On Site | May 01 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdcc6d393a1008f7436f3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6505a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | May 01 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c3f0b36ff035475266b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Ellyn, IL | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cb1a3d34b4f76f55964?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kaneohe, HI | On Site | May 01 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
@@ -336,7 +336,4 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Lynnfield - Pottery Barn](https://jobright.ai/jobs/info/6961bb0aa112b40266104bc9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lynnfield, MA | On Site | Apr 27 |
 | **[HCLTech](https://www.hcltech.com/)** | **[Hybrid Visual/UX Designer](https://jobright.ai/jobs/info/69c2d45894007a2195ded6ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | Hybrid | Apr 27 |
 | **[Journey Further](https://www.journeyfurther.com)** | **[Junior Social Creative](https://jobright.ai/jobs/info/69f1d3d5ab4ec4779fff6883?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Journey Further, Leeds, UK, LS10 1EG, GB | On Site | Apr 27 |
-| **[Relay](https://relayfi.com)** | **[Production Designer, Marketing](https://jobright.ai/jobs/info/699925a1ce78e77b4fddd383?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
-| **[Texas A&M University](https://tamu.edu)** | **[Graphic Designer I](https://jobright.ai/jobs/info/69ef85b2e624fe645d531edc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | College Station, TX | On Site | Apr 27 |
-| **[DG Creative Media](https://dgcreativemedia.com)** | **[Social Media Marketing and Graphic Design Associate](https://jobright.ai/jobs/info/69efa81c58811370cb147896?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
