@@ -137,10 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Fungi Perfecti LLC](https://fungi.com/)** | **[Graphic Designer I](https://jobright.ai/jobs/info/69f500a3a3d34b4f76f52f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Olympia, WA | On Site | May 01 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdcc6d393a1008f7436f3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6505a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | May 01 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c3f0b36ff035475266b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Ellyn, IL | On Site | May 01 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cb1a3d34b4f76f55964?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kaneohe, HI | On Site | May 01 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Photo Publicity Coordinator](https://jobright.ai/jobs/info/69f4b16543a25828a8d1439a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | May 01 |
 | **[Talbots](http://www.talbots.com)** | **[Visual Merchandising Assistant](https://jobright.ai/jobs/info/69d7c5b89f97a42dc9c16f32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hingham, MA | On Site | May 01 |
@@ -304,5 +303,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Realty](https://www.northroprealty.com)** | **[Creative Graphic Designer](https://jobright.ai/jobs/info/69f0d043ecbc8c2f73202122?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 21029 Clarksville, MD, United States | On Site | Apr 28 |
 | **[Coach](https://uk.coach.com)** | **[Design Assistant, Print](https://jobright.ai/jobs/info/69f0cf728feca91f1491cd5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 28 |
 | **[The Agora Companies](https://14west.us/)** | **[Video Editor](https://jobright.ai/jobs/info/6982a4ab0f6f7e7a2cdbf6e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hunt Valley, MD | Hybrid | Apr 28 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69d46345366bb95ba553d108?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
