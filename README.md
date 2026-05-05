@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JCPenney](http://jcp.com)** | **[Associate Designer Graphic](https://jobright.ai/jobs/info/69fa544681706a5bd2175490?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 05 |
+| **[Sunbelt Modular Inc.](https://sunbeltmodular.com)** | **[Drafting Designer](https://jobright.ai/jobs/info/69fa542ddb88714bcdfc2892?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | May 05 |
+| **[Empo](https://www.empo.app/)** | **[Content & Social Coordinator](https://jobright.ai/jobs/info/69fa4add81706a5bd217517d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 05 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Art Director](https://jobright.ai/jobs/info/69fa374fa3d34b4f76f6486a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | May 05 |
 | **[Tempur Sealy International](https://www.tempursealy.com)** | **[UX/UI Designer](https://jobright.ai/jobs/info/69fa2c0d0b36ff0354760f35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY, US | On Site | May 05 |
 | **[D.Law](https://d.law)** | **[Graphic Designer](https://jobright.ai/jobs/info/69fa2ad181706a5bd21742db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pasadena,CA,US | On Site | May 05 |
+| **[Aristocrat](http://www.aristocrat.com)** | **[Game Designer (Mathematician)](https://jobright.ai/jobs/info/69f1f32ef154d768fbaa4990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | May 05 |
 | **[Nautica](http://www.nautica.com/)** | **[Associate Designer Graphic](https://jobright.ai/jobs/info/69fa27fc582f810f9c8d466f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-New York | On Site | May 05 |
 | ↳ | **[Associate Designer Graphic](https://jobright.ai/jobs/info/69fa27c081706a5bd2174194?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | May 05 |
 | **[SERHANT.](https://www.serhant.com)** | **[Multimedia Producer](https://jobright.ai/jobs/info/69fa1b3db1fc847fc1aee2c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Hybrid | May 05 |
@@ -95,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Print Center Coordinator](https://jobright.ai/jobs/info/69d906229f97a42dc9c1f040?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | May 02 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/69d95af0869c7e25d859a4d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ridgeland, MS | On Site | May 02 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69f5d72fdb88714bcdfb4bf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | May 02 |
-| **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Staff (Large Format Color)](https://jobright.ai/jobs/info/69f7d770db88714bcdfb994a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California | On Site | May 01 |
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Part-Time Design Associate](https://jobright.ai/jobs/info/69f748a8b1fc847fc1ae5a3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, US | On Site | May 01 |
 | **[MSC Industrial Supply Co.](http://www.mscdirect.com)** | **[Digital Asset Specialist](https://jobright.ai/jobs/info/69f57cfa81706a5bd216691a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davidson, NC | On Site | May 01 |
 | **[eko](https://eko.com)** | **[Creative Associate](https://jobright.ai/jobs/info/69f574dea3d34b4f76f55581?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville, AR | On Site | May 01 |
@@ -145,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Fungi Perfecti LLC](https://fungi.com/)** | **[Graphic Designer I](https://jobright.ai/jobs/info/69f500a3a3d34b4f76f52f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Olympia, WA | On Site | May 01 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69bdcc6d393a1008f7436f3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6505a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Collierville, TN | On Site | May 01 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c3f0b36ff035475266b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Ellyn, IL | On Site | May 01 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Photo Publicity Coordinator](https://jobright.ai/jobs/info/69f4b16543a25828a8d1439a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | May 01 |
@@ -224,8 +227,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b67434c4af7a79ab48c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b6688d8d624381aa23c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Apr 29 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
-| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
-| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
+| **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24eab4ec4779fffa70a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA – Remote – Texas – Central Time, US | Remote | Apr 29 |
+| ↳ | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2b24e34c4af7a79ab4849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - Georgia, US | Remote | Apr 29 |
 | **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f2a7e9ab4ec4779fffa361?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
 | **[Hybrid Apparel](http://hybridapparel.com/)** | **[Temp. Assistant Designer](https://jobright.ai/jobs/info/69f29a1a825a315d7ca3d8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cypress, CA, US | On Site | Apr 29 |
@@ -265,10 +268,8 @@ For a complete list, click the following sortable link below:
 | **[Coty](https://www.coty.com/)** | **[Graphic Designer & E-Merchandising Assistant Manager](https://jobright.ai/jobs/info/69f12cbf825a315d7ca361ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Apr 29 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Jr Designer](https://jobright.ai/jobs/info/69d58330cfdc6132f9462e79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[Madewell](https://www.madewell.com)** | **[Assistant Pattern Maker – Denim Bottoms](https://jobright.ai/jobs/info/69f1d3b2825a315d7ca39f15?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
-| **[Aristocrat](http://www.aristocrat.com)** | **[Game Designer (Mathematician)](https://jobright.ai/jobs/info/69f1f32ef154d768fbaa4990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f1f2f9f154d768fbaa48f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Apr 29 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Prepress Color Specialist - 2nd Shift](https://jobright.ai/jobs/info/69f38d78343eef4fb0a9bce0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI, US | On Site | Apr 28 |
 | **[Valerio Dewalt Train](https://www.buildordie.com/)** | **[Architectural Staff (Recent College Graduate)](https://jobright.ai/jobs/info/69f456b91f90bd6ae23d4556?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 28 |
 | **[Great Oaks Landscape](https://www.greatoakslandscape.com/)** | **[Landscape Designer/Architect](https://jobright.ai/jobs/info/69f5a078a3d34b4f76f55c43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Apr 28 |
-| **[Common Arts](https://commonarts.com/)** | **[Designer, Multi-Family & Mixed-Use](https://jobright.ai/jobs/info/69f182158feca91f14920a35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
