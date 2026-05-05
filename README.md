@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Temporary Print Production Assistant](https://jobright.ai/jobs/info/69fa0d5d0b36ff0354760537?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor Township, NJ, US | On Site | May 05 |
 | **[BIRKENSTOCK](https://www.birkenstock-group.com)** | **[Junior Digital Designer](https://jobright.ai/jobs/info/69f95ba7a3d34b4f76f610b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 04 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2ca7c825a315d7ca3fa0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Beach, CA | On Site | May 04 |
 | **[Amazon](https://amazon.com)** | **[UX Designer](https://jobright.ai/jobs/info/69f920c9a3d34b4f76f6063f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, Washington, USA | On Site | May 04 |
@@ -261,7 +262,6 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Jr Designer](https://jobright.ai/jobs/info/69d58330cfdc6132f9462e79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[Madewell](https://www.madewell.com)** | **[Assistant Pattern Maker – Denim Bottoms](https://jobright.ai/jobs/info/69f1d3b2825a315d7ca39f15?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
 | **[Aristocrat](http://www.aristocrat.com)** | **[Game Designer (Mathematician)](https://jobright.ai/jobs/info/69f1f32ef154d768fbaa4990?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Apr 29 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Associate, Performance Creative – Casino & Sportsbook](https://jobright.ai/jobs/info/69d58627e63cea7a8b661f4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f1f2f9f154d768fbaa48f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Apr 29 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Prepress Color Specialist - 2nd Shift](https://jobright.ai/jobs/info/69f38d78343eef4fb0a9bce0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI, US | On Site | Apr 28 |
 | **[Valerio Dewalt Train](https://www.buildordie.com/)** | **[Architectural Staff (Recent College Graduate)](https://jobright.ai/jobs/info/69f456b91f90bd6ae23d4556?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 28 |
@@ -273,7 +273,4 @@ For a complete list, click the following sortable link below:
 | **[Ashley Stewart, Inc.](http://www.ashleystewart.com/)** | **[Assistant Technical Designer - Merchandising](https://jobright.ai/jobs/info/69f18f89825a315d7ca38df0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Secaucus, NJ | On Site | Apr 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69f153bcb27fee43e8cd88e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Archinect](https://archinect.com)** | **[Designer, Placemaking](https://jobright.ai/jobs/info/69f1ee848d8d624381a9e8db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | On Site | Apr 28 |
-| **[Belmark inc](https://www.belmark.com/)** | **[Prepress Color Specialist - 1st Shift](https://jobright.ai/jobs/info/69f38cfb1f90bd6ae23d0a0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI, US | On Site | Apr 28 |
-| ↳ | **[Prepress Color Specialist - 2nd Shift](https://jobright.ai/jobs/info/69f1472262b48c6838794df7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI | On Site | Apr 28 |
-| ↳ | **[Prepress Color Specialist - 1st Shift](https://jobright.ai/jobs/info/69f1471762b48c6838794dd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | De Pere, WI | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
