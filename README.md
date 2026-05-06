@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chemical Guys](https://www.chemicalguys.com/)** | **[Packaging Development Specialist](https://jobright.ai/jobs/info/69fa7657a3d34b4f76f65ceb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance, CA | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fa7030db88714bcdfc30c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ft. Collins-4330 S College Ave, US | On Site | May 05 |
 | **[RVi Planning + Landscape Architecture](http://rviplanning.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/69fa701f0b36ff03547627c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, Texas, United States | On Site | May 05 |
 | ↳ | **[Landscape Designer](https://jobright.ai/jobs/info/69fa6ff281706a5bd2175c09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | May 05 |
