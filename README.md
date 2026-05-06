@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[UX Designer](https://jobright.ai/jobs/info/69fb462118b94b2515be0e44?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mason, OH | Hybrid | May 05 |
-| **[Jostens](http://jostens.com)** | **[Graphic Design Artist](https://jobright.ai/jobs/info/69fb46b286d5cd46527d44fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 05 |
+| **[Michaels Stores](https://teachitpro.com)** | **[PT Custom Framing Team Member](https://jobright.ai/jobs/info/69fb4f7b18b94b2515be13cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Springfield, Massachusetts, United States of America | On Site | May 06 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Associate, Graphic Production Art (Apparel)](https://jobright.ai/jobs/info/69fb4ae587a4820e6da8715d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | May 05 |
 | **[SetSales](http://setsales.com/europe)** | **[UX designer at SetSales](https://jobright.ai/jobs/info/69faab2d18b94b2515bdbe0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, United Kingdom | On Site | May 05 |
 | ↳ | **[Graphic Designer at SetSales](https://jobright.ai/jobs/info/69faaaa27800004087b4382c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, United Kingdom | On Site | May 05 |
 | ↳ | **[Multimedia designer at SetSales](https://jobright.ai/jobs/info/69faaa987800004087b4380c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, United Kingdom | On Site | May 05 |
@@ -118,6 +118,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Show Lighting Designer - Project Hire/ Internal Assignment](https://jobright.ai/jobs/info/69fb17b4e1560008411561a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | May 05 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Show Lighting Designer - Project Hire/ Internal Assignment](https://jobright.ai/jobs/info/69fb1c46e1560008411565d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | May 05 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Designer I](https://jobright.ai/jobs/info/69dd7c8dbc6f6622c991268e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | May 05 |
+| **[Hennebery Eddy Architects](http://henneberyeddy.com)** | **[Design Staff](https://jobright.ai/jobs/info/69fb4b5a86d5cd46527d492e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bozeman, MT | On Site | May 04 |
+| ↳ | **[Design Staff](https://jobright.ai/jobs/info/69fb4b5f86d5cd46527d4932?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | May 04 |
 | **[BIRKENSTOCK](https://www.birkenstock-group.com)** | **[Junior Digital Designer](https://jobright.ai/jobs/info/69f95ba7a3d34b4f76f610b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 04 |
 | **[Sierra Nevada Brewing Co.](http://www.sierranevada.com)** | **[ASSOCIATE GRAPHIC DESIGNER or GRAPHIC DESIGNER](https://jobright.ai/jobs/info/69faf4e3d21cf86d1e3ce46f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mills River, NC | On Site | May 04 |
 | **[Archinect](https://archinect.com)** | **[Studio Zerbey Architecture + Interiors](https://jobright.ai/jobs/info/69fb2bb5e1560008411575c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | May 04 |
@@ -301,9 +303,4 @@ For a complete list, click the following sortable link below:
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/69f2a1feecbc8c2f7320ba86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach, US | Hybrid | Apr 29 |
 | **[Hybrid Apparel](http://hybridapparel.com/)** | **[Temp. Assistant Designer](https://jobright.ai/jobs/info/69f29a1a825a315d7ca3d8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cypress, CA, US | On Site | Apr 29 |
 | **[Lucky Brand](http://luckybrand.com)** | **[Associate Designer](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
-| **[PIP Marketing, Signs & Print - Kissimmee, FL](http://www.pipmarketing.com)** | **[Prepress Graphic Designer](https://jobright.ai/jobs/info/69f28bdef154d768fbaa7bfc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL, US | On Site | Apr 29 |
-| **[Lume Deodorant](https://lumedeodorant.com/)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f289db8feca91f14925756?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
-| **[Baresque](https://baresque.com.au/)** | **[CAD Designer](https://jobright.ai/jobs/info/69f2a4d0ab4ec4779fffa292?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Hybrid | Apr 29 |
-| **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69f28521ab4ec4779fff98fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
-| **[ASI | Signage Innovations - North Carolina](https://www.asisignage.com)** | **[Sign Graphics & Print Production Supervisor](https://jobright.ai/jobs/info/69f2818eab4ec4779fff9738?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holly Springs, NC | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
