@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Retail-Framing Team Member](https://jobright.ai/jobs/info/69fcb430432a3c4da8dfe6ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States of America | On Site | May 07 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Assistant Textile Print Designer (Laura Ashley + Cath Kidston)](https://jobright.ai/jobs/info/69fcaf2c6b788e7e7a5c1db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | May 07 |
 | **[Gravity Architecture and Design](https://www.gravityarchitectureanddesign.com)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69fca3b9432a3c4da8dfe2f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | May 07 |
 | **[GAME Apparel](https://www.gamesportswear.com)** | **[Apparel & Embellishment Mock-up Technician](https://jobright.ai/jobs/info/69fc9fdc666f063d3d6cf97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | May 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff319433ac8430e0e349e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | May 07 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United Kingdom | Remote | May 07 |
-| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, England, United Kingdom | Remote | May 07 |
 | ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30207?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manchester, England, United Kingdom | Remote | May 07 |
-| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30209?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, England, United Kingdom | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Political Graphic Design Fellowship](https://jobright.ai/jobs/info/69fc6d41b113035a9f8e8aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 06 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/69fc545d48d4483e4b638d84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | May 06 |
 | ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/69fc54be48ae180867212fdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | May 06 |
@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PT Custom Framing Team Member](https://jobright.ai/jobs/info/69fc50f7ab1b7e27b9fa33fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Springfield, MA, US | On Site | May 06 |
 | ↳ | **[Graphic Designer (Print)](https://jobright.ai/jobs/info/69fc486a48ae180867212aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 06 |
 | ↳ | **[Graphic Artist - Communications (part-time, non-CSULB student)](https://jobright.ai/jobs/info/69fc41ef3431b1292b9b5e15?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA, US | On Site | May 06 |
-| **[Auxilium Health, Inc](https://www.auxiliumhealth.xyz)** | **[Graphic Designer](https://jobright.ai/jobs/info/69fc349c4ab6391714fd440b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oshawa, ON, Canada | On Site | May 06 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69fc0ebbc39b9a66c0c562f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | May 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69fc13d376c60e7b70af1fd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, VA | On Site | May 06 |
 | **[IKO North America](https://www.iko.com)** | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbdec39b9a66c0c55c3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brampton, Ontario, Canada | On Site | May 06 |
@@ -312,6 +311,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f406edc78b9e45189591a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Apr 30 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f406c8461b9b613a6256fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Apr 30 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Junior Visual Merchandiser (La Jolla)](https://jobright.ai/jobs/info/69f405aa1f90bd6ae23d34e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | La Jolla, CA | On Site | Apr 30 |
-| **[PragerU](https://www.prageru.com)** | **[Multimedia Designer](https://jobright.ai/jobs/info/69f3f69ac78b9e4518958d7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 30 |
-| **[State of Florida](http://www.myflorida.com)** | **[GRAPHICS DESIGNER II - 42001384](https://jobright.ai/jobs/info/69f52a59a3d34b4f76f540e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gainesville, FL | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
