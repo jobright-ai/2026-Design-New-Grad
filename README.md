@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mindrift](https://mindrift.ai)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, England, United Kingdom | Remote | May 07 |
-| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United Kingdom | Remote | May 07 |
-| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30209?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, England, United Kingdom | Remote | May 07 |
+| **[Mindrift](https://mindrift.ai)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, England, United Kingdom | Remote | May 07 |
 | ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30207?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manchester, England, United Kingdom | Remote | May 07 |
+| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30209?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, England, United Kingdom | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Political Graphic Design Fellowship](https://jobright.ai/jobs/info/69fc6d41b113035a9f8e8aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 06 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/69fc545d48d4483e4b638d84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | May 06 |
 | ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/69fc54be48ae180867212fdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | May 06 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Tubi](http://tubitv.com/)** | **[Social Creative Asset Coordinator](https://jobright.ai/jobs/info/69fa8bb081706a5bd21763ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA (Hybrid) | Hybrid | May 05 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Color Assistant, Wholesale Women's Apparel](https://jobright.ai/jobs/info/69fa8a35a3d34b4f76f6618b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fb348bd21cf86d1e3d0f4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Collins, CO | On Site | May 05 |
-| **[Accenture](https://www.accenture.com)** | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | On Site | May 05 |
-| ↳ | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | On Site | May 05 |
+| **[Accenture](https://www.accenture.com)** | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | On Site | May 05 |
+| ↳ | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | On Site | May 05 |
 | **[Bowen Hale](bowenhale.com)** | **[Design Associate](https://jobright.ai/jobs/info/69fc23a0a5949019c55b3390?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimberley, TX | On Site | May 05 |
 | ↳ | **[Studio Designer](https://jobright.ai/jobs/info/69fc31403160b250eb1bc7fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimberley, TX | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fa7030db88714bcdfc30c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ft. Collins-4330 S College Ave, US | On Site | May 05 |
@@ -319,8 +319,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3d978c78b9e4518958457?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Apr 30 |
 | **[Abbott](https://www.abbott.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/69f42579343eef4fb0a9ff6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States > Minnesota > Plymouth : 5050 Nathan Lane N, US | On Site | Apr 30 |
 | **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3f8a31f90bd6ae23d30bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
-| **[Loudr Agency](https://www.loudr.agency)** | **[Content Creator](https://jobright.ai/jobs/info/69f4240858b23a2329da9a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States | Hybrid | Apr 30 |
-| **[Project On Government Oversight](http://pogo.org)** | **[Associate Designer (Digital)](https://jobright.ai/jobs/info/69f3bcb7c78b9e4518957790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Apr 30 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mclean, Virginia, United States | On Site | Apr 30 |
-| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69f3bc3758b23a2329da7d0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
