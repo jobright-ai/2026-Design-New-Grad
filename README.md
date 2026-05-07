@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gravity Architecture and Design](https://www.gravityarchitectureanddesign.com)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69fca3b9432a3c4da8dfe2f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | May 07 |
+| **[GAME Apparel](https://www.gamesportswear.com)** | **[Apparel & Embellishment Mock-up Technician](https://jobright.ai/jobs/info/69fc9fdc666f063d3d6cf97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | May 07 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United Kingdom | Remote | May 07 |
 | ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London, England, United Kingdom | Remote | May 07 |
-| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30209?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, England, United Kingdom | Remote | May 07 |
 | ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30207?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manchester, England, United Kingdom | Remote | May 07 |
+| ↳ | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc453f633e68586cd30209?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, England, United Kingdom | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Political Graphic Design Fellowship](https://jobright.ai/jobs/info/69fc6d41b113035a9f8e8aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 06 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/69fc545d48d4483e4b638d84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | May 06 |
 | ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/69fc54be48ae180867212fdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | May 06 |
@@ -315,7 +317,4 @@ For a complete list, click the following sortable link below:
 | **[TOPS Products LLC](https://www.tops-products.com/)** | **[Junior Industrial Designer](https://jobright.ai/jobs/info/69f3e8cb343eef4fb0a9f065?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Hills, CA, USA | Hybrid | Apr 30 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Designer I](https://jobright.ai/jobs/info/69f40518343eef4fb0a9f793?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Apr 30 |
 | ↳ | **[Designer I](https://jobright.ai/jobs/info/69f40521343eef4fb0a9f7a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 30 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Lighting Designer I](https://jobright.ai/jobs/info/69f3df7b343eef4fb0a9eab4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 30 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f3d978c78b9e4518958457?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Apr 30 |
-| **[Abbott](https://www.abbott.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/69f42579343eef4fb0a9ff6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States > Minnesota > Plymouth : 5050 Nathan Lane N, US | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
