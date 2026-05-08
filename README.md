@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Graphic Designer 1](https://jobright.ai/jobs/info/69fd839ff363bc4dc3398a99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beaverton, OR | Hybrid | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69fd6a087714cd50b90fafa9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 595 PIEDMONT AVE NE,STE 100,ATLANTA,GA,30308-02480-06032-S | On Site | May 07 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69fd6a087714cd50b90fafa8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 595 PIEDMONT AVE NE,STE 100,ATLANTA,GA,30308 | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Associate Product Designer](https://jobright.ai/jobs/info/69fd11ca5cff890b03f35f3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 07 |
@@ -82,13 +83,14 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail-Framing Team Member](https://jobright.ai/jobs/info/69fcb430432a3c4da8dfe6ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States of America | On Site | May 07 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Assistant Textile Print Designer (Laura Ashley + Cath Kidston)](https://jobright.ai/jobs/info/69fcaf2c6b788e7e7a5c1db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | May 07 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Digital Experience Manager- MNS60035036](https://jobright.ai/jobs/info/69fcca26432a3c4da8dff105?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wake County, NC, US | On Site | May 07 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9a0938a651755f969af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750, US | Hybrid | May 07 |
-| ↳ | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9915cff890b03f337bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700, US | Hybrid | May 07 |
+| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9915cff890b03f337bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700, US | Hybrid | May 07 |
+| ↳ | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9a0938a651755f969af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750, US | Hybrid | May 07 |
 | **[Relentless Brands](https://www.linkedin.com/company/95707131)** | **[Video Content Specialist](https://jobright.ai/jobs/info/69fce77e938a651755f975fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | On Site | May 07 |
 | **[Gravity Architecture and Design](https://www.gravityarchitectureanddesign.com)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69fca3b9432a3c4da8dfe2f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | May 07 |
 | **[GAME Apparel](https://www.gamesportswear.com)** | **[Apparel & Embellishment Mock-up Technician](https://jobright.ai/jobs/info/69fc9fdc666f063d3d6cf97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | May 07 |
 | **[Marvin](http://www.marvin.com/)** | **[Technical Illustrator](https://jobright.ai/jobs/info/69dfe76b4920452a85dd03a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota, United States | On Site | May 07 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Jr. Designer](https://jobright.ai/jobs/info/69c3522194007a2195dfa280?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | May 07 |
+| **[Quiet Mark](https://www.quietmark.com/)** | **[Digital Asset Co-ordinator](https://jobright.ai/jobs/info/69fd82794b9bbf21744ab627?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United Kingdom | Hybrid | May 07 |
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer – Sleepwear Apparel](https://jobright.ai/jobs/info/69e2e18c3770bd5361cda80f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff319433ac8430e0e349e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | May 07 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/69fc45a13431b1292b9b5f8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United Kingdom | Remote | May 07 |
@@ -315,5 +317,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buda, TX | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c6b43a25828a8d190f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cotati, CA | On Site | May 01 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69f58c3f0b36ff035475266b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Ellyn, IL | On Site | May 01 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69f4e22ba3d34b4f76f523d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
