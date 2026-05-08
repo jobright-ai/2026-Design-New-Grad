@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Graphic Designer 1](https://jobright.ai/jobs/info/69fd2f686b788e7e7a5c5691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beaverton, OR | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Associate Product Designer](https://jobright.ai/jobs/info/69fd11ca5cff890b03f35f3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 07 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Production Designer](https://jobright.ai/jobs/info/69fd02a2938a651755f98643?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-IL-Chicago | On Site | May 07 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, Washington DC - West Elm](https://jobright.ai/jobs/info/69fd0299938a651755f9861c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1728 14th St. NW, Washington, DC, 20009, US | On Site | May 07 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Relentless Brands](https://www.linkedin.com/company/95707131)** | **[Video Content Specialist](https://jobright.ai/jobs/info/69fce77e938a651755f975fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | On Site | May 07 |
 | **[Gravity Architecture and Design](https://www.gravityarchitectureanddesign.com)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69fca3b9432a3c4da8dfe2f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | May 07 |
 | **[GAME Apparel](https://www.gamesportswear.com)** | **[Apparel & Embellishment Mock-up Technician](https://jobright.ai/jobs/info/69fc9fdc666f063d3d6cf97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | May 07 |
+| **[Marvin](http://www.marvin.com/)** | **[Technical Illustrator](https://jobright.ai/jobs/info/69dfe76b4920452a85dd03a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota, United States | On Site | May 07 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Jr. Designer](https://jobright.ai/jobs/info/69c3522194007a2195dfa280?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | May 07 |
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer – Sleepwear Apparel](https://jobright.ai/jobs/info/69e2e18c3770bd5361cda80f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff319433ac8430e0e349e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | May 07 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69fc13d376c60e7b70af1fd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, VA | On Site | May 06 |
 | **[IKO North America](https://www.iko.com)** | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbdec39b9a66c0c55c3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brampton, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfb7576c60e7b70af14a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarborough, Ontario, Canada | On Site | May 06 |
-| ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbde3802c7621fd8ec87?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbcf3160b250eb1baf20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 06 |
+| ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbde3802c7621fd8ec87?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 06 |
 | **[Orthodox Union](https://www.ou.org)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69fbf6c3a5949019c55b2203?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 06 |
 | **[creative werks](http://cwerksglobal.com)** | **[Industrial Packaging Designer](https://jobright.ai/jobs/info/69fbf07ba5949019c55b1dad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk Grove Village, IL | Hybrid | May 06 |
 | **[Flad Architects](http://www.flad.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/69fbef523160b250eb1ba6ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | May 06 |
@@ -324,5 +326,4 @@ For a complete list, click the following sortable link below:
 | **[Autotrader](http://www.autotrader.co.uk)** | **[Graduate Experience Designer](https://jobright.ai/jobs/info/69f49cad12f2811ab5a5fe53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manchester | Hybrid | May 01 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/69d8b24d9f97a42dc9c1dcf0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 01 |
 | **[Vancouver Airport Authority](http://www.yvr.ca)** | **[Sign Maker & Installer](https://jobright.ai/jobs/info/69f4c64f81706a5bd2162d4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | May 01 |
-| **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/69e9a37d0a6e09555303d104?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
