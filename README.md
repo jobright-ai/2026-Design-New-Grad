@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Terrain Design Services Event Artisan](https://jobright.ai/jobs/info/69fe2b4bf363bc4dc339c019?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wayland, MA, US | On Site | May 08 |
+| ↳ | **[Terrain Key Holder - Decor](https://jobright.ai/jobs/info/69fe2b03ad691a11f34ec05a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wayland, MA, US | On Site | May 08 |
 | **[Humana](http://www.humana.com)** | **[Service Designer](https://jobright.ai/jobs/info/69fe17597714cd50b90fe24f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, Nationwide | Remote | May 08 |
 | **[Dope Slimes](https://dopeslimes.com)** | **[3D & Graphic Designer](https://jobright.ai/jobs/info/69fe14c2f363bc4dc339b866?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 08 |
 | **[Arbor Memorial Inc.](https://arbormemorial.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69fe12b86bcf315dc8f54886?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, ON, CA | On Site | May 08 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail-Framing Team Member](https://jobright.ai/jobs/info/69fcb430432a3c4da8dfe6ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States of America | On Site | May 07 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Assistant Textile Print Designer (Laura Ashley + Cath Kidston)](https://jobright.ai/jobs/info/69fcaf2c6b788e7e7a5c1db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | May 07 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Digital Experience Manager- MNS60035036](https://jobright.ai/jobs/info/69fcca26432a3c4da8dff105?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wake County, NC, US | On Site | May 07 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9a0938a651755f969af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750, US | Hybrid | May 07 |
-| ↳ | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9915cff890b03f337bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700, US | Hybrid | May 07 |
+| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9915cff890b03f337bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700, US | Hybrid | May 07 |
+| ↳ | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9a0938a651755f969af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750, US | Hybrid | May 07 |
 | **[Relentless Brands](https://www.linkedin.com/company/95707131)** | **[Video Content Specialist](https://jobright.ai/jobs/info/69fce77e938a651755f975fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | On Site | May 07 |
 | **[Gravity Architecture and Design](https://www.gravityarchitectureanddesign.com)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69fca3b9432a3c4da8dfe2f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | May 07 |
 | **[GAME Apparel](https://www.gamesportswear.com)** | **[Apparel & Embellishment Mock-up Technician](https://jobright.ai/jobs/info/69fc9fdc666f063d3d6cf97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | May 07 |
@@ -282,5 +284,4 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69f5d72fdb88714bcdfb4bf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | May 02 |
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Part-Time Design Associate](https://jobright.ai/jobs/info/69f748a8b1fc847fc1ae5a3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, US | On Site | May 01 |
 | **[MSC Industrial Supply Co.](http://www.mscdirect.com)** | **[Digital Asset Specialist](https://jobright.ai/jobs/info/69f57cfa81706a5bd216691a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davidson, NC | On Site | May 01 |
-| **[Brooks Running](http://www.brooksrunning.com)** | **[Associate Content Producer](https://jobright.ai/jobs/info/69f57cba0b36ff035475254c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
