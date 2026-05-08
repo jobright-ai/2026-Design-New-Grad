@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Humana](http://www.humana.com)** | **[Service Designer](https://jobright.ai/jobs/info/69fe17597714cd50b90fe24f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, Nationwide | Remote | May 08 |
+| **[Dope Slimes](https://dopeslimes.com)** | **[3D & Graphic Designer](https://jobright.ai/jobs/info/69fe14c2f363bc4dc339b866?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 08 |
+| **[Arbor Memorial Inc.](https://arbormemorial.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69fe12b86bcf315dc8f54886?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, ON, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[PT Framing Team Member SATURDAY/SUNDAY](https://jobright.ai/jobs/info/69fe0f177714cd50b90fde8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tinley Park, IL, US | On Site | May 08 |
 | **[Ddrops](https://vitaminddrops.com)** | **[Junior Graphics Designer](https://jobright.ai/jobs/info/69fe0c087714cd50b90fdc41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Woodbridge, Ontario, Canada | Hybrid | May 08 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PT Framing Team Member SATURDAY/SUNDAY](https://jobright.ai/jobs/info/69fe065052e2b44f558ade18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tinley Park, Illinois, United States of America | On Site | May 08 |
@@ -175,8 +178,8 @@ For a complete list, click the following sortable link below:
 | **[Tubi](http://tubitv.com/)** | **[Social Creative Asset Coordinator](https://jobright.ai/jobs/info/69fa8bb081706a5bd21763ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA (Hybrid) | Hybrid | May 05 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Color Assistant, Wholesale Women's Apparel](https://jobright.ai/jobs/info/69fa8a35a3d34b4f76f6618b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fb348bd21cf86d1e3d0f4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Collins, CO | On Site | May 05 |
-| **[Accenture](https://www.accenture.com)** | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | On Site | May 05 |
-| ↳ | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | On Site | May 05 |
+| **[Accenture](https://www.accenture.com)** | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | On Site | May 05 |
+| ↳ | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | On Site | May 05 |
 | **[Bowen Hale](bowenhale.com)** | **[Design Associate](https://jobright.ai/jobs/info/69fc23a0a5949019c55b3390?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimberley, TX | On Site | May 05 |
 | ↳ | **[Studio Designer](https://jobright.ai/jobs/info/69fc31403160b250eb1bc7fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimberley, TX | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fa7030db88714bcdfc30c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ft. Collins-4330 S College Ave, US | On Site | May 05 |
@@ -280,9 +283,4 @@ For a complete list, click the following sortable link below:
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Part-Time Design Associate](https://jobright.ai/jobs/info/69f748a8b1fc847fc1ae5a3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL, US | On Site | May 01 |
 | **[MSC Industrial Supply Co.](http://www.mscdirect.com)** | **[Digital Asset Specialist](https://jobright.ai/jobs/info/69f57cfa81706a5bd216691a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davidson, NC | On Site | May 01 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Associate Content Producer](https://jobright.ai/jobs/info/69f57cba0b36ff035475254c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | May 01 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f55a9381706a5bd216604b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | May 01 |
-| **[ICF Next](https://www.icf.com/next)** | **[Junior Graphic Designer (Future Opportunity)](https://jobright.ai/jobs/info/69f556eba3d34b4f76f54d49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Reston, VA | Hybrid | May 01 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/69f556e0a3d34b4f76f54d42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, HI | On Site | May 01 |
-| **[Brooks Running](http://www.brooksrunning.com)** | **[Associate Content Producer](https://jobright.ai/jobs/info/69f5531d0b36ff0354751a5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US, Washington, Seattle | Hybrid | May 01 |
-| **[Burson](https://www.bursonglobal.com)** | **[Junior Designer, Health & Wellness](https://jobright.ai/jobs/info/69f55280a3d34b4f76f54bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
