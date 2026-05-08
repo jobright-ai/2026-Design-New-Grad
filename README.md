@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Design and Development - Graphic Designer 1](https://jobright.ai/jobs/info/69fd9fb7f363bc4dc3398f69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beaverton, OR | Hybrid | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69fd6a087714cd50b90fafa8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 595 PIEDMONT AVE NE,STE 100,ATLANTA,GA,30308 | On Site | May 07 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69fd6a087714cd50b90fafa9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 595 PIEDMONT AVE NE,STE 100,ATLANTA,GA,30308-02480-06032-S | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Associate Product Designer](https://jobright.ai/jobs/info/69fd11ca5cff890b03f35f3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 07 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69fc13d376c60e7b70af1fd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, VA | On Site | May 06 |
 | **[IKO North America](https://www.iko.com)** | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbdec39b9a66c0c55c3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brampton, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfb7576c60e7b70af14a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarborough, Ontario, Canada | On Site | May 06 |
-| ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbcf3160b250eb1baf20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbde3802c7621fd8ec87?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 06 |
+| ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbcf3160b250eb1baf20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Orthodox Union](https://www.ou.org)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69fbf6c3a5949019c55b2203?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 06 |
 | **[creative werks](http://cwerksglobal.com)** | **[Industrial Packaging Designer](https://jobright.ai/jobs/info/69fbf07ba5949019c55b1dad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk Grove Village, IL | Hybrid | May 06 |
 | **[Flad Architects](http://www.flad.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/69fbef523160b250eb1ba6ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | May 06 |
@@ -165,8 +166,8 @@ For a complete list, click the following sortable link below:
 | **[Tubi](http://tubitv.com/)** | **[Social Creative Asset Coordinator](https://jobright.ai/jobs/info/69fa8bb081706a5bd21763ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA (Hybrid) | Hybrid | May 05 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Color Assistant, Wholesale Women's Apparel](https://jobright.ai/jobs/info/69fa8a35a3d34b4f76f6618b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fb348bd21cf86d1e3d0f4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Collins, CO | On Site | May 05 |
-| **[Accenture](https://www.accenture.com)** | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | On Site | May 05 |
-| ↳ | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | On Site | May 05 |
+| **[Accenture](https://www.accenture.com)** | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | On Site | May 05 |
+| ↳ | **[Customer Service Experience Designer (UI/UX) Sr. Analyst](https://jobright.ai/jobs/info/69fa83e6582f810f9c8d63b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | On Site | May 05 |
 | **[Bowen Hale](bowenhale.com)** | **[Design Associate](https://jobright.ai/jobs/info/69fc23a0a5949019c55b3390?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimberley, TX | On Site | May 05 |
 | ↳ | **[Studio Designer](https://jobright.ai/jobs/info/69fc31403160b250eb1bc7fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimberley, TX | On Site | May 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full Time Retail Picture Framer-50](https://jobright.ai/jobs/info/69fa7030db88714bcdfc30c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ft. Collins-4330 S College Ave, US | On Site | May 05 |
