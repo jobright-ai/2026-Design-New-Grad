@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGN](http://IGN.vn)** | **[Social Branded Producer (Temporary)](https://jobright.ai/jobs/info/69fe9d2cf363bc4dc339f7f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California | Hybrid | May 08 |
 | **[Fulgent Genetics](https://www.fulgentdiagnostics.com)** | **[Web Designer - UI/UX](https://jobright.ai/jobs/info/69fe83fa4b9bbf21744b2059?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | FLGT 4399 BLDG 1 - El Monte, CA 91731 | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Retail Personal Designer - PT (Custom Framing)](https://jobright.ai/jobs/info/69fe82b47714cd50b910178b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | MN, US | On Site | May 08 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Digital UI Designer - Commerce Web](https://jobright.ai/jobs/info/69fe822e7714cd50b91016e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Option to Work Remote in United States, US | Remote | May 08 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail-Framing Team Member](https://jobright.ai/jobs/info/69fcb430432a3c4da8dfe6ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, Florida, United States of America | On Site | May 07 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Assistant Textile Print Designer (Laura Ashley + Cath Kidston)](https://jobright.ai/jobs/info/69fcaf2c6b788e7e7a5c1db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | May 07 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Digital Experience Manager- MNS60035036](https://jobright.ai/jobs/info/69fcca26432a3c4da8dff105?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wake County, NC, US | On Site | May 07 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9a0938a651755f969af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750, US | Hybrid | May 07 |
-| ↳ | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9915cff890b03f337bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700, US | Hybrid | May 07 |
+| **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9915cff890b03f337bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach CA-700, US | Hybrid | May 07 |
+| ↳ | **[Case Design Specialist II](https://jobright.ai/jobs/info/69fcc9a0938a651755f969af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha NE-6750, US | Hybrid | May 07 |
 | **[Relentless Brands](https://www.linkedin.com/company/95707131)** | **[Video Content Specialist](https://jobright.ai/jobs/info/69fce77e938a651755f975fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | On Site | May 07 |
 | **[Gravity Architecture and Design](https://www.gravityarchitectureanddesign.com)** | **[Interior Design Professional](https://jobright.ai/jobs/info/69fca3b9432a3c4da8dfe2f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | May 07 |
 | **[GAME Apparel](https://www.gamesportswear.com)** | **[Apparel & Embellishment Mock-up Technician](https://jobright.ai/jobs/info/69fc9fdc666f063d3d6cf97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | May 07 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69fc13d376c60e7b70af1fd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, VA | On Site | May 06 |
 | **[IKO North America](https://www.iko.com)** | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbdec39b9a66c0c55c3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brampton, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfb7576c60e7b70af14a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarborough, Ontario, Canada | On Site | May 06 |
-| ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbcf3160b250eb1baf20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbde3802c7621fd8ec87?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 06 |
+| ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbcf3160b250eb1baf20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Orthodox Union](https://www.ou.org)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69fbf6c3a5949019c55b2203?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 06 |
 | **[creative werks](http://cwerksglobal.com)** | **[Industrial Packaging Designer](https://jobright.ai/jobs/info/69fbf07ba5949019c55b1dad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk Grove Village, IL | Hybrid | May 06 |
 | **[Flad Architects](http://www.flad.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/69fbef523160b250eb1ba6ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | May 06 |
@@ -293,5 +294,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Product Designer (UX/UI)-Specialist](https://jobright.ai/jobs/info/69d9a4fd9f97a42dc9c23386?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | May 02 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Print Center Coordinator](https://jobright.ai/jobs/info/69d906229f97a42dc9c1f040?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | May 02 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/69d95af0869c7e25d859a4d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ridgeland, MS | On Site | May 02 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69f5d72fdb88714bcdfb4bf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
