@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - Structured Woven](https://jobright.ai/jobs/info/69e32f6cbe46fa3a4ef59852?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 09 |
 | **[Cap America](https://www.capamerica.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69febc8d373fc1347f2d0adb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1 Cap America Drive - Fredericktown, MO 63645 | On Site | May 08 |
 | **[CrossLink Professional Tax Solutions](http://www.crosslinktax.com/)** | **[Forms Designer I](https://jobright.ai/jobs/info/69febbd7373fc1347f2d098b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA Office - Lathrop, CA 95330 | Hybrid | May 08 |
 | **[Nautica](http://www.nautica.com/)** | **[Associate Designer Graphic](https://jobright.ai/jobs/info/69fb202486d5cd46527d2b8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 08 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Men's Shirts and Lounge](https://jobright.ai/jobs/info/69368bb51c1c2161c13ed9e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 08 |
 | **[IKEA](http://www.ikea.com/)** | **[Furniture Planner Inverness](https://jobright.ai/jobs/info/69fda5fd4b9bbf21744abf15?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edinburgh | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Retail PT Custom Picture Framer](https://jobright.ai/jobs/info/69fda4c3ad691a11f34ea3fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN, US | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69fd6a087714cd50b90fafa9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 595 PIEDMONT AVE NE,STE 100,ATLANTA,GA,30308-02480-06032-S | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Associate Product Designer](https://jobright.ai/jobs/info/69fd11ca5cff890b03f35f3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 07 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Production Designer](https://jobright.ai/jobs/info/69fd02a2938a651755f98643?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-IL-Chicago | On Site | May 07 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, Washington DC - West Elm](https://jobright.ai/jobs/info/69fd0299938a651755f9861c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1728 14th St. NW, Washington, DC, 20009, US | On Site | May 07 |
@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfb7576c60e7b70af14a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarborough, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbcf3160b250eb1baf20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 06 |
 | ↳ | **[Architectural Representative - GTA](https://jobright.ai/jobs/info/69fbfbde3802c7621fd8ec87?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 06 |
-| **[Orthodox Union](https://www.ou.org)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69fbf6c3a5949019c55b2203?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 06 |
 | **[creative werks](http://cwerksglobal.com)** | **[Industrial Packaging Designer](https://jobright.ai/jobs/info/69fbf07ba5949019c55b1dad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elk Grove Village, IL | Hybrid | May 06 |
 | **[Flad Architects](http://www.flad.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/69fbef523160b250eb1ba6ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | May 06 |
 | **[Target](https://www.target.com)** | **[UX Product Designer - Enterprise - Merchandising Tools](https://jobright.ai/jobs/info/69fbef4576c60e7b70af0c2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | May 06 |
