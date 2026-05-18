@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetFortris, A Sangoma Company](https://www.netfortris.com/)** | **[UX/UI Designer (Desk Phones)](https://jobright.ai/jobs/info/6a0af99a4d9320363686c3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Houston | Remote | May 18 |
 | **[Vertafore](http://www.vertafore.com)** | **[Product Designer I](https://jobright.ai/jobs/info/6a02c3c1ed6a637463f48df5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | May 17 |
 | **[FNBO](https://www.fnbo.com)** | **[Product Designer (hybrid, Omaha NE)](https://jobright.ai/jobs/info/6a0a71e28f3e371eb6188a53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha Metropolitan Area | Hybrid | May 17 |
 | **[Michaels Stores](https://teachitpro.com)** | **[P/T  Frames designer  nights & Week end](https://jobright.ai/jobs/info/6a0a6cf8a203b1052e44d2e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | May 17 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/6a0851273b54ed42d74d6a2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-IL-Peoria | On Site | May 16 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Designer](https://jobright.ai/jobs/info/6a08504c6186f46859887859?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA, US | Remote | May 16 |
 | ↳ | **[Associate Project Designer](https://jobright.ai/jobs/info/6a08504a6186f4685988784e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CA-Monterey | Remote | May 16 |
-| **[RealPage, Inc.](https://www.realpage.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/6a084e578f3e371eb617eef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TN-Remote | Remote | May 16 |
-| ↳ | **[Associate Product Designer](https://jobright.ai/jobs/info/6a084e578f3e371eb617eefe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, TN, US | Remote | May 16 |
+| **[RealPage, Inc.](https://www.realpage.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/6a084e578f3e371eb617eefe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, TN, US | Remote | May 16 |
+| ↳ | **[Associate Product Designer](https://jobright.ai/jobs/info/6a084e578f3e371eb617eef7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TN-Remote | Remote | May 16 |
 | **[Marvin](http://www.marvin.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/6a084e186186f468598870c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Warroad, MN, US | On Site | May 16 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6a084e156186f468598870b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MN-Warroad | On Site | May 16 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Website Planning Specialist](https://jobright.ai/jobs/info/6993d32dce78e77b4fd7a700?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | May 16 |
@@ -167,8 +168,8 @@ For a complete list, click the following sortable link below:
 | **[BetterHelp](https://www.betterhelp.com)** | **[Product Designer 1, Client Growth](https://jobright.ai/jobs/info/69d69d6f48f0c8161d2f8ded?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US - Remote | Remote | May 15 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a06fcf04a0a6a7e7d81e350?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles Office | On Site | May 15 |
 | ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/6a06fcee4a0a6a7e7d81e349?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 15 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Experiential Graphic Designer - Entry Level](https://jobright.ai/jobs/info/6a06fcc61f7fa33581c98277?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago | On Site | May 15 |
-| ↳ | **[Experiential Graphic Designer - Entry Level](https://jobright.ai/jobs/info/6a0669d9320bff2205eac6d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 15 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Experiential Graphic Designer - Entry Level](https://jobright.ai/jobs/info/6a0669d9320bff2205eac6d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 15 |
+| ↳ | **[Experiential Graphic Designer - Entry Level](https://jobright.ai/jobs/info/6a06fcc61f7fa33581c98277?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago | On Site | May 15 |
 | **[Attention Arc](https://attentionarc.com)** | **[Associate Designer](https://jobright.ai/jobs/info/6a06fcb4152f493123c4b0ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvington, NY | Hybrid | May 15 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/6a06fcb0152f493123c4b0d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Hybrid | May 15 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/6a06fcac152f493123c4b0ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 15 |
@@ -184,15 +185,15 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69cdeb33398fb071abf7df21?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | May 15 |
 | **[Cresco Labs](http://www.crescolabs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6a06faa1152f493123c4a426?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cresco Corporate - Chicago, IL | On Site | May 15 |
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69dd70cc738f2f099e8b655b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 15 |
-| **[DEPT®](https://www.deptagency.com)** | **[Creative Analyst](https://jobright.ai/jobs/info/69c5b513aa9a29199e808f10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States (Remote) | Remote | May 15 |
-| ↳ | **[Creative Analyst](https://jobright.ai/jobs/info/6a06f9f29f57175bd581b773?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | DMUS | Remote | May 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0724a9078fec52738aaa16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7800 OLD REDWOOD HWY,COTATI,CA,94931-05106-03084-S | On Site | May 15 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0724a9078fec52738aaa12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7800 OLD REDWOOD HWY,COTATI,CA,94931 | On Site | May 15 |
+| **[DEPT®](https://www.deptagency.com)** | **[Creative Analyst](https://jobright.ai/jobs/info/6a06f9f29f57175bd581b773?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | DMUS | Remote | May 15 |
+| ↳ | **[Creative Analyst](https://jobright.ai/jobs/info/69c5b513aa9a29199e808f10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States (Remote) | Remote | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0724a9078fec52738aaa12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7800 OLD REDWOOD HWY,COTATI,CA,94931 | On Site | May 15 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0724a9078fec52738aaa16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7800 OLD REDWOOD HWY,COTATI,CA,94931-05106-03084-S | On Site | May 15 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a04a735bc4184089f23d70b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - US | Remote | May 15 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/6a06f9959f57175bd581b5bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver | Hybrid | May 15 |
-| ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6a06f9959f57175bd581b5b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 15 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6a07230c078fec52738aa53e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 15 |
-| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6a07230c078fec52738aa534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 15 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/6a06f9959f57175bd581b5b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 15 |
+| ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6a06f9959f57175bd581b5bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver | Hybrid | May 15 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6a07230c078fec52738aa534?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 15 |
+| ↳ | **[Designer - Entry Level](https://jobright.ai/jobs/info/6a07230c078fec52738aa53e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | May 15 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Jr Designer](https://jobright.ai/jobs/info/6a06f8329f57175bd581b1d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | May 15 |
 | ↳ | **[Jr Designer](https://jobright.ai/jobs/info/6a06f81b9f57175bd581b176?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | On Site | May 15 |
 | **[eko](https://eko.com)** | **[Creative Associate](https://jobright.ai/jobs/info/6a072017078fec52738aa130?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville, Arkansas | On Site | May 15 |
@@ -205,12 +206,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design, FinTech](https://jobright.ai/jobs/info/6a06f21a4a0a6a7e7d81c80a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto | On Site | May 15 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Visual Strategist](https://jobright.ai/jobs/info/69b99cf056973837413f16e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | Hybrid | May 15 |
 | ↳ | **[Visual Strategist](https://jobright.ai/jobs/info/6a06f14e1f7fa33581c9688d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TubeScience Studios - Los Angeles, CA | Hybrid | May 15 |
-| **[Teague](http://teague.com)** | **[CATIA Designer](https://jobright.ai/jobs/info/6a0711e4078fec52738a867b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | On Site | May 15 |
-| ↳ | **[CATIA Designer](https://jobright.ai/jobs/info/6a0711e4078fec52738a867c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | May 15 |
-| **[Pirate Ship](https://www.pirateship.com/)** | **[Teton-Based Creatives](https://jobright.ai/jobs/info/6a070b8224dcb03739f1f7ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, WY | On Site | May 15 |
-| ↳ | **[Teton-Based Creatives](https://jobright.ai/jobs/info/6a070b8524dcb03739f1f7bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, Wyoming, United States | On Site | May 15 |
-| **[Via](http://www.ridewithvia.com)** | **[Designer: Brand & Interactive Systems (Via, Remix, Citymapper)](https://jobright.ai/jobs/info/6a06ed5b38dbee7915cf7be6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London | On Site | May 15 |
-| ↳ | **[Designer: Brand & Interactive Systems (Via, Remix, Citymapper)](https://jobright.ai/jobs/info/691e6fd03f782d2f1afb47a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | May 15 |
+| **[Teague](http://teague.com)** | **[CATIA Designer](https://jobright.ai/jobs/info/6a0711e4078fec52738a867c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | May 15 |
+| ↳ | **[CATIA Designer](https://jobright.ai/jobs/info/6a0711e4078fec52738a867b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | On Site | May 15 |
+| **[Pirate Ship](https://www.pirateship.com/)** | **[Teton-Based Creatives](https://jobright.ai/jobs/info/6a070b8524dcb03739f1f7bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, Wyoming, United States | On Site | May 15 |
+| ↳ | **[Teton-Based Creatives](https://jobright.ai/jobs/info/6a070b8224dcb03739f1f7ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, WY | On Site | May 15 |
+| **[Via](http://www.ridewithvia.com)** | **[Designer: Brand & Interactive Systems (Via, Remix, Citymapper)](https://jobright.ai/jobs/info/691e6fd03f782d2f1afb47a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | May 15 |
+| ↳ | **[Designer: Brand & Interactive Systems (Via, Remix, Citymapper)](https://jobright.ai/jobs/info/6a06ed5b38dbee7915cf7be6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London | On Site | May 15 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Designer (Mission Critical)](https://jobright.ai/jobs/info/6a06ea784f290f7450ea4071?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Gables, FL | Hybrid | May 15 |
 | ↳ | **[Architectural Designer (Mission Critical)](https://jobright.ai/jobs/info/6a06ea784f290f7450ea4070?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 15 |
 | ↳ | **[Architectural Designer (Mission Critical)](https://jobright.ai/jobs/info/6a06ea704f290f7450ea406c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | May 15 |
@@ -243,9 +244,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/6a065aaabc4184089f24ef01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 14 |
 | ↳ | **[Technical Designer - Junior](https://jobright.ai/jobs/info/6a065aa8bc4184089f24eef3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | May 14 |
 | ↳ | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/6a065a6a7c753c287f702a29?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 14 |
-| ↳ | **[Urban Designer - Junior](https://jobright.ai/jobs/info/6a065a716c07461fe171fbed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 14 |
-| ↳ | **[Technical Designer - Junior](https://jobright.ai/jobs/info/6a065ab2320bff2205eabf16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 14 |
 | ↳ | **[Technical Designer – Sports Studio – Junior](https://jobright.ai/jobs/info/6a065a7bf3d6cc51d6392d5d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 14 |
+| ↳ | **[Technical Designer - Junior](https://jobright.ai/jobs/info/6a065ab2320bff2205eabf16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 14 |
+| ↳ | **[Urban Designer - Junior](https://jobright.ai/jobs/info/6a065a716c07461fe171fbed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 14 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Print Center Coordinator](https://jobright.ai/jobs/info/6a0656bba88ea73abf7fadb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | May 14 |
 | **[Crystal Cruises](http://www.crystalcruises.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6a0633567c753c287f7007e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Downers Grove, IL | On Site | May 14 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Product Designer (UX/UI)-Specialist](https://jobright.ai/jobs/info/6a06330ff3d6cc51d6390c03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | May 14 |
@@ -319,8 +320,8 @@ For a complete list, click the following sortable link below:
 | **[Prime Video & Amazon MGM Studios](http://primevideo.com)** | **[Design Technologist, Prime Video](https://jobright.ai/jobs/info/6a04cfdb4373b07358a3714d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 13 |
 | ↳ | **[Design Technologist, Prime Video](https://jobright.ai/jobs/info/6a04cf436c07461fe1710dd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Project Designer](https://jobright.ai/jobs/info/6a0504e04373b07358a3968a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Hybrid | May 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a04c6d66c07461fe17108b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7910 FOUNTAIN MESA RD,FOUNTAIN,CO,80817-01532-07022-S | On Site | May 13 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a04c6d66c07461fe17108b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7910 FOUNTAIN MESA RD,FOUNTAIN,CO,80817 | On Site | May 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a04c6d66c07461fe17108b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7910 FOUNTAIN MESA RD,FOUNTAIN,CO,80817 | On Site | May 13 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a04c6d66c07461fe17108b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7910 FOUNTAIN MESA RD,FOUNTAIN,CO,80817-01532-07022-S | On Site | May 13 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/69f3e36d461b9b613a624b08?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montclair, NJ | On Site | May 13 |
 | **[Winpak](https://www.winpak.com/)** | **[Graphics Technician](https://jobright.ai/jobs/info/6a04c002f3d6cc51d638244b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwood, NJ | On Site | May 13 |
 | **[GEA Group](http://www.gea.com/)** | **[Technical Designer](https://jobright.ai/jobs/info/6a04bf9af3d6cc51d63823cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hudson, US | On Site | May 13 |
@@ -348,8 +349,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Technologist, Prime Video](https://jobright.ai/jobs/info/6a046a4cf811a0436960a331?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, Washington, USA | On Site | May 13 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Assistant Photo Editor](https://jobright.ai/jobs/info/69e872f33aa0c479643a33b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 13 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a0468c97c753c287f6eeca8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | May 13 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69596954aa05c26e7ab3304c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | May 13 |
-| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69992f05e0bddb6acac83b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | May 13 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69992f05e0bddb6acac83b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | May 13 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69596954aa05c26e7ab3304c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | May 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0457a1f811a04369609779?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 120 N BROADWAY,DENVER,CO,80203 | On Site | May 13 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0457a0f811a04369609778?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 120 N BROADWAY,DENVER,CO,80203-03917-02843-S | On Site | May 13 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Full-Time – Digital Artist – (Onsite)](https://jobright.ai/jobs/info/6a0453cc6c07461fe170b524?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Andover, MA | On Site | May 13 |
@@ -423,6 +424,4 @@ For a complete list, click the following sortable link below:
 | **[RRD](https://www.rrd.com/)** | **[Graphic Designer - Presentations (Nights)](https://jobright.ai/jobs/info/6a02429bc4b08448a0b24c69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheeling, WV | On Site | May 11 |
 | **[Decatur-Morgan County Chamber of Commerce](https://www.dcc.org/)** | **[Web & Digital Content Specialist](https://jobright.ai/jobs/info/6a030ab9f3d6cc51d6372a0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tanner, AL | On Site | May 11 |
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Graphic Design](https://jobright.ai/jobs/info/6a0239afc2ffb31f4536b08e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairfield, NJ, US | Hybrid | May 11 |
-| **[Hope and Healing International](http://www.hopeandhealing.org)** | **[Single Gifts Specialist](https://jobright.ai/jobs/info/6a0311b37c753c287f6e3745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond Hill, Ontario, Canada | Hybrid | May 11 |
-| **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[MAC Artist Freelancer - Colorado Springs, CO](https://jobright.ai/jobs/info/6a030a7dbc4184089f22e458?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
