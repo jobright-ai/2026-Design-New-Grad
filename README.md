@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Designer Level I](https://jobright.ai/jobs/info/6a0fc4a79f654b3359ce8347?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-PA-Philadelphia | On Site | May 21 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Digital Content Coordinator](https://jobright.ai/jobs/info/6a0fad4f80bf0430c7635b2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, NJ | On Site | May 21 |
 | **[PPI Apparel Group](https://www.ppiapparel.com/)** | **[Assistant Packaging Designer](https://jobright.ai/jobs/info/6a0f83d272b52f7225f3ea99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | May 21 |
 | **[Egis in Canada](www.egis-group.com)** | **[Operations and Graphic Design Support](https://jobright.ai/jobs/info/6a0f83bc72b52f7225f3ea75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | May 21 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Great Northern Builders](https://www.greatnorthernbuilders.info/)** | **[Designer](https://jobright.ai/jobs/info/6a0fa77672b52f7225f3f877?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | South Berwick, ME | On Site | May 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6a0f63b683d714428981f883?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | May 21 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/6a0f638683d714428981f802?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | May 21 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/6a0fc1cc83d7144289822a39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 21 |
 | **[Abbott](https://www.abbott.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/6a0f5d549f654b3359ce50ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States > Minnesota > Plymouth : 5050 Nathan Lane N, US | On Site | May 21 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a0f5d5212f8b43cf397e03f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States > Minnesota > Plymouth : 5050 Nathan Lane N, US | On Site | May 21 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Case Design Analyst](https://jobright.ai/jobs/info/69f3ac10c78b9e4518956a71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | Hybrid | May 21 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Architectural Designer Associate](https://jobright.ai/jobs/info/6a0e31f583d7144289816c7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ann Arbor, MI | On Site | May 20 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Art Director](https://jobright.ai/jobs/info/69fb209be156000841156ba5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | May 20 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Coordinator](https://jobright.ai/jobs/info/6a0e24ce80bf0430c7629edf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 151 Union Street, San Francisco, CA, 94111, US | On Site | May 20 |
-| **[MSA Professional Services](http://msa-ps.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/6a0e22fe80bf0430c7629e3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN, US | Hybrid | May 20 |
-| ↳ | **[Landscape Designer](https://jobright.ai/jobs/info/6a0e22fe80bf0430c7629e39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MN-St Paul | Hybrid | May 20 |
+| **[MSA Professional Services](http://msa-ps.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/6a0e22fe80bf0430c7629e39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-MN-St Paul | Hybrid | May 20 |
+| ↳ | **[Landscape Designer](https://jobright.ai/jobs/info/6a0e22fe80bf0430c7629e3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN, US | Hybrid | May 20 |
 | **[Zoic Studios](http://www.zoicstudios.com)** | **[U.S. UI/UX Designer, Zoic Labs](https://jobright.ai/jobs/info/6a0e1bb809ecfd704b3e6018?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | Remote | May 20 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - Exempt](https://jobright.ai/jobs/info/6a0e19b409ecfd704b3e5d97?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buford, GA | On Site | May 20 |
 | **[Mud Club Inc.](www.mudclub.ca)** | **[Multimedia Designer](https://jobright.ai/jobs/info/6a0e48ff47fea1610bca8c72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | May 20 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[US Open](www.usopen.org)** | **[2026 US Open Signage and Graphics Applicator (Seasonal)](https://jobright.ai/jobs/info/69f1102e8feca91f1491e5c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Queens, NY | On Site | May 20 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[UI/UX Designer](https://jobright.ai/jobs/info/6a0deb3dc152ac7824481402?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City - 6015 N Classen Blvd, US | On Site | May 20 |
 | **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Freelance Graphic Designer](https://jobright.ai/jobs/info/6a0deaf8c152ac78244813a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | Hybrid | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de3bbbeb4d73cb622caeb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marquette, MI | On Site | May 20 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de3bbbeb4d73cb622caec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hickory, NC | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de3bbbeb4d73cb622caec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hickory, NC | On Site | May 20 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de3bbbeb4d73cb622caeb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marquette, MI | On Site | May 20 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de3babeb4d73cb622cadf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boardman, OH | On Site | May 20 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de37dc152ac7824480e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ankeny, IA | On Site | May 20 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de37180bf0430c76270bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chula Vista, CA | On Site | May 20 |
@@ -165,9 +167,9 @@ For a complete list, click the following sortable link below:
 | **[Amca](https://amca.co)** | **[Designer](https://jobright.ai/jobs/info/6a0d2c360411d7417a1bff28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | On Site | May 19 |
 | **[Core States Group](https://www.core-states.com)** | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d2c1d538d03366dc94af1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville, AR | Hybrid | May 19 |
 | **[New York Jets](http://www.newyorkjets.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a0d3beb963f7a67d95df86d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florham Park, NJ | On Site | May 19 |
-| **[Core States Group](https://www.core-states.com)** | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5a9c4d93203636880c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frisco, TX | Hybrid | May 19 |
+| **[Core States Group](https://www.core-states.com)** | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d627?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | May 19 |
 | ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d626?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | Hybrid | May 19 |
-| ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d627?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | May 19 |
+| ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5a9c4d93203636880c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frisco, TX | Hybrid | May 19 |
 | ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d23580411d7417a1bfae3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | May 19 |
 | **[melin](https://melin.com)** | **[melin Jr. Graphic Designer](https://jobright.ai/jobs/info/6a0d21194d9320363687f3d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Clemente, CA | Hybrid | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0d1feea235d749afa939bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 4816 NW BETHANY BLVD,PORTLAND,OR,97229 | On Site | May 19 |
@@ -326,18 +328,4 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d780749500645097de9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 15 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Brand Enhancement Tech I](https://jobright.ai/jobs/info/6a07337a6186f4685987bf6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | May 15 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d84d0b2db6275c058ce6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, CO | Hybrid | May 15 |
-| **[Mammoth Brands](https://www.mammothbrands.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/6a07046e4a0a6a7e7d8209bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | On Site | May 15 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Art Director](https://jobright.ai/jobs/info/69fa374fa3d34b4f76f6486a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | May 15 |
-| **[Interbrand](http://www.interbrand.com)** | **[Freelance Brand Design Talent](https://jobright.ai/jobs/info/6a0703c89f57175bd581e6fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | On Site | May 15 |
-| ↳ | **[Freelance Brand Design Talent](https://jobright.ai/jobs/info/6a0703c69f57175bd581e6de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Remote | May 15 |
-| **[Lume Deodorant](https://lumedeodorant.com/)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/6a0702139f57175bd581e214?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | On Site | May 15 |
-| **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short Term Graphic Designer](https://jobright.ai/jobs/info/6a0701f7152f493123c4cc0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | May 15 |
-| ↳ | **[Short Term Graphic Designer](https://jobright.ai/jobs/info/698657818ca8121a3a688db2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA, United States | Hybrid | May 15 |
-| **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Associate](https://jobright.ai/jobs/info/6a0701d84a0a6a7e7d81fe7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Intrinsic Development (Lee's Summit) | On Site | May 15 |
-| ↳ | **[Architectural Design Associate](https://jobright.ai/jobs/info/68ae3308daf1431824ca17b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lee's Summit, Missouri | On Site | May 15 |
-| **[Business Insider](http://www.businessinsider.com)** | **[Associate UX/UI Designer](https://jobright.ai/jobs/info/6a07018f078fec52738a5870?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | May 15 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69b0d79edfaeda6ff59b7bbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 15 |
-| **[SERHANT.](https://www.serhant.com)** | **[Multimedia Producer](https://jobright.ai/jobs/info/69fa1b3db1fc847fc1aee2c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Hybrid | May 15 |
-| ↳ | **[Multimedia Producer](https://jobright.ai/jobs/info/69fa1b3cb1fc847fc1aee2bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Hybrid | May 15 |
-| **[Naughty Dog](http://www.naughtydog.com)** | **[Lighting Artist, Environment (Contingent)](https://jobright.ai/jobs/info/6a070051152f493123c4c38b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA-CA-Santa Monica | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
