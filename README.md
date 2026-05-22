@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[32 Degrees](https://www.32degrees.com )** | **[Junior Interior / Architectural Designer](https://jobright.ai/jobs/info/6a10a16483d7144289827951?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 22 |
+| **[Imperial Beverage](http://imperialbeverage.com)** | **[Point of Sale Production Designer](https://jobright.ai/jobs/info/6a10a0d7619335383fb33e10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kalamazoo,MI,US | On Site | May 22 |
 | **[The Children's Place](http://www.childrensplace.com)** | **[Associate Designer, Baby](https://jobright.ai/jobs/info/6a109f1a9fdbf21f36cafcf7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corporate Office - HQ, US | On Site | May 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Full-TimeFramer](https://jobright.ai/jobs/info/6a109cae69bd827926aef869?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Store - 409 Solomons Island Rd N, US | On Site | May 22 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Architect 1 (NY HELPS) - Finger Lakes & Thousand Islands](https://jobright.ai/jobs/info/6a108bb0619335383fb33400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, NY, 12238 | On Site | May 22 |
@@ -187,8 +189,8 @@ For a complete list, click the following sortable link below:
 | **[Dôen](https://shopdoen.com)** | **[Design Assistant](https://jobright.ai/jobs/info/698d242f78b4502f12a3ae83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | May 20 |
 | **[Rapt Studio](http://raptstudio.com/)** | **[Designer (Interior Design/Architecture)](https://jobright.ai/jobs/info/6a0da521c152ac782447e549?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | May 20 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f1660f8feca91f1491ff5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | May 20 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Jr Designer](https://jobright.ai/jobs/info/6a06f81b9f57175bd581b176?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | On Site | May 20 |
-| ↳ | **[Jr Designer](https://jobright.ai/jobs/info/6a06f8329f57175bd581b1d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | May 20 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Jr Designer](https://jobright.ai/jobs/info/6a06f8329f57175bd581b1d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | May 20 |
+| ↳ | **[Jr Designer](https://jobright.ai/jobs/info/6a06f81b9f57175bd581b176?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | On Site | May 20 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f1f2f9f154d768fbaa48f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | May 20 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Project Designer](https://jobright.ai/jobs/info/69d5f98b891d7b11cfd074fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | May 20 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Junior Designer, Grand Central Publishing](https://jobright.ai/jobs/info/6a0d8732beb4d73cb62295c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | Hybrid | May 20 |
