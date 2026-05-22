@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vasile Elevator, Inc](http://www.vasileelevator.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6a1049969f654b3359ceac06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pompano Beach, FL | Hybrid | May 22 |
+| **[Navan](https://navan.com)** | **[Product Design, FinTech](https://jobright.ai/jobs/info/69d6d771366bb95ba5550423?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA | Hybrid | May 22 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Landscape Designer I](https://jobright.ai/jobs/info/68dae9da6df7b8311bb14058?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | May 22 |
 | **[Timpson Group](https://www.timpson.co.uk)** | **[Northfield colleague](https://jobright.ai/jobs/info/6a103ff0619335383fb315fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Northfield | On Site | May 22 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f4071f6942c746fa6967b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, PA | On Site | May 22 |
@@ -175,8 +177,8 @@ For a complete list, click the following sortable link below:
 | **[Amca](https://amca.co)** | **[Designer](https://jobright.ai/jobs/info/6a0d2c360411d7417a1bff28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | On Site | May 19 |
 | **[Core States Group](https://www.core-states.com)** | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d2c1d538d03366dc94af1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville, AR | Hybrid | May 19 |
 | **[New York Jets](http://www.newyorkjets.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a0d3beb963f7a67d95df86d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florham Park, NJ | On Site | May 19 |
-| **[Core States Group](https://www.core-states.com)** | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d626?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | Hybrid | May 19 |
-| ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d627?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | May 19 |
+| **[Core States Group](https://www.core-states.com)** | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d627?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | May 19 |
+| ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5ab422d0d34036c9d626?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | Hybrid | May 19 |
 | ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d5a9c4d93203636880c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frisco, TX | Hybrid | May 19 |
 | ↳ | **[Architectural Project Designer](https://jobright.ai/jobs/info/6a0d23580411d7417a1bfae3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | May 19 |
 | **[melin](https://melin.com)** | **[melin Jr. Graphic Designer](https://jobright.ai/jobs/info/6a0d21194d9320363687f3d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Clemente, CA | Hybrid | May 19 |
@@ -243,8 +245,8 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6a0b6a7d22d0d34036c8c119?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | May 18 |
 | **[BlueStar Resort & Golf](http://bluestargolf.com)** | **[Creative Services Coordinator @ Central Services](https://jobright.ai/jobs/info/6a081812939a5f01db956385?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | May 18 |
 | **[Miles Partnership](http://milespartnership.com)** | **[Associate Digital Product Designer](https://jobright.ai/jobs/info/6a0b6201538d03366dc84ce0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote USA | Remote | May 18 |
-| ↳ | **[Associate Digital Product Designer](https://jobright.ai/jobs/info/6a0b6201538d03366dc84ce1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | Hybrid | May 18 |
 | ↳ | **[Associate Digital Product Designer](https://jobright.ai/jobs/info/6a0b6201538d03366dc84ce2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakewood, CO, US | Hybrid | May 18 |
+| ↳ | **[Associate Digital Product Designer](https://jobright.ai/jobs/info/6a0b6201538d03366dc84ce1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | Hybrid | May 18 |
 | **[Fat Earth](https://fat-earth.com)** | **[Email Designer](https://jobright.ai/jobs/info/6a0b5e5e22d0d34036c8b794?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 18 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Design Center - Designer I](https://jobright.ai/jobs/info/6a0b5e4f0411d7417a1b01e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA, US, 92606 | On Site | May 18 |
 | **[Vericast](https://www.vericast.com/)** | **[Graphics Specialist I](https://jobright.ai/jobs/info/69ee95834b0fa35a70787262?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | May 18 |
@@ -303,5 +305,4 @@ For a complete list, click the following sortable link below:
 | **[HAPO Community Credit Union](https://www.hapo.org/)** | **[Video Producer](https://jobright.ai/jobs/info/6a07a846a203b1052e43da25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 601 Williams Blvd, Richland, WA, 99354, US | On Site | May 15 |
 | **[FSNB](https://www.fsnb.com/)** | **[Multimedia Associate](https://jobright.ai/jobs/info/6a07a431403fc339507e6e63?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lawton, OK, US | On Site | May 15 |
 | **[ALO](https://www.aloyoga.com/)** | **[Production Designer](https://jobright.ai/jobs/info/6a07a2658f3e371eb6179438?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 15 |
-| **[Strategic America](https://www.strategicamerica.com)** | **[Web Designer](https://jobright.ai/jobs/info/6a0791888f3e371eb61789bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Iowa, United States | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
