@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[UX Designer](https://jobright.ai/jobs/info/69faeddf38179b6f1ae73e12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | May 26 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a15b66bdc845f4be5bd8225?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gallup, NM | On Site | May 26 |
+| **[Gemini](https://gemini.com)** | **[Junior Brand Designer (Social)](https://jobright.ai/jobs/info/6a15b3dcdc845f4be5bd8121?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 26 |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Designer Level I](https://jobright.ai/jobs/info/6a15b3640073182bd92abe8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-PA-Philadelphia | On Site | May 26 |
+| **[World Vision Canada](https://www.worldvision.ca)** | **[UX Researcher](https://jobright.ai/jobs/info/6a15b2c31935fa61b3c6a40e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, ON, Canada | Hybrid | May 26 |
 | **[Vancouver General Hospital](https://www.vch.ca/en/location/vancouver-general-hospital)** | **[Multimedia Designer](https://jobright.ai/jobs/info/6a157cd11935fa61b3c6883b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver | On Site | May 26 |
 | ↳ | **[Multimedia Designer](https://jobright.ai/jobs/info/6a157cce1935fa61b3c6883a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, BC, CA | On Site | May 26 |
 | **[Mower Agency](https://mower.com)** | **[Proofreader](https://jobright.ai/jobs/info/6a1579fca429fd279da8f524?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse, NY | On Site | May 26 |
@@ -143,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a10f22b9fdbf21f36cb1a94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tomball, TX | On Site | May 22 |
 | **[David Baker Architects](https://www.dbarchitect.com/)** | **[Designer](https://jobright.ai/jobs/info/6a106e109f654b3359cebc13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 22 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Associate - Entry-Level](https://jobright.ai/jobs/info/69f4a95cdb88714bcdfaef62?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Hybrid | May 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259 | On Site | May 22 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259-02016-09014-S | On Site | May 22 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259-02016-09014-S | On Site | May 22 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259 | On Site | May 22 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6a10660212f8b43cf3984e14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale | On Site | May 22 |
 | ↳ | **[Brand Designer](https://jobright.ai/jobs/info/6a10660012f8b43cf3984e0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, California, United States | On Site | May 22 |
 | **[Kikoff](https://kikoff.com/)** | **[Junior Graphic Designer Short Term Employee](https://jobright.ai/jobs/info/6a07015c078fec52738a56aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Office | Hybrid | May 22 |
@@ -207,7 +212,6 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f2b6688d8d624381aa23c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | May 21 |
 | **[Google](https://www.google.com)** | **[Pixel Watch Industrial Designer, Devices and Services](https://jobright.ai/jobs/info/6a0edfbb80bf0430c762f4b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA, USA | On Site | May 21 |
 | **[God's Love We Deliver](https://www.glwd.org)** | **[Design and Content Associate](https://jobright.ai/jobs/info/6a1180939f654b3359cf10bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | May 21 |
-| **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[UI or UX Designer - Junior](https://jobright.ai/jobs/info/6a1574e4dc845f4be5bd5b24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON, Canada | Hybrid | May 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f2b67434c4af7a79ab48c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | May 21 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Jr Designer](https://jobright.ai/jobs/info/69d58330cfdc6132f9462e79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f2b666ecbc8c2f7320bfac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | May 21 |
@@ -280,6 +284,4 @@ For a complete list, click the following sortable link below:
 | **[Photomatica Photo Booth Co.](https://www.photomatica.com/)** | **[Photo Booth Technician](https://jobright.ai/jobs/info/6a0d0a094d9320363687e8f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | May 19 |
 | **[Mt. Prospect Park District](https://www.mppd.org/)** | **[Graphic Designer (full-time)](https://jobright.ai/jobs/info/6a0e594847fea1610bca9a4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Prospect, IL | On Site | May 19 |
 | **[Staples Canada](http://www.staples.ca)** | **[Evening Garment Inspector - Staples Promotional Products](https://jobright.ai/jobs/info/6a0d05ab538d03366dc93942?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marcus, IA, United States | On Site | May 19 |
-| **[Story Co](https://www.story.inc)** | **[Motion Designer](https://jobright.ai/jobs/info/6a0cf27aa235d749afa9221a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | May 19 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer & Production Assistant](https://jobright.ai/jobs/info/6a0cec554d9320363687d8a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tuscaloosa, AL, US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
