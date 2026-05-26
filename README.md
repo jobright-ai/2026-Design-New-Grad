@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Designer Level I](https://jobright.ai/jobs/info/6a15cfd00073182bd92ad0bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-PA-Philadelphia | On Site | May 26 |
+| **[Your Home Sold Guaranteed-Shelly Salas](http://shellysalas.com/)** | **[Real Estate Multimedia Specialist](https://jobright.ai/jobs/info/6a15cb90dc845f4be5bd907e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Killeen, TX | On Site | May 26 |
 | **[Scopely](http://www.scopely.com)** | **[UX Designer](https://jobright.ai/jobs/info/6a15c4f4554b0e12c0585887?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | All United States of America Locations | Remote | May 26 |
 | ↳ | **[UX Designer](https://jobright.ai/jobs/info/6a15c4e4554b0e12c058587f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US - United States | Remote | May 26 |
 | **[MAS](http://www.moremas.com)** | **[Associate Art Director - Spatial](https://jobright.ai/jobs/info/6a15c0700073182bd92ac438?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 26 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[KALIFANO LLC](https://kalifano.com/)** | **[Operations / Marketing & Product Photography Assistant](https://jobright.ai/jobs/info/6a156b70438198796a26bacb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | May 25 |
 | **[Cresco Labs](http://www.crescolabs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6a14c930554b0e12c0580042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 25 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Personal Designer(Framing)](https://jobright.ai/jobs/info/6a14bb39bc9bff375af020a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Willowbrook-7155 S Kingery Hwy, US | On Site | May 25 |
-| **[Teague](http://teague.com)** | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | May 25 |
-| ↳ | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | On Site | May 25 |
+| **[Teague](http://teague.com)** | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | On Site | May 25 |
+| ↳ | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | May 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Designer, T Brand Studio](https://jobright.ai/jobs/info/6a14ab8e738a270c8bfa8511?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 25 |
 | **[Vectorworks](http://www.vectorworks.net)** | **[Associate Graphic Designer (US Remote)](https://jobright.ai/jobs/info/69fabdd787a4820e6da81eba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, MD | Remote | May 25 |
 | **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb366258811370cb136e75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Malden, England, United Kingdom | On Site | May 25 |
@@ -150,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a10f22b9fdbf21f36cb1a94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tomball, TX | On Site | May 22 |
 | **[David Baker Architects](https://www.dbarchitect.com/)** | **[Designer](https://jobright.ai/jobs/info/6a106e109f654b3359cebc13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 22 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Associate - Entry-Level](https://jobright.ai/jobs/info/69f4a95cdb88714bcdfaef62?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Hybrid | May 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259 | On Site | May 22 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259-02016-09014-S | On Site | May 22 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259-02016-09014-S | On Site | May 22 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259 | On Site | May 22 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6a10660212f8b43cf3984e14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale | On Site | May 22 |
 | ↳ | **[Brand Designer](https://jobright.ai/jobs/info/6a10660012f8b43cf3984e0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, California, United States | On Site | May 22 |
 | **[Kikoff](https://kikoff.com/)** | **[Junior Graphic Designer Short Term Employee](https://jobright.ai/jobs/info/6a07015c078fec52738a56aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Office | Hybrid | May 22 |
@@ -283,6 +285,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0d1feea235d749afa939bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 4816 NW BETHANY BLVD,PORTLAND,OR,97229 | On Site | May 19 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/6a0d1f5da235d749afa9392a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | On Site | May 19 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Coordinator, Graphic Design & Video](https://jobright.ai/jobs/info/6a0d1d1a4d9320363687f0d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 19 |
-| **[Photomatica Photo Booth Co.](https://www.photomatica.com/)** | **[Photo Booth Technician](https://jobright.ai/jobs/info/6a0d0a094d9320363687e8f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | May 19 |
-| **[Mt. Prospect Park District](https://www.mppd.org/)** | **[Graphic Designer (full-time)](https://jobright.ai/jobs/info/6a0e594847fea1610bca9a4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Prospect, IL | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
