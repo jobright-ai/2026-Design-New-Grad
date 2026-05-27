@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biblica](http://www.biblica.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a1645be1935fa61b3c70544?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palmer Lake, Colorado, United States | Remote | May 26 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Associate Interior  Design Consultant](https://jobright.ai/jobs/info/6a162afa0073182bd92b0cef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milford, CT, USA | On Site | May 26 |
 | **[Nautica](http://www.nautica.com/)** | **[Associate Designer Graphic](https://jobright.ai/jobs/info/69fb202486d5cd46527d2b8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 26 |
 | **[RRD](https://www.rrd.com/)** | **[Presentation Associate](https://jobright.ai/jobs/info/6a162489a429fd279da96260?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Hybrid | May 26 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Archinect](https://archinect.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/6a16288d554b0e12c0589d6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Queens, NY | On Site | May 25 |
 | **[Cresco Labs](http://www.crescolabs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6a14c930554b0e12c0580042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 25 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Personal Designer(Framing)](https://jobright.ai/jobs/info/6a14bb39bc9bff375af020a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Willowbrook-7155 S Kingery Hwy, US | On Site | May 25 |
-| **[Teague](http://teague.com)** | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | May 25 |
-| ↳ | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | On Site | May 25 |
+| **[Teague](http://teague.com)** | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Renton, WA | On Site | May 25 |
+| ↳ | **[CATIA Designer](https://jobright.ai/jobs/info/6a14aba5c48b503aeffbf85b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | May 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Designer, T Brand Studio](https://jobright.ai/jobs/info/6a14ab8e738a270c8bfa8511?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 25 |
 | **[Vectorworks](http://www.vectorworks.net)** | **[Associate Graphic Designer (US Remote)](https://jobright.ai/jobs/info/69fabdd787a4820e6da81eba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, MD | Remote | May 25 |
 | **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb366258811370cb136e75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Malden, England, United Kingdom | On Site | May 25 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Coordinator](https://jobright.ai/jobs/info/6a13a1f6619335383fb3d3cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NJ-Jackson | On Site | May 24 |
 | **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Freelancer. Multibrand-Cochrane, AB.](https://jobright.ai/jobs/info/6a137ec39fdbf21f36cb90e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cochrane, AB, CA, T4C 0A4 | On Site | May 24 |
 | **[Attention Arc](https://attentionarc.com)** | **[Associate Designer](https://jobright.ai/jobs/info/6a13794a83d7144289830ca4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Durham, NC | Hybrid | May 24 |
-| ↳ | **[Associate Designer](https://jobright.ai/jobs/info/6a13794983d7144289830ca3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvington, NY | Hybrid | May 24 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/6a13794983d7144289830ca2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Hybrid | May 24 |
+| ↳ | **[Associate Designer](https://jobright.ai/jobs/info/6a13794983d7144289830ca3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvington, NY | Hybrid | May 24 |
 | ↳ | **[Associate Designer](https://jobright.ai/jobs/info/6a13794683d7144289830ca0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 24 |
 | **[Dyett & Bhatia](http://dyettandbhatia.com/)** | **[Urban Planner / Urban Designer (Junior to Intermediate)](https://jobright.ai/jobs/info/6a13550a9f654b3359cf5c52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | Hybrid | May 24 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, North Bethesda - West Elm](https://jobright.ai/jobs/info/69a263420da45516f16ba8bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Bethesda, MD | On Site | May 24 |
@@ -163,8 +164,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a10f22b9fdbf21f36cb1a94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tomball, TX | On Site | May 22 |
 | **[David Baker Architects](https://www.dbarchitect.com/)** | **[Designer](https://jobright.ai/jobs/info/6a106e109f654b3359cebc13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 22 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Associate - Entry-Level](https://jobright.ai/jobs/info/69f4a95cdb88714bcdfaef62?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Hybrid | May 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259-02016-09014-S | On Site | May 22 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259 | On Site | May 22 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259 | On Site | May 22 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a106b8869bd827926aee2d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2839 COUNTY ROAD 210 W,JACKSONVILLE,FL,32259-02016-09014-S | On Site | May 22 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6a10660212f8b43cf3984e14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale | On Site | May 22 |
 | ↳ | **[Brand Designer](https://jobright.ai/jobs/info/6a10660012f8b43cf3984e0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, California, United States | On Site | May 22 |
 | **[Kikoff](https://kikoff.com/)** | **[Junior Graphic Designer Short Term Employee](https://jobright.ai/jobs/info/6a07015c078fec52738a56aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Office | Hybrid | May 22 |
@@ -195,7 +196,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Coordinator](https://jobright.ai/jobs/info/6a0f717e72b52f7225f3df18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, NJ, US | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0f6f5d9f654b3359ce5bec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1490 N ROCHESTER RD,ROCHESTER,MI,48307 | On Site | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Visual Media Designer I - 61163933](https://jobright.ai/jobs/info/6a0f6b9280bf0430c76339f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington County, SC | On Site | May 21 |
-| **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[UI or UX Designer - Junior](https://jobright.ai/jobs/info/6a15ff27554b0e12c0588160?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON, Canada | Hybrid | May 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6a0f63b683d714428981f883?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | May 21 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/6a0f638683d714428981f802?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | May 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/6a0fc1cc83d7144289822a39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 21 |
@@ -278,6 +278,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jr Designer](https://jobright.ai/jobs/info/6a06f81b9f57175bd581b176?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, United States | On Site | May 20 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69f1f2f9f154d768fbaa48f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | May 20 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Project Designer](https://jobright.ai/jobs/info/69d5f98b891d7b11cfd074fd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | May 20 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Junior Designer, Grand Central Publishing](https://jobright.ai/jobs/info/6a0d8732beb4d73cb62295c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | Hybrid | May 20 |
-| **[JT4](https://www.jt4llc.com/)** | **[Tech Publishing I](https://jobright.ai/jobs/info/6a0d83fd28d677106a776856?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
