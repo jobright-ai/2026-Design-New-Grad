@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wishare Media Group](https://www.wisharemedia.com/)** | **[Junior Creative Director - Video](https://jobright.ai/jobs/info/6a167cbc202ae849ed8d39d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Monte, CA | On Site | May 26 |
 | **[WRT](http://wrtdesign.com)** | **[Landscape Designer Level I](https://jobright.ai/jobs/info/6a16783d1b2f6918b0e324a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-PA-Philadelphia | On Site | May 26 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Associate Interior Design Consultant](https://jobright.ai/jobs/info/6a1668d0202ae849ed8d2e0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milford, CT | On Site | May 26 |
 | **[Homebound](https://www.homebound.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6a165657dc845f4be5bdeb88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Petersburg, FL | Hybrid | May 26 |
@@ -80,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Interior Architectural Designer](https://jobright.ai/jobs/info/6a160997a429fd279da95035?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas | On Site | May 26 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Graphic Designer – Skin Care](https://jobright.ai/jobs/info/6a16014cdc845f4be5bdb838?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | May 26 |
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short Term Graphic Designer](https://jobright.ai/jobs/info/6a15fdd0554b0e12c0587de9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | May 26 |
+| **[Wishare Media Group](https://www.wisharemedia.com/)** | **[Junior Creative Director - Video](https://jobright.ai/jobs/info/6a167cbc202ae849ed8d39d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Monte, CA | On Site | May 26 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Design Consultant](https://jobright.ai/jobs/info/6a15fb4aa429fd279da94236?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | On Site | May 26 |
 | **[Sunwing](http://www.sunwing.ca/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6a15f4841935fa61b3c6d1ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 27 Fasken Dr, Etobicoke, ON M9W 1K6, Canada | Hybrid | May 26 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Graphic Designer – Skin Care](https://jobright.ai/jobs/info/6a15e1d0dc845f4be5bd99f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CINCINNATI GENERAL OFFICES, US | On Site | May 26 |
@@ -246,8 +246,9 @@ For a complete list, click the following sortable link below:
 | **[HYPEBEAST](http://hypebeast.com)** | **[Junior Creative](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb542?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | May 21 |
 | **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - J.Crew Men's Sweaters](https://jobright.ai/jobs/info/69d6b730706f771673bad464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a0ec7c080bf0430c762ed19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 6379 HAMILTON BLVD,STE 7,ALLENTOWN,PA,18106 | On Site | May 21 |
+| **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[UI or UX Designer - Junior](https://jobright.ai/jobs/info/6a168bd51b2f6918b0e329cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON, Canada | Hybrid | May 20 |
+| ↳ | **[UI or UX Designer - Junior](https://jobright.ai/jobs/info/6a168bd51b2f6918b0e329cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON | Hybrid | May 20 |
 | **[AvroKO](http://avroko.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/6a0e87c4c152ac7824487399?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | May 20 |
-| **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[UI or UX Designer - Junior](https://jobright.ai/jobs/info/6a166fb21b2f6918b0e31d48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON, Canada | Hybrid | May 20 |
 | **[MSA Professional Services](http://msa-ps.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/6a0e6f8383d7144289818fd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN | Hybrid | May 20 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Engineer, UX,](https://jobright.ai/jobs/info/6a01c96f238f143e8352e006?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Skaneateles Falls, NY | Hybrid | May 20 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/6a0e67cc09ecfd704b3e8b2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | On Site | May 20 |
@@ -278,5 +279,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de37180bf0430c76270bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chula Vista, CA | On Site | May 20 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6a0de33e09ecfd704b3e3b74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Windsor, CO | On Site | May 20 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Creative Production Coordinator](https://jobright.ai/jobs/info/69d5a3d8cdb525785fbd2495?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 20 |
-| **[CultureFly](https://www.culturefly.com)** | **[Technical Illustrator - Toys & Collectibles](https://jobright.ai/jobs/info/6a0dd943beb4d73cb622bfc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
