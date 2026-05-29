@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NTT DATA North America](https://us.nttdata.com)** | **[UX Designer](https://jobright.ai/jobs/info/6a19310dc2a87d6cd3df7b55?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | May 28 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Jr. Designer (On-field Headwear)](https://jobright.ai/jobs/info/6a191779abc8f63abac7e9d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | May 28 |
 | ↳ | **[Jr. Designer (On-field Headwear)](https://jobright.ai/jobs/info/6a18f3e717492d3a389baefe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY, US | On Site | May 28 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - Exempt](https://jobright.ai/jobs/info/6a18f26fabc8f63abac7d669?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | May 28 |
@@ -76,26 +75,26 @@ For a complete list, click the following sortable link below:
 | **[Lennox AES](https://www.aescurb.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908e17492d3a389b7887?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908d17492d3a389b7886?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Tallassee | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908c17492d3a389b7885?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL, US | On Site | May 28 |
+| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908417492d3a389b787b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallassee, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908417492d3a389b787c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TX-Richardson | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908417492d3a389b787f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Auburn | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908417492d3a389b787e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Montgomery | On Site | May 28 |
-| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908417492d3a389b787b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallassee, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a18908317492d3a389b787a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richardson, TX, US | On Site | May 28 |
 | **[Lennox India Technology Centre](https://www.lennox.com/in/)** | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fe017492d3a389b7831?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TX-Richardson | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fe017492d3a389b7830?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Montgomery | On Site | May 28 |
-| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fdd17492d3a389b782c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Auburn | On Site | May 28 |
-| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fdd17492d3a389b782d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fdd17492d3a389b782e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Tallassee | On Site | May 28 |
+| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fdd17492d3a389b782d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL, US | On Site | May 28 |
+| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fdd17492d3a389b782c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Auburn | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fdb17492d3a389b782a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188fda17492d3a389b7829?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richardson, TX, US | On Site | May 28 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/6a188f6ec2a87d6cd3df28c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maryland Heights, MO | On Site | May 28 |
 | **[Lennox](http://www.lennox.com)** | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f16abc8f63abac79f50?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Montgomery | On Site | May 28 |
-| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f11abc8f63abac79f49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richardson, TX, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f11abc8f63abac79f4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-TX-Richardson | On Site | May 28 |
-| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f10abc8f63abac79f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallassee, AL, US | On Site | May 28 |
-| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f10abc8f63abac79f46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Auburn | On Site | May 28 |
+| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f11abc8f63abac79f49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richardson, TX, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f10abc8f63abac79f48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f10abc8f63abac79f47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL, US | On Site | May 28 |
+| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f10abc8f63abac79f46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Auburn | On Site | May 28 |
+| ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f10abc8f63abac79f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallassee, AL, US | On Site | May 28 |
 | ↳ | **[CAD Designer I](https://jobright.ai/jobs/info/6a188f0fabc8f63abac79f44?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Tallassee | On Site | May 28 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[ASSOCIATE DESIGNER - CHESWICK, PA](https://jobright.ai/jobs/info/69c40a9333eecf31079422d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cheswick, PA | On Site | May 28 |
 | **[BattleAxe Digital](https://battleaxedigital.com)** | **[Creative Associate / Web & Graphic Design](https://jobright.ai/jobs/info/6a188d02dbc80963f93453cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 28 |
@@ -204,54 +203,54 @@ For a complete list, click the following sortable link below:
 | **[NoGigiddy](https://www.nogigiddy.com)** | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f62a5b0a497d52106cee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, Texas, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f6289005d858e94f45c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, California, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f627d6a04f21602e1750?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tucson, Arizona, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f625f45c6530ce9a75d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, Minnesota, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f625d6a04f21602e174e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, Texas, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f625d6a04f21602e174f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, California, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f625f45c6530ce9a75d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, Minnesota, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f624f45c6530ce9a75d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, Texas, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f6245b0a497d52106ced?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, Georgia, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f622d6a04f21602e174d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, California, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f621f45c6530ce9a75d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, Washington, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f6201430333075ccbb02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, District of Columbia, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61f5b0a497d52106cec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, Nebraska, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61fd6a04f21602e174c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, Texas, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61fd6a04f21602e174b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, Virginia, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61fd6a04f21602e174c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, Texas, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61f5b0a497d52106cec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, Nebraska, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ed6a04f21602e1749?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, Arizona, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61e9005d858e94f45c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ed6a04f21602e174a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, North Carolina, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ef45c6530ce9a75cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61e1430333075ccbb01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, Colorado, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61dd6a04f21602e1746?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, California, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61dd6a04f21602e1748?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, Louisiana, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61e9005d858e94f45c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ef45c6530ce9a75cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61dd6a04f21602e1747?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, Tennessee, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61d1430333075ccbb00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, North Carolina, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61d9005d858e94f45c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, Florida, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61dd6a04f21602e1746?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, California, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61d1430333075ccbb00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, North Carolina, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61d1430333075ccbaff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, California, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61dd6a04f21602e1748?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, Louisiana, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61d1430333075ccbafe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, Missouri, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61cf45c6530ce9a75ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, Maryland, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61cd6a04f21602e1745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Ana, California, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61c1430333075ccbafd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, Texas, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61c5b0a497d52106ceb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, Colorado, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bd6a04f21602e1743?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, New Mexico, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61b9005d858e94f45c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, Illinois, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bf45c6530ce9a75cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, Hawaii, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61b9005d858e94f45bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corpus Christi, Texas, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61c1430333075ccbafd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, Texas, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61cd6a04f21602e1745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Ana, California, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61cf45c6530ce9a75ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, Maryland, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bf45c6530ce9a75ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, Nevada, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61b9005d858e94f45c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, Illinois, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bd6a04f21602e1743?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, New Mexico, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bf45c6530ce9a75cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, Oregon, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bd6a04f21602e1744?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bf45c6530ce9a75cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, Hawaii, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61bf45c6530ce9a75cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, Indiana, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ad6a04f21602e1741?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, Ohio, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61b9005d858e94f45bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corpus Christi, Texas, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61af45c6530ce9a75c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mesa, Arizona, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ad6a04f21602e1741?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, Ohio, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f61ad6a04f21602e1742?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, Texas, United States | Remote | May 27 |
+| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f6195b0a497d52106cea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f619d6a04f21602e1740?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, Wisconsin, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f619f45c6530ce9a75c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, Oklahoma, United States | Remote | May 27 |
-| ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f6195b0a497d52106cea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f619f45c6530ce9a75c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, Pennsylvania, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f618d6a04f21602e173f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, Tennessee, United States | Remote | May 27 |
 | ↳ | **[Brand Content Creator](https://jobright.ai/jobs/info/6a16f6189005d858e94f45bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | Remote | May 27 |
 | **[City of Orlando Careers](https://www.governmentjobs.com/careers/orlando)** | **[Assistant Sign Designer](https://jobright.ai/jobs/info/6a16f0f5d6a04f21602e1653?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sign & Signal Shop, US | On Site | May 27 |
 | ↳ | **[Assistant Sign Designer](https://jobright.ai/jobs/info/6a16f0f3d6a04f21602e1652?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando - FL, US | On Site | May 27 |
-| **[Equitable](https://equitable.com/)** | **[Team Member, Strategic Innovation Group (HYBRID)](https://jobright.ai/jobs/info/6a16edb79005d858e94f43cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNITED STATES-NC-Charlotte | Hybrid | May 27 |
-| ↳ | **[Team Member, Strategic Innovation Group (HYBRID)](https://jobright.ai/jobs/info/6a16edb79005d858e94f43cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNITED STATES-NY-New York | Hybrid | May 27 |
+| **[Equitable](https://equitable.com/)** | **[Team Member, Strategic Innovation Group (HYBRID)](https://jobright.ai/jobs/info/6a16edb79005d858e94f43cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNITED STATES-NY-New York | Hybrid | May 27 |
+| ↳ | **[Team Member, Strategic Innovation Group (HYBRID)](https://jobright.ai/jobs/info/6a16edb79005d858e94f43cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNITED STATES-NC-Charlotte | Hybrid | May 27 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Designer (Mission Critical)](https://jobright.ai/jobs/info/69de813d18cf504166e2d709?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 27 |
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short Term Graphic Designer](https://jobright.ai/jobs/info/6a16df01f45c6530ce9a6bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA, United States | Hybrid | May 27 |
 | **[University of the Arts London](https://www.arts.ac.uk/)** | **[Open Call: Graphic Designer - Saudi Market Experience](https://jobright.ai/jobs/info/6a16c26b554b0e12c058def5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | London | On Site | May 27 |
@@ -259,6 +258,7 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/6a16a961554b0e12c058d985?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 27 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/6a16a95e554b0e12c058d97f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver | Hybrid | May 27 |
 | **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/6a16a6301935fa61b3c72b0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | May 27 |
+| **[PMC - The Professional Monitor Company Ltd.](https://www.pmc-speakers.com)** | **[Junior Product Designer (Industrial & Mechanical)](https://jobright.ai/jobs/info/6a193401c2a87d6cd3df7d84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Luton, England, United Kingdom | Hybrid | May 26 |
 | **[WRT](http://wrtdesign.com)** | **[Landscape Designer Level I](https://jobright.ai/jobs/info/6a16783d1b2f6918b0e324a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-PA-Philadelphia | On Site | May 26 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Associate Interior Design Consultant](https://jobright.ai/jobs/info/6a1668d0202ae849ed8d2e0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milford, CT | On Site | May 26 |
 | **[Homebound](https://www.homebound.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6a165657dc845f4be5bdeb88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Petersburg, FL | Hybrid | May 26 |
@@ -359,12 +359,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Intuition](https://appliedintuition.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6a10878883d7144289826d68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, CA | On Site | May 22 |
 | **[HOK](http://www.hok.com/)** | **[Planning - Landscape Design Professional](https://jobright.ai/jobs/info/6966c3315ad3a93f8232195e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 22 |
 | **[TheSignChef.com](http://www.thesignchef.com)** | **[Sign Designer / Adobe Illustrator Expert - $1,000+ / Week](https://jobright.ai/jobs/info/6a1091f8619335383fb33882?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Charleston, SC | On Site | May 22 |
-| **[Kensa Creative](http://www.kensa-creative.com)** | **[Editorial Designer](https://jobright.ai/jobs/info/6a10e3069fdbf21f36cb14d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Telford, England, United Kingdom | On Site | May 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a107a2f619335383fb32c6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flagstaff, AZ | On Site | May 22 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6a1079eb83d714428982671d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Moorestown, New Jersey, United States | On Site | May 22 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/6a1079e683d714428982671c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Moorestown, New Jersey, United States of America | On Site | May 22 |
-| **[Wren Kitchens](http://www.wrenkitchens.com/)** | **[Mobile Designer](https://jobright.ai/jobs/info/69eb34170a6e095553044dca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | May 22 |
-| **[SE Group](https://segroup.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/6a10745583d714428982651f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | SLC Metro Area | On Site | May 22 |
-| **[Armstrong World Industries](https://www.armstrong.com)** | **[Arch Spec CAD Designer Job](https://jobright.ai/jobs/info/69a072c90836fe79d8616d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6a10f22b9fdbf21f36cb1a94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tomball, TX | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
